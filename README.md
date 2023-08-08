@@ -7,7 +7,7 @@
  - 動態爬蟲抓取 2023 科目排名
  - 條件:
    *  items_per_page=500 ( 500 筆資料數輸出，但有可能少於 500 筆 )
-   *  依照 2023_subject ，共計 54 學科，靜態抓取 nid  ( 2023 學科代碼區間，每年不一樣 )
+   *  依照 2023_subject ，共計 54 學科，靜態抓取 nid  ( 學科代碼區間，每年不一樣 )
 
 ## 爬蟲順序
  1. 至網路連結，以 Xpath 抓取當年學科名稱 ( 要是連結後綴的學科名稱 ) `/university-rankings/university-subject-rankings/2023/**mathematics**` [檔案link](https://github.com/choumienmien/QS_scrapy/blob/main/2023_subject.csv "link")
