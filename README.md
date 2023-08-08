@@ -11,7 +11,7 @@
 
 ## 爬蟲順序
  1. 至網路連結，以 Xpath 抓取當年學科名稱 ( 要是連結後綴的學科名稱 ) `/university-rankings/university-subject-rankings/2023/**mathematics**` [檔案link](https://github.com/choumienmien/QS_scrapy/blob/main/2023_subject.csv "link")
- 2. 學科名稱串連結，結果如:`https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/linguistics`
+ 2. 學科名稱串連結，結果如:`https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/mathematics`
  3. 抓取每個連接當中的 nid [檔案link](https://github.com/choumienmien/QS_scrapy/blob/main/nid.csv "link")
  4. 動態抓取每一學科的排名 [檔案link](https://github.com/choumienmien/QS_scrapy/blob/main/QS.csv "link")
 
