@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\QS_tw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\QS_tw_2022.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\nid.csv">
           <value>
             <Attribute>

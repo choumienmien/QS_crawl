@@ -17,9 +17,10 @@ import random
 # from fake_useragent import UserAgent
 
 class nidSpider:
-    def __init__(self):
-        self.url = 'https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/{}'  # 如要爬取其他年份要改掉 2023
+    def __init__(self,year):
+        self.url = 'https://www.topuniversities.com/university-rankings/university-subject-rankings/{}/{}'  # 如要爬取其他年份要改掉 2023
         self.f = open('nid.csv', 'w', newline='', encoding='gb18030')
+        self.year=year
         self.writer = csv.writer(self.f)
 
     def get_html(self, url):
@@ -45,7 +46,7 @@ class nidSpider:
 
     def crawl(self):
         # 程序入口函數：爬蟲主邏輯函數
-        regex = '<div id="block-tu-d8-content" class="block block-system block-system-main-block">.*?<article data-history-node-id="(.*?)" role="article" about="/university-rankings/university-subject-rankings/2023/(.*?)" class="node node--type-ranking-set-release node--view-mode-full clearfix">'
+        regex = '<div id="block-tu-d8-content" class="block block-system block-system-main-block">.*?<article data-history-node-id="(.*?)" role="article" about="/university-rankings/university-subject-rankings/{}/(.*?)" class="node node--type-ranking-set-release node--view-mode-full clearfix">'.format(self.year)
         fn = '2023_subject.csv'
         k = []
         with open(fn) as csvFile:  # 開啟檔案
@@ -56,7 +57,7 @@ class nidSpider:
 
         for sub in k:  # 每年 nid 編碼不一樣
             print('================{} will be start to crawl======================'.format(sub))
-            page_url = self.url.format(sub[0])
+            page_url = self.url.format(self.year,sub[0])
             html = self.get_html(url=page_url)
             self.get_data(regex, html)
             # 控制頻率
@@ -66,10 +67,12 @@ class nidSpider:
 
 
 class QSSpider:
-    def __init__(self):
-        self.url = 'https://www.topuniversities.com/rankings/endpoint?nid={}&page=0&items_per_page=500&tab=indicators?&tab=indicators&sort_by=rank&order_by=asc'  # 前 500 名
-        # self.url = 'https://www.topuniversities.com/rankings/endpoint?nid={}&page=0&items_per_page=500&tab=indicators?&tab=indicators&sort_by=rank&order_by=asc&countries=tw'
-        self.f = open('QS.csv', 'w', newline='', encoding='gb18030')
+    def __init__(self,year,filter):
+        # self.url = 'https://www.topuniversities.com/rankings/endpoint?nid={}&page=0&items_per_page=500&tab=indicators?&tab=indicators&sort_by=rank&order_by=asc'  # 前 500 名
+        self.url = 'https://www.topuniversities.com/rankings/endpoint?nid={}&page=0&items_per_page=500&tab=indicators?&tab=indicators&sort_by=rank&order_by=asc&countries={}'
+        # self.f = open('QS_world.csv', 'w', newline='', encoding='gb18030')
+        self.f = open('QS_{}_{}.csv'.format(filter,year), 'w', newline='', encoding='gb18030')
+        self.filter=filter
         self.writer = csv.writer(self.f)
         self.t = 0
 
@@ -98,10 +101,13 @@ class QSSpider:
             item['Employer Reputation_score'] = one_app_dict['scores'][1]['score']
             item['Citations per Paper_score'] = one_app_dict['scores'][2]['score']
             item['H-index Citations_score'] = one_app_dict['scores'][3]['score']
+            item['International Research Network_score'] = one_app_dict['scores'][3]['score'] # IRN只用於5大學科領域在國際合作研究網絡方面的實力
             item['Academic Reputation_rank'] = one_app_dict['scores'][0]['rank']
             item['Employer Reputation_rank'] = one_app_dict['scores'][1]['rank']
             item['Citations per Paper_rank'] = one_app_dict['scores'][2]['rank']
             item['H-index Citations_rank'] = one_app_dict['scores'][3]['rank']
+            item['International Research Network_rank'] = one_app_dict['scores'][3][
+                'rank']  # IRN只用於5大學科領域在國際合作研究網絡方面的實力
 
             # print(item)
             # exit()
@@ -132,7 +138,7 @@ class QSSpider:
         for i in nid_csv:  # 每年 nid 編碼不一樣
             # print('begin:', self.t)
             print('================{} will be start to crawl======================'.format(i[0]))
-            page_url = self.url.format(i[0])
+            page_url = self.url.format(i[0],self.filter)
             self.get_html(url=page_url, number=i[0], subject=i[1])
             # 控制數據抓取的頻率
             time.sleep(random.randint(1, 3))
@@ -143,7 +149,7 @@ class QSSpider:
 
 
 if __name__ == '__main__':
-    # spider_nid = nidSpider()
-    # spider_nid.crawl()
-    spider = QSSpider()
+    spider_nid = nidSpider(2022)
+    spider_nid.crawl() # 只要跑一遍即可，取的當年學科代碼 nid
+    spider = QSSpider(2022,'tw')
     spider.run()
