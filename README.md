@@ -10,7 +10,7 @@
    *  依照學科，靜態抓取 nid  ( 學科代碼區間，每年不一樣 )
 
 ## 爬蟲順序
- 1. 隨意點選一個依學科排名的網頁，如:[範例] (https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/mathematics' link)，要爬取 fliter 的所有學科選項 ( 英文 )
+ 1. 隨意點選一個依學科排名的網頁，如:[範例] (https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/mathematics "link")，要爬取 fliter 的所有學科選項 ( 英文 )
  2. 學科名稱串連結，結果如:`https://www.topuniversities.com/university-rankings/university-subject-rankings/2023/mathematics`
  3. 抓取每個連接當中的 nid
  4. 動態抓取每一學科的排名 
