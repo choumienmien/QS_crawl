@@ -13,13 +13,10 @@ import random
 import pymysql
 
 
-
-
 class subjectSpider:
     def __init__(self):
-        self.url = 'https://qsrankingsapi%40qs.com:QSadmin%40r1122@www.topuniversities.com/rankings/filter/endpoint?nid=3846221&tab='  # 隨便點一個 subject 進去取得網頁中，以利取得
         self.t = 0
-        self.db = pymysql.connect(host='localhost',user='root', password='Awe130', database='mydb', charset='utf8')
+        self.db = pymysql.connect(host='localhost', user='root', password='Awe130', database='mydb', charset='utf8')
         self.cur = self.db.cursor()
 
     def get_html(self, url):
@@ -45,19 +42,20 @@ class subjectSpider:
                 list_key.append(one_app_dict['url'])
         # print(list_key)
         # exit()
-        list_sub=[]
+        list_sub = []
         for i in list_key:
             arr = i.split('/')
-            list_sub.append((int(arr[-2]),str(arr[-1])))
-
+            list_sub.append((int(arr[-2]), str(arr[-1])))
 
         for r in list_sub:
             self.cur.execute(ins, r)
             # 千萬別忘提交到數據庫執行
             self.db.commit()
 
-    def run(self):
-        self.get_html(url=self.url)
+    def run(self, nid):
+        url = 'https://qsrankingsapi%40qs.com:QSadmin%40r1122@www.topuniversities.com/rankings/filter/endpoint?nid={}&tab='.format(
+            nid)  # 隨便點一個 subject 進去取得網頁中，以利取得
+        self.get_html(url)
         # 控制數據抓取的頻率
         time.sleep(random.randint(1, 3))
         # print('end:', self.t)
@@ -71,7 +69,7 @@ class nidSpider:
     def __init__(self, year):
         self.url = 'https://www.topuniversities.com/university-rankings/university-subject-rankings/{}/{}'  # 如要爬取其他年份要改掉 2023
         self.year = year
-        self.db = pymysql.connect(host='localhost',user='root', password='Awe130', database='mydb', charset='utf8')
+        self.db = pymysql.connect(host='localhost', user='root', password='Awe130', database='mydb', charset='utf8')
         self.cur = self.db.cursor()
 
     def get_html(self, url):
@@ -86,12 +84,12 @@ class nidSpider:
         # print(table_list)
         self.save_html(table_list)
 
-
     def save_html(self, table_list):
         """具體數據處理的函數"""
-        ins = 'insert into nid values(%s,%s)'
+        ins = 'insert into nid values(%s,%s,%s)'
         for table in table_list:
             item = {}
+            item["year"] = int(self.year)
             item["nid"] = int(table[0])
             item["subject"] = table[1]
             self.cur.execute(ins, list(item.values()))
@@ -103,7 +101,7 @@ class nidSpider:
         regex = '<div id="block-tu-d8-content" class="block block-system block-system-main-block">.*?<article data-history-node-id="(.*?)" role="article" about="/university-rankings/university-subject-rankings/{}/(.*?)" class="node node--type-ranking-set-release node--view-mode-full clearfix">'.format(
             self.year)
 
-        self.cur.execute('select * from subject')
+        self.cur.execute('select distinct * from subject where year={}'.format(self.year))
         data = self.cur.fetchall()
 
         for sub in data:  # 每年 nid 編碼不一樣
@@ -125,9 +123,9 @@ class QSSpider:
         # self.url = 'https://www.topuniversities.com/rankings/endpoint?nid={}&page=0&items_per_page=500&tab=indicators?&tab=indicators&sort_by=rank&order_by=asc'  # 前 500 名
         self.url = 'https://www.topuniversities.com/rankings/endpoint?nid={}&page=0&items_per_page=500&tab=indicators?&tab=indicators&sort_by=rank&order_by=asc&countries={}'
         self.filter = filter
-        self.year=year
+        self.year = year
         self.t = 0
-        self.db = pymysql.connect(host='localhost',user='root', password='Awe130', database='mydb', charset='utf8')
+        self.db = pymysql.connect(host='localhost', user='root', password='Awe130', database='mydb', charset='utf8')
         self.cur = self.db.cursor()
 
     def get_html(self, url, number, subject):
@@ -166,19 +164,18 @@ class QSSpider:
             # 千萬別忘提交到數據庫執行
             self.db.commit()
 
-
     def run(self):
-        self.cur.execute('select * from nid')
+        self.cur.execute('select * from nid where year={}'.format(self.year))
         data = self.cur.fetchall()
         # print(data)
         # exit()
         for i in data:  # 每年 nid 編碼不一樣
             # print('begin:', self.t)
-            print('================{} will be start to crawl======================'.format(i[0]))
-            page_url = self.url.format(i[0], self.filter)
+            print('================{} will be start to crawl======================'.format(i[1]))
+            page_url = self.url.format(i[1], self.filter)
             # print(page_url)
             # exit()
-            self.get_html(url=page_url, number=i[0], subject=i[1])
+            self.get_html(url=page_url, number=i[1], subject=i[2])
             # 控制數據抓取的頻率
             time.sleep(random.randint(1, 3))
             # print('end:', self.t)
@@ -186,10 +183,10 @@ class QSSpider:
         print('=========finish crawl=========', 'len_subject:', len(data))
 
 
-if __name__ == '__main__':
-    # spider_sub = subjectSpider()
-    # spider_sub.run()  # 只要跑一遍即可，取的當年學科連結名稱
-    # spider_nid = nidSpider(2023)
-    # spider_nid.crawl() # 只要跑一遍即可，取的當年學科代碼 nid
-    spider = QSSpider(2023,'tw')
+if __name__ == '__main__':  # 只能跑一遍即可即可註釋調 ( 否則會重複資料，無法去重 )
+    spider_sub = subjectSpider()
+    spider_sub.run(3794845)  # 取的當年學科連結名稱，隨便找一個學科的 nid 來用
+    spider_nid = nidSpider(2022)
+    spider_nid.crawl()
+    spider = QSSpider(2022, 'tw')
     spider.run()
