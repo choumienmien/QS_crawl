@@ -1,6 +1,7 @@
 # QS_scrapy
  
-## QS World University Rankings by Subject 2023
+## QS World University Rankings by Subject
+目前連結為 2023 學科排名
 [網路連結](https://www.topuniversities.com/subject-rankings/2023?qs_qp=topnav "link")
 
 ## 說明
