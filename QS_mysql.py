@@ -152,13 +152,13 @@ class QSSpider:
             item['Employer Reputation_score'] = one_app_dict['scores'][1]['score']
             item['Citations per Paper_score'] = one_app_dict['scores'][2]['score']
             item['H-index Citations_score'] = one_app_dict['scores'][3]['score']
-            item['International Research Network_score'] = one_app_dict['scores'][3][
+            item['International Research Network_score'] = one_app_dict['scores'][4][
                 'score']  # IRN只用於5大學科領域在國際合作研究網絡方面的實力
             item['Academic Reputation_rank'] = one_app_dict['scores'][0]['rank']
             item['Employer Reputation_rank'] = one_app_dict['scores'][1]['rank']
             item['Citations per Paper_rank'] = one_app_dict['scores'][2]['rank']
             item['H-index Citations_rank'] = one_app_dict['scores'][3]['rank']
-            item['International Research Network_rank'] = one_app_dict['scores'][3][
+            item['International Research Network_rank'] = one_app_dict['scores'][4][
                 'rank']  # IRN只用於5大學科領域在國際合作研究網絡方面的實力
             self.cur.execute(ins, list(item.values()))
             # 千萬別忘提交到數據庫執行

@@ -1,0 +1,28 @@
+year,university_nid,country,university,rank,overall_score,Academic Reputation_score,Employer Reputation_score,Faculty Student Ratio_score,Citations per Faculty_score,International Faculty Ratio_score,International Students Ratio_score,International Research Network_score,Employment Outcomes_score,Sustainability_score
+2024,294804,Taiwan,National Taiwan University (NTU),69,67.9,92.8,91.3,30.9,47,17.7,20,33.2,99.7,95.6
+2024,3740459,Taiwan,National Yang Ming Chiao Tung University,217,43.3,33.3,67.9,53.9,52.1,19,18.5,4.4,44.6,54.3
+2024,294814,Taiwan,National Cheng Kung University (NCKU),228,41.8,49.4,75.6,32.9,21.2,23.7,15.7,10.9,30.2,78.2
+2024,294800,Taiwan,National Tsing Hua University,234,41.3,53.1,67.7,28.3,38.3,16.8,20.1,6.7,15.9,30.5
+2024,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),391,28.3,27.1,37.8,43.6,27,17.5,31.1,1.9,18.5,26.6
+2024,294963,Taiwan,National Taipei University of Technology,434,26.2,15,57.7,27,34.3,21.1,18.2,1.3,17.3,12.6
+2024,294806,Taiwan,National Taiwan Normal University,435,26.2,34.5,20.8,65.4,5.9,14.5,26.7,1.5,14.7,43.2
+2024,294807,Taiwan,National Sun Yat-sen University,508,23,26.5,24.4,29.5,25.2,23.8,10.3,2.5,12.1,20.9
+2024,294811,Taiwan,National Chengchi University,569,20.8,19.5,39,19.7,2.7,27.1,23.5,1,81,1.9
+2024,295098,Taiwan,Taipei Medical University (TMU),579,20.5,10.3,15.4,91.1,17.9,15.1,15.6,1.3,9.9,9
+2024,294816,Taiwan,National Central University,616,n/a,21.5,27.1,23,17.8,12.9,9.1,2.1,6.5,30.2
+2024,294682,Taiwan,Chang Gung University,621,n/a,5.7,4.6,70,43,4.3,4.7,1.4,7.9,4.1
+2024,294808,Taiwan,National Chung Hsing University,668,n/a,20.2,24.1,27.6,11.8,7.9,5.6,2.2,20.4,20.1
+2024,294450,Taiwan,Asia University Taiwan,908,n/a,5.9,1.8,3.3,38.7,9.5,3.5,12,7.9,2.3
+2024,294692,Taiwan,National Chung Cheng University,919,n/a,13,26.2,18.2,5.2,4.5,3.9,1.1,4.2,8.3
+2024,919381,Taiwan,Chang Jung Christian University,1026,n/a,6.3,2.5,44.5,1.6,6.4,5.4,1,7.9,1.1
+2024,294966,Taiwan,Chung Yuan Christian University,1027,n/a,5.8,5.2,4.4,15.1,4.4,7.2,1,19.2,3.2
+2024,295258,Taiwan,Chaoyang University of Technology ,1224,n/a,5.6,6.7,4.2,3.5,6.7,5.7,1,7.9,3.3
+2024,294650,Taiwan,Feng Chia University,1235,n/a,10,7.5,4.5,6,3.9,5.8,1,14.4,1.1
+2024,294370,Taiwan,Fu Jen Catholic University,1237,n/a,7.3,7.5,4.3,6.8,7.9,7.4,1,21.8,1.5
+2024,294961,Taiwan,National Dong Hwa University,1272,n/a,6.3,2.3,6.5,6.4,3.2,10.2,1,7.6,2.3
+2024,294378,Taiwan,National Taipei University,1274,n/a,7.5,4.5,8.2,3.2,2.7,5.2,1,16.1,3.1
+2024,294960,Taiwan,National Taiwan Ocean University,1275,n/a,5.7,3.2,11.6,10.1,5.6,7.7,1.1,8.6,5.6
+2024,294958,Taiwan,Tamkang University,1308,n/a,5.7,5.5,3.6,5.6,8.4,7.4,1.1,20.9,4.9
+2024,294959,Taiwan,Tunghai University,1319,n/a,6.2,6.1,5.2,4.5,10.2,9.3,1.1,12.6,3.9
+2024,294697,False,Yuan Ze University,1411,n/a,5.4,5.4,7.4,10.6,7,9.6,1,7.9,1
+2024,294965,Taiwan,Soochow University (Taiwan),1437,n/a,4.7,6,4.3,1.8,4,4,1,8.3,2.2

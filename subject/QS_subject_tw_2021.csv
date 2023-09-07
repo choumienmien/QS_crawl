@@ -1,0 +1,259 @@
+year,subject_nid,subject,university_nid,country,university,rank,overall_score,H-index Citations_score,Citations per Paper_score,Academic Reputation_score,Employer Reputation_score
+2021,3518694,arts-humanities,294804,Taiwan,National Taiwan University (NTU),85,75.4,22.8,81.4,83,75.8
+2021,3518694,arts-humanities,294806,Taiwan,National Taiwan Normal University,204,67.7,22.8,81.4,74.9,61.9
+2021,3518694,arts-humanities,294800,Taiwan,National Tsing Hua University,267,65,22.8,61,71,70.1
+2021,3518694,arts-humanities,294811,Taiwan,National Chengchi University,279,64.5,22.8,69.9,70.7,63.8
+2021,3518694,arts-humanities,294814,Taiwan,National Cheng Kung University (NCKU),296,63.7,22.8,73.5,67.4,67.9
+2021,3518694,arts-humanities,294810,Taiwan,National Chiao Tung University,351,61.7,36.1,67.5,63.1,67.2
+2021,3518694,arts-humanities,294807,Taiwan,National Sun Yat-sen University,369,61,22.8,75.9,65.2,59.8
+2021,3518694,arts-humanities,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),472,n/a,n/a,n/a,n/a,64
+2021,3518640,engineering-technology,294804,Taiwan,National Taiwan University (NTU),41,80.6,79.6,84.2,82.1,77.3
+2021,3518640,engineering-technology,294800,Taiwan,National Tsing Hua University,89,76.6,74.2,85.1,76.9,73.1
+2021,3518640,engineering-technology,294810,Taiwan,National Chiao Tung University,139,72.7,73.5,78.8,71.9,70.3
+2021,3518640,engineering-technology,294963,Taiwan,National Taipei University of Technology,144,72.1,66.6,80.2,73.2,69.4
+2021,3518640,engineering-technology,294814,Taiwan,National Cheng Kung University (NCKU),159,71.3,69.4,79.8,71.3,68
+2021,3518640,engineering-technology,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),167,70.9,70.3,83.3,72,63.5
+2021,3518640,engineering-technology,294816,Taiwan,National Central University,322,64.3,63.6,78.3,63.6,58.7
+2021,3518640,engineering-technology,294807,Taiwan,National Sun Yat-sen University,335,63.8,63.6,79.4,60.9,59.8
+2021,3518640,engineering-technology,294808,Taiwan,National Chung Hsing University,415,n/a,n/a,n/a,n/a,n/a
+2021,3518596,life-sciences-medicine,294804,Taiwan,National Taiwan University (NTU),81,77.5,67.7,79.8,82.1,77.8
+2021,3518596,life-sciences-medicine,294795,Taiwan,National Yang Ming University,198,68.8,54.6,77.6,72.6,67.2
+2021,3518596,life-sciences-medicine,295098,Taiwan,Taipei Medical University (TMU),200,68.7,51.3,70.7,76.9,73.9
+2021,3518596,life-sciences-medicine,293781,Taiwan,China Medical University ,249,66.2,53.5,76.5,70.4,55.5
+2021,3518596,life-sciences-medicine,294814,Taiwan,National Cheng Kung University (NCKU),295,63.6,45.5,67.3,71.5,68
+2021,3518596,life-sciences-medicine,294682,Taiwan,Chang Gung University,339,61.5,50.1,74.4,63.5,50.1
+2021,3518596,life-sciences-medicine,295787,Taiwan,Kaohsiung Medical University,388,58.4,40.2,61.7,67.2,60.6
+2021,3518596,life-sciences-medicine,294800,Taiwan,National Tsing Hua University,421,n/a,n/a,n/a,69.8,71.7
+2021,3518596,life-sciences-medicine,294808,Taiwan,National Chung Hsing University,467,n/a,n/a,n/a,65.2,n/a
+2021,3518540,natural-sciences,294804,Taiwan,National Taiwan University (NTU),62,80.3,79.2,87.2,79.7,75.7
+2021,3518540,natural-sciences,294800,Taiwan,National Tsing Hua University,119,76,74.2,85.5,73.9,72.5
+2021,3518540,natural-sciences,294810,Taiwan,National Chiao Tung University,282,67.3,58.8,78.4,66,67.5
+2021,3518540,natural-sciences,294816,Taiwan,National Central University,292,67.1,71.4,77.4,64.7,57.4
+2021,3518540,natural-sciences,294814,Taiwan,National Cheng Kung University (NCKU),299,66.8,56.9,78.6,65.3,67.8
+2021,3518540,natural-sciences,294807,Taiwan,National Sun Yat-sen University,419,n/a,n/a,n/a,63.3,61.2
+2021,3518490,social-sciences-management,294804,Taiwan,National Taiwan University (NTU),69,76.4,65.4,86,77.1,75.6
+2021,3518490,social-sciences-management,294811,Taiwan,National Chengchi University,219,68.2,62.5,80.7,71.4,60.7
+2021,3518490,social-sciences-management,294814,Taiwan,National Cheng Kung University (NCKU),234,67.8,66.7,87.9,65.5,65.2
+2021,3518490,social-sciences-management,294800,Taiwan,National Tsing Hua University,271,66.3,53.2,75.5,65.3,69.1
+2021,3518490,social-sciences-management,294810,Taiwan,National Chiao Tung University,277,66.1,59.2,78.8,64.8,66.3
+2021,3518490,social-sciences-management,294806,Taiwan,National Taiwan Normal University,335,64.2,62.5,81.6,66.8,54.5
+2021,3518490,social-sciences-management,294807,Taiwan,National Sun Yat-sen University,349,64,64,82.5,64,57.9
+2021,3518490,social-sciences-management,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),361,63.7,66.7,87.9,60.6,59.9
+2021,3518490,social-sciences-management,294816,Taiwan,National Central University,470,n/a,n/a,n/a,n/a,n/a
+2021,3518490,social-sciences-management,294963,Taiwan,National Taipei University of Technology,509,n/a,n/a,n/a,n/a,68.1
+2021,3514733,accounting-finance,294804,Taiwan,National Taiwan University (NTU),61,72.6,74.4,82.9,68.9,74.6
+2021,3514733,accounting-finance,294814,Taiwan,National Cheng Kung University (NCKU),167,n/a,n/a,n/a,n/a,n/a
+2021,3514733,accounting-finance,294811,Taiwan,National Chengchi University,168,n/a,n/a,n/a,n/a,n/a
+2021,3514733,accounting-finance,294810,Taiwan,National Chiao Tung University,219,n/a,n/a,n/a,n/a,n/a
+2021,3514733,accounting-finance,294800,Taiwan,National Tsing Hua University,220,n/a,n/a,n/a,n/a,n/a
+2021,3514733,accounting-finance,294807,Taiwan,National Sun Yat-sen University,267,n/a,n/a,n/a,n/a,n/a
+2021,3514837,agriculture-forestry,294808,Taiwan,National Chung Hsing University,111,n/a,n/a,n/a,58.4,n/a
+2021,3514837,agriculture-forestry,294804,Taiwan,National Taiwan University (NTU),112,n/a,n/a,n/a,n/a,n/a
+2021,3514837,agriculture-forestry,294807,Taiwan,National Sun Yat-sen University,316,n/a,n/a,n/a,n/a,n/a
+2021,3514837,agriculture-forestry,294800,Taiwan,National Tsing Hua University,317,n/a,n/a,n/a,n/a,n/a
+2021,3515167,anatomy-physiology,293781,Taiwan,China Medical University ,54,n/a,n/a,n/a,78.9,n/a
+2021,3515167,anatomy-physiology,294804,Taiwan,National Taiwan University (NTU),65,n/a,n/a,n/a,80.8,n/a
+2021,3515218,anthropology,294804,Taiwan,National Taiwan University (NTU),105,n/a,n/a,n/a,n/a,n/a
+2021,3515310,architecture-built-environment,294814,Taiwan,National Cheng Kung University (NCKU),109,n/a,n/a,89.5,n/a,n/a
+2021,3515310,architecture-built-environment,294963,Taiwan,National Taipei University of Technology,171,n/a,n/a,n/a,n/a,n/a
+2021,3515310,architecture-built-environment,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),209,n/a,n/a,n/a,n/a,n/a
+2021,3515371,art-design,294814,Taiwan,National Cheng Kung University (NCKU),115,n/a,,,n/a,n/a
+2021,3515371,art-design,294804,Taiwan,National Taiwan University (NTU),119,n/a,,,n/a,n/a
+2021,3515371,art-design,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),120,n/a,,,n/a,n/a
+2021,3515371,art-design,294050,Taiwan,Shih Chien University,130,n/a,,,n/a,n/a
+2021,3515371,art-design,294806,Taiwan,National Taiwan Normal University,167,n/a,,,n/a,n/a
+2021,3515446,biological-sciences,294804,Taiwan,National Taiwan University (NTU),79,76.3,74.6,82.1,73.9,75.5
+2021,3515446,biological-sciences,294800,Taiwan,National Tsing Hua University,162,n/a,n/a,n/a,65.4,70.8
+2021,3515446,biological-sciences,294814,Taiwan,National Cheng Kung University (NCKU),214,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,294795,Taiwan,National Yang Ming University,265,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,294810,Taiwan,National Chiao Tung University,325,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,294808,Taiwan,National Chung Hsing University,326,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,295098,Taiwan,Taipei Medical University (TMU),329,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,293781,Taiwan,China Medical University ,355,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,294682,Taiwan,Chang Gung University,410,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,295787,Taiwan,Kaohsiung Medical University,424,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,294807,Taiwan,National Sun Yat-sen University,518,n/a,n/a,n/a,n/a,n/a
+2021,3515446,biological-sciences,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),519,n/a,n/a,n/a,n/a,n/a
+2021,3515511,business-management-studies,294804,Taiwan,National Taiwan University (NTU),92,71,79.9,75.8,66.6,73.9
+2021,3515511,business-management-studies,294814,Taiwan,National Cheng Kung University (NCKU),172,n/a,n/a,n/a,n/a,n/a
+2021,3515511,business-management-studies,294811,Taiwan,National Chengchi University,173,n/a,n/a,n/a,n/a,n/a
+2021,3515511,business-management-studies,294800,Taiwan,National Tsing Hua University,174,n/a,n/a,n/a,n/a,n/a
+2021,3515511,business-management-studies,294810,Taiwan,National Chiao Tung University,214,n/a,n/a,n/a,n/a,n/a
+2021,3515511,business-management-studies,294807,Taiwan,National Sun Yat-sen University,215,n/a,n/a,83.1,n/a,n/a
+2021,3515511,business-management-studies,294963,Taiwan,National Taipei University of Technology,216,n/a,n/a,n/a,n/a,67.2
+2021,3515511,business-management-studies,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),275,n/a,n/a,83.4,n/a,n/a
+2021,3515511,business-management-studies,294816,Taiwan,National Central University,368,n/a,n/a,n/a,n/a,n/a
+2021,3515511,business-management-studies,294806,Taiwan,National Taiwan Normal University,469,n/a,n/a,n/a,n/a,n/a
+2021,3515593,chemistry,294804,Taiwan,National Taiwan University (NTU),54,77.9,74.6,86,75.8,77.3
+2021,3515593,chemistry,294800,Taiwan,National Tsing Hua University,97,73.2,71,85.7,68.2,73.1
+2021,3515593,chemistry,294810,Taiwan,National Chiao Tung University,216,n/a,n/a,n/a,n/a,n/a
+2021,3515593,chemistry,294814,Taiwan,National Cheng Kung University (NCKU),267,n/a,n/a,n/a,n/a,69.7
+2021,3515593,chemistry,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),268,n/a,n/a,n/a,n/a,n/a
+2021,3515593,chemistry,294808,Taiwan,National Chung Hsing University,363,n/a,n/a,n/a,n/a,n/a
+2021,3515593,chemistry,294807,Taiwan,National Sun Yat-sen University,364,n/a,n/a,n/a,n/a,n/a
+2021,3515593,chemistry,294806,Taiwan,National Taiwan Normal University,365,n/a,n/a,n/a,n/a,n/a
+2021,3515593,chemistry,294816,Taiwan,National Central University,476,n/a,n/a,n/a,n/a,n/a
+2021,3515593,chemistry,295787,Taiwan,Kaohsiung Medical University,516,n/a,n/a,n/a,n/a,n/a
+2021,3515859,classics-ancient-history,294804,Taiwan,National Taiwan University (NTU),37,77.3,,,79,61.7
+2021,3515859,classics-ancient-history,294811,Taiwan,National Chengchi University,56,n/a,,,n/a,n/a
+2021,3515949,communication-media-studies,294811,Taiwan,National Chengchi University,115,n/a,n/a,n/a,n/a,n/a
+2021,3515949,communication-media-studies,294804,Taiwan,National Taiwan University (NTU),116,n/a,n/a,n/a,n/a,81.3
+2021,3516175,computer-science-information-systems,294804,Taiwan,National Taiwan University (NTU),63,72.8,78,76,65.7,78.1
+2021,3516175,computer-science-information-systems,294800,Taiwan,National Tsing Hua University,109,67.8,74.1,75.2,57.7,74.3
+2021,3516175,computer-science-information-systems,294810,Taiwan,National Chiao Tung University,129,66.6,76.6,74.3,55.2,73.1
+2021,3516175,computer-science-information-systems,294814,Taiwan,National Cheng Kung University (NCKU),164,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),166,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,294963,Taiwan,National Taipei University of Technology,266,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,294816,Taiwan,National Central University,322,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,294807,Taiwan,National Sun Yat-sen University,323,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,294811,Taiwan,National Chengchi University,422,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,294806,Taiwan,National Taiwan Normal University,423,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,294808,Taiwan,National Chung Hsing University,518,n/a,n/a,n/a,n/a,n/a
+2021,3516175,computer-science-information-systems,294692,Taiwan,National Chung Cheng University,569,n/a,n/a,n/a,n/a,n/a
+2021,3516273,development-studies,294804,Taiwan,National Taiwan University (NTU),63,n/a,n/a,n/a,n/a,87.6
+2021,3516441,earth-marine-sciences,294804,Taiwan,National Taiwan University (NTU),65,n/a,n/a,n/a,n/a,n/a
+2021,3517143,economics-econometrics,294804,Taiwan,National Taiwan University (NTU),83,69.9,63.9,75.5,67.7,74.7
+2021,3517143,economics-econometrics,294814,Taiwan,National Cheng Kung University (NCKU),271,n/a,n/a,n/a,n/a,n/a
+2021,3517143,economics-econometrics,294811,Taiwan,National Chengchi University,272,n/a,n/a,n/a,n/a,n/a
+2021,3517143,economics-econometrics,294807,Taiwan,National Sun Yat-sen University,273,n/a,n/a,n/a,n/a,n/a
+2021,3517143,economics-econometrics,294800,Taiwan,National Tsing Hua University,274,n/a,n/a,n/a,n/a,68.6
+2021,3517143,economics-econometrics,294816,Taiwan,National Central University,422,n/a,n/a,n/a,n/a,n/a
+2021,3517143,economics-econometrics,294650,Taiwan,Feng Chia University,460,n/a,n/a,n/a,n/a,n/a
+2021,3517537,education-training,294806,Taiwan,National Taiwan Normal University,28,78.2,85.3,85.7,73.2,73.8
+2021,3517537,education-training,294804,Taiwan,National Taiwan University (NTU),99,69.6,70.9,77.5,64.8,75.5
+2021,3517537,education-training,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),114,n/a,85.6,94.4,n/a,n/a
+2021,3517537,education-training,294807,Taiwan,National Sun Yat-sen University,211,n/a,n/a,n/a,n/a,n/a
+2021,3517537,education-training,294814,Taiwan,National Cheng Kung University (NCKU),266,n/a,n/a,n/a,n/a,n/a
+2021,3517537,education-training,294811,Taiwan,National Chengchi University,267,n/a,n/a,n/a,n/a,n/a
+2021,3517537,education-training,294810,Taiwan,National Chiao Tung University,268,n/a,n/a,n/a,n/a,n/a
+2021,3517537,education-training,294800,Taiwan,National Tsing Hua University,315,n/a,n/a,n/a,n/a,n/a
+2021,3517597,engineering-chemical,294804,Taiwan,National Taiwan University (NTU),66,72.3,71.4,78,68.7,74.6
+2021,3517597,engineering-chemical,294800,Taiwan,National Tsing Hua University,94,69.3,67.4,82.2,61.9,73.5
+2021,3517597,engineering-chemical,294814,Taiwan,National Cheng Kung University (NCKU),117,n/a,n/a,n/a,n/a,n/a
+2021,3517597,engineering-chemical,294963,Taiwan,National Taipei University of Technology,118,n/a,n/a,n/a,68.2,n/a
+2021,3517597,engineering-chemical,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),167,n/a,n/a,n/a,n/a,n/a
+2021,3517597,engineering-chemical,294810,Taiwan,National Chiao Tung University,217,n/a,n/a,n/a,n/a,n/a
+2021,3517597,engineering-chemical,294816,Taiwan,National Central University,262,n/a,n/a,n/a,n/a,n/a
+2021,3517597,engineering-chemical,294808,Taiwan,National Chung Hsing University,321,n/a,n/a,n/a,n/a,n/a
+2021,3517597,engineering-chemical,294807,Taiwan,National Sun Yat-sen University,322,n/a,n/a,n/a,n/a,n/a
+2021,3517839,engineering-civil-structural,294804,Taiwan,National Taiwan University (NTU),44,78.6,82.3,86.1,80.1,70.9
+2021,3517839,engineering-civil-structural,294814,Taiwan,National Cheng Kung University (NCKU),119,n/a,n/a,n/a,n/a,n/a
+2021,3517839,engineering-civil-structural,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),168,n/a,n/a,n/a,n/a,n/a
+2021,3517936,engineering-electrical-electronic,294804,Taiwan,National Taiwan University (NTU),52,74.2,69,75.9,73.3,77
+2021,3517936,engineering-electrical-electronic,294800,Taiwan,National Tsing Hua University,100,68.4,65.3,73.5,62.8,74.9
+2021,3517936,engineering-electrical-electronic,294810,Taiwan,National Chiao Tung University,118,66.9,67.9,70.1,61.2,72.4
+2021,3517936,engineering-electrical-electronic,294814,Taiwan,National Cheng Kung University (NCKU),141,64.7,69.7,78.5,55.2,67.9
+2021,3517936,engineering-electrical-electronic,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),149,64.2,67.2,80.5,56.9,64.2
+2021,3517936,engineering-electrical-electronic,294963,Taiwan,National Taipei University of Technology,168,n/a,n/a,n/a,56.8,n/a
+2021,3517936,engineering-electrical-electronic,294816,Taiwan,National Central University,271,n/a,n/a,n/a,n/a,n/a
+2021,3517936,engineering-electrical-electronic,294807,Taiwan,National Sun Yat-sen University,272,n/a,n/a,n/a,n/a,n/a
+2021,3517936,engineering-electrical-electronic,294692,Taiwan,National Chung Cheng University,417,n/a,n/a,n/a,n/a,n/a
+2021,3517936,engineering-electrical-electronic,294808,Taiwan,National Chung Hsing University,418,n/a,n/a,n/a,n/a,n/a
+2021,3517936,engineering-electrical-electronic,294806,Taiwan,National Taiwan Normal University,470,n/a,n/a,n/a,n/a,n/a
+2021,3518095,engineering-mechanical,294804,Taiwan,National Taiwan University (NTU),64,70.5,69.8,80.9,65.1,73
+2021,3518095,engineering-mechanical,294800,Taiwan,National Tsing Hua University,90,68.2,71.4,82,60.1,70.4
+2021,3518095,engineering-mechanical,294814,Taiwan,National Cheng Kung University (NCKU),138,63.4,64.2,73.8,57.8,65.3
+2021,3518095,engineering-mechanical,294963,Taiwan,National Taipei University of Technology,166,n/a,n/a,n/a,n/a,n/a
+2021,3518095,engineering-mechanical,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),167,n/a,n/a,n/a,n/a,n/a
+2021,3518095,engineering-mechanical,294810,Taiwan,National Chiao Tung University,221,n/a,n/a,n/a,n/a,n/a
+2021,3518095,engineering-mechanical,294816,Taiwan,National Central University,316,n/a,n/a,n/a,n/a,n/a
+2021,3518095,engineering-mechanical,294807,Taiwan,National Sun Yat-sen University,317,n/a,n/a,n/a,n/a,n/a
+2021,3518095,engineering-mechanical,294808,Taiwan,National Chung Hsing University,421,n/a,n/a,n/a,n/a,n/a
+2021,3518442,engineering-petroleum,294807,Taiwan,National Sun Yat-sen University,69,n/a,n/a,n/a,n/a,n/a
+2021,3518178,english-language-literature,294804,Taiwan,National Taiwan University (NTU),88,71,,44.8,73.4,77.9
+2021,3518178,english-language-literature,294807,Taiwan,National Sun Yat-sen University,218,n/a,,n/a,n/a,n/a
+2021,3518178,english-language-literature,294806,Taiwan,National Taiwan Normal University,219,n/a,,n/a,n/a,n/a
+2021,3518178,english-language-literature,294810,Taiwan,National Chiao Tung University,270,n/a,,n/a,n/a,n/a
+2021,3518325,environmental-sciences,294804,Taiwan,National Taiwan University (NTU),63,82.6,84.9,87.1,80.3,74.9
+2021,3518325,environmental-sciences,294814,Taiwan,National Cheng Kung University (NCKU),215,n/a,n/a,n/a,n/a,n/a
+2021,3518325,environmental-sciences,294816,Taiwan,National Central University,365,n/a,n/a,n/a,n/a,n/a
+2021,3518325,environmental-sciences,294963,Taiwan,National Taipei University of Technology,366,n/a,n/a,n/a,n/a,n/a
+2021,3518325,environmental-sciences,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),367,n/a,n/a,n/a,n/a,n/a
+2021,3518325,environmental-sciences,294800,Taiwan,National Tsing Hua University,368,n/a,n/a,n/a,n/a,n/a
+2021,3518325,environmental-sciences,294810,Taiwan,National Chiao Tung University,418,n/a,n/a,n/a,n/a,n/a
+2021,3518454,geography,294804,Taiwan,National Taiwan University (NTU),63,n/a,n/a,n/a,77.6,79.9
+2021,3518362,geology,294804,Taiwan,National Taiwan University (NTU),65,n/a,n/a,n/a,n/a,n/a
+2021,3518197,geophysics,294804,Taiwan,National Taiwan University (NTU),117,n/a,n/a,n/a,n/a,n/a
+2021,3518849,history,294804,Taiwan,National Taiwan University (NTU),112,n/a,n/a,n/a,n/a,n/a
+2021,3519124,hospitality-leisure-management,893100,Taiwan,National Kaohsiung University of Hospitality and Tourism (NKUHT),51,52.3,,62.1,60.1,44.2
+2021,3519179,law-legal-studies,294804,Taiwan,National Taiwan University (NTU),74,70.9,50.9,57.4,76.4,74.1
+2021,3519179,law-legal-studies,294810,Taiwan,National Chiao Tung University,166,n/a,n/a,n/a,n/a,n/a
+2021,3519179,law-legal-studies,294811,Taiwan,National Chengchi University,267,n/a,n/a,n/a,n/a,n/a
+2021,3519179,law-legal-studies,294800,Taiwan,National Tsing Hua University,268,n/a,n/a,n/a,n/a,n/a
+2021,3519358,linguistics,294804,Taiwan,National Taiwan University (NTU),48,73,55,76.4,73.3,78
+2021,3519358,linguistics,294806,Taiwan,National Taiwan Normal University,53,72,69.7,76,72.2,69.8
+2021,3519358,linguistics,294800,Taiwan,National Tsing Hua University,82,67.3,58.1,71.6,67.3,69.4
+2021,3519358,linguistics,294810,Taiwan,National Chiao Tung University,165,n/a,n/a,n/a,n/a,n/a
+2021,3519358,linguistics,294692,Taiwan,National Chung Cheng University,166,n/a,n/a,n/a,n/a,n/a
+2021,3519358,linguistics,294811,Taiwan,National Chengchi University,219,n/a,n/a,n/a,n/a,72.2
+2021,3519358,linguistics,294814,Taiwan,National Cheng Kung University (NCKU),267,n/a,n/a,n/a,n/a,n/a
+2021,3519482,materials-sciences,294804,Taiwan,National Taiwan University (NTU),56,72.8,74.2,79.1,67.3,75.4
+2021,3519482,materials-sciences,294800,Taiwan,National Tsing Hua University,58,72.6,70,81.6,67.8,76.2
+2021,3519482,materials-sciences,294963,Taiwan,National Taipei University of Technology,121,n/a,n/a,n/a,n/a,80
+2021,3519482,materials-sciences,294814,Taiwan,National Cheng Kung University (NCKU),164,n/a,n/a,n/a,n/a,n/a
+2021,3519482,materials-sciences,294810,Taiwan,National Chiao Tung University,165,n/a,n/a,n/a,n/a,n/a
+2021,3519482,materials-sciences,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),166,n/a,n/a,n/a,n/a,n/a
+2021,3519482,materials-sciences,294816,Taiwan,National Central University,265,n/a,n/a,n/a,n/a,n/a
+2021,3519482,materials-sciences,294808,Taiwan,National Chung Hsing University,266,n/a,n/a,n/a,n/a,n/a
+2021,3519482,materials-sciences,294807,Taiwan,National Sun Yat-sen University,267,n/a,n/a,n/a,n/a,n/a
+2021,3519417,mathematics,294804,Taiwan,National Taiwan University (NTU),67,76.2,73.8,72.8,78.5,77.5
+2021,3519417,mathematics,294814,Taiwan,National Cheng Kung University (NCKU),163,n/a,n/a,n/a,n/a,68.3
+2021,3519417,mathematics,294800,Taiwan,National Tsing Hua University,164,n/a,n/a,n/a,69.1,74
+2021,3519417,mathematics,294810,Taiwan,National Chiao Tung University,217,n/a,n/a,n/a,n/a,72.4
+2021,3519417,mathematics,294807,Taiwan,National Sun Yat-sen University,218,n/a,n/a,n/a,67.6,n/a
+2021,3519417,mathematics,294816,Taiwan,National Central University,323,n/a,n/a,n/a,n/a,n/a
+2021,3519472,medicine,294804,Taiwan,National Taiwan University (NTU),50,81.3,81.7,87.1,78.1,78.7
+2021,3519472,medicine,295098,Taiwan,Taipei Medical University (TMU),137,73.5,70.6,80.5,71.1,73.2
+2021,3519472,medicine,294795,Taiwan,National Yang Ming University,165,n/a,n/a,n/a,n/a,68.7
+2021,3519472,medicine,293781,Taiwan,China Medical University ,206,n/a,n/a,n/a,n/a,n/a
+2021,3519472,medicine,294814,Taiwan,National Cheng Kung University (NCKU),218,n/a,n/a,n/a,n/a,70.9
+2021,3519472,medicine,294682,Taiwan,Chang Gung University,253,n/a,n/a,n/a,n/a,n/a
+2021,3519472,medicine,295787,Taiwan,Kaohsiung Medical University,261,n/a,n/a,n/a,n/a,n/a
+2021,3519472,medicine,294800,Taiwan,National Tsing Hua University,370,n/a,n/a,n/a,n/a,72.1
+2021,3519472,medicine,294370,Taiwan,Fu Jen Catholic University,508,n/a,n/a,n/a,n/a,n/a
+2021,3519472,medicine,294808,Taiwan,National Chung Hsing University,516,n/a,n/a,n/a,n/a,n/a
+2021,3519527,modern-languages,294804,Taiwan,National Taiwan University (NTU),43,80.5,,,82.9,75
+2021,3519527,modern-languages,294806,Taiwan,National Taiwan Normal University,98,74,,,78,64.5
+2021,3519527,modern-languages,294811,Taiwan,National Chengchi University,113,n/a,,,n/a,n/a
+2021,3519527,modern-languages,294807,Taiwan,National Sun Yat-sen University,167,n/a,,,n/a,n/a
+2021,3519527,modern-languages,294800,Taiwan,National Tsing Hua University,168,n/a,,,n/a,n/a
+2021,3519527,modern-languages,294814,Taiwan,National Cheng Kung University (NCKU),214,n/a,,,n/a,n/a
+2021,3519527,modern-languages,294810,Taiwan,National Chiao Tung University,215,n/a,,,n/a,n/a
+2021,3519527,modern-languages,294370,Taiwan,Fu Jen Catholic University,303,n/a,,,n/a,n/a
+2021,3519578,nursing,294804,Taiwan,National Taiwan University (NTU),61,n/a,n/a,n/a,n/a,n/a
+2021,3519578,nursing,295098,Taiwan,Taipei Medical University (TMU),66,n/a,n/a,n/a,n/a,83.2
+2021,3519578,nursing,294682,Taiwan,Chang Gung University,106,n/a,n/a,n/a,n/a,n/a
+2021,3519578,nursing,294795,Taiwan,National Yang Ming University,121,n/a,n/a,n/a,n/a,n/a
+2021,3519300,pharmacy-pharmacology,294804,Taiwan,National Taiwan University (NTU),85,75.1,81.2,81.4,67.4,75.1
+2021,3519300,pharmacy-pharmacology,293781,Taiwan,China Medical University ,104,n/a,n/a,n/a,n/a,n/a
+2021,3519300,pharmacy-pharmacology,295098,Taiwan,Taipei Medical University (TMU),119,n/a,n/a,n/a,n/a,73.2
+2021,3519300,pharmacy-pharmacology,295787,Taiwan,Kaohsiung Medical University,212,n/a,n/a,n/a,n/a,n/a
+2021,3519300,pharmacy-pharmacology,294682,Taiwan,Chang Gung University,254,n/a,n/a,n/a,n/a,n/a
+2021,3519300,pharmacy-pharmacology,294814,Taiwan,National Cheng Kung University (NCKU),270,n/a,n/a,n/a,n/a,n/a
+2021,3519300,pharmacy-pharmacology,294795,Taiwan,National Yang Ming University,271,n/a,n/a,n/a,n/a,69.6
+2021,3519250,philosophy,294804,Taiwan,National Taiwan University (NTU),67,n/a,n/a,n/a,n/a,n/a
+2021,3519250,philosophy,294811,Taiwan,National Chengchi University,164,n/a,n/a,n/a,n/a,n/a
+2021,3519197,physics-astronomy,294804,Taiwan,National Taiwan University (NTU),60,78.6,80,85.9,76,74.9
+2021,3519197,physics-astronomy,294800,Taiwan,National Tsing Hua University,101,75,78.3,82.2,69.2,76.1
+2021,3519197,physics-astronomy,294816,Taiwan,National Central University,218,n/a,n/a,n/a,n/a,n/a
+2021,3519197,physics-astronomy,294810,Taiwan,National Chiao Tung University,219,n/a,n/a,n/a,n/a,70.3
+2021,3519197,physics-astronomy,294814,Taiwan,National Cheng Kung University (NCKU),269,n/a,n/a,n/a,n/a,n/a
+2021,3519197,physics-astronomy,294807,Taiwan,National Sun Yat-sen University,366,n/a,n/a,n/a,n/a,n/a
+2021,3519197,physics-astronomy,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),367,n/a,n/a,n/a,n/a,n/a
+2021,3519197,physics-astronomy,294963,Taiwan,National Taipei University of Technology,472,n/a,n/a,n/a,n/a,n/a
+2021,3519197,physics-astronomy,294806,Taiwan,National Taiwan Normal University,473,n/a,n/a,n/a,n/a,n/a
+2021,3519150,politics,294804,Taiwan,National Taiwan University (NTU),62,n/a,n/a,n/a,n/a,n/a
+2021,3519150,politics,294811,Taiwan,National Chengchi University,112,n/a,n/a,n/a,n/a,n/a
+2021,3519089,psychology,294804,Taiwan,National Taiwan University (NTU),113,n/a,n/a,n/a,72.3,72.9
+2021,3519089,psychology,294814,Taiwan,National Cheng Kung University (NCKU),266,n/a,n/a,n/a,n/a,n/a
+2021,3519048,social-policy-administration,294804,Taiwan,National Taiwan University (NTU),72,n/a,,n/a,n/a,n/a
+2021,3518997,sociology,294804,Taiwan,National Taiwan University (NTU),51,75.6,61.7,75,78.9,73.2
+2021,3518997,sociology,294811,Taiwan,National Chengchi University,215,n/a,n/a,n/a,n/a,n/a
+2021,3518997,sociology,294814,Taiwan,National Cheng Kung University (NCKU),267,n/a,n/a,n/a,n/a,n/a
+2021,3518997,sociology,294800,Taiwan,National Tsing Hua University,268,n/a,n/a,n/a,n/a,n/a
+2021,3518914,sports-related-subjects,294804,Taiwan,National Taiwan University (NTU),50,77.7,78.8,90.9,75.3,71.1
+2021,3518856,statistics-operational-research,294814,Taiwan,National Cheng Kung University (NCKU),122,n/a,n/a,n/a,n/a,n/a
+2021,3518856,statistics-operational-research,294800,Taiwan,National Tsing Hua University,123,n/a,n/a,n/a,n/a,n/a
+2021,3518856,statistics-operational-research,294810,Taiwan,National Chiao Tung University,160,n/a,n/a,n/a,n/a,n/a
+2021,3518856,statistics-operational-research,294816,Taiwan,National Central University,208,n/a,n/a,n/a,n/a,n/a
+2021,3518797,theology-divinity-religious-studies,294370,Taiwan,Fu Jen Catholic University,55,n/a,n/a,n/a,n/a,78.1

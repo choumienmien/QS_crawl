@@ -1,0 +1,27 @@
+year,university_nid,country,university,rank,overall_score,Academic Reputation_score,Employer Reputation_score,Citations per Faculty_score,Faculty Student Ratio_score,International Students Ratio_score,International Faculty Ratio_score,International Research Network_score,Employment Outcomes_score
+2023,294804,Taiwan,National Taiwan University (NTU),77,65.7,92.3,92.6,49.7,33.4,32.6,19,75,96.7
+2023,294800,Taiwan,National Tsing Hua University,177,45.9,51.3,69,47.7,34.4,19.1,17.7,35.8,5.5
+2023,3740459,Taiwan,National Yang Ming Chiao Tung University,202,43.2,34.8,74.6,46.2,50.3,22.3,23.8,42.8,51.3
+2023,294814,Taiwan,National Cheng Kung University (NCKU),225,41.4,47.2,71.9,22.2,40.7,22.9,27.8,51.4,17.9
+2023,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),327,33,25.6,37.6,25.1,52.6,39.9,26.6,34.4,50.8
+2023,294806,Taiwan,National Taiwan Normal University,332,32.2,32.7,18.6,6.3,68.3,28.1,14.8,25.2,17.2
+2023,295098,Taiwan,Taipei Medical University (TMU),386,29.3,9.7,17,17,92.3,16.1,18.1,24,26.5
+2023,294807,Taiwan,National Sun Yat-sen University,428,27.1,25.3,24.9,27.3,36.7,10.6,20.6,31.2,7.5
+2023,294963,Taiwan,National Taipei University of Technology,436,26.6,15.2,58.2,32.2,28.9,24.6,23.2,24.3,25.1
+2023,294682,Taiwan,Chang Gung University,475,25,4.8,4.9,40.5,69.4,5.2,4.3,26.3,8.6
+2023,294816,Taiwan,National Central University,585,n/a,20.1,25.4,20.6,27.2,10.2,15.3,37.9,16
+2023,294811,Taiwan,National Chengchi University,621,n/a,18.4,39.2,2.7,24.9,37.7,24.1,9.9,82.8
+2023,294808,Taiwan,National Chung Hsing University,674,n/a,18.6,22.2,13,27.3,8.9,8.7,29.6,6.2
+2023,919381,Taiwan,Chang Jung Christian University,820,n/a,4.6,2.5,1.7,41.8,5.3,6.6,3.3,7.5
+2023,294692,Taiwan,National Chung Cheng University,870,n/a,12.5,19.6,5.7,21.5,5,3.6,12.3,6.3
+2023,294450,Taiwan,Asia University Taiwan,1017,n/a,5.4,1.9,25.2,3.8,3.9,10.5,35.6,6.7
+2023,294960,Taiwan,National Taiwan Ocean University,1077,n/a,5,2.7,10,13.4,9.2,4.7,21.5,6.5
+2023,294966,Taiwan,Chung Yuan Christian University,1220,n/a,4.4,5.1,14.2,4.8,9.7,5.5,17.4,20.4
+2023,294650,Taiwan,Feng Chia University,1224,n/a,8.2,8.9,7.4,4.7,9.2,4.8,15.6,9.6
+2023,294370,Taiwan,Fu Jen Catholic University,1226,n/a,6.3,10.3,7.3,5.6,17.1,7.3,9.5,20.2
+2023,294961,Taiwan,National Dong Hwa University,1254,n/a,5,2.4,6.8,8.2,10.4,3.3,11.1,6
+2023,294378,Taiwan,National Taipei University,1256,n/a,6.7,4.2,3.5,9.3,4.2,2.4,5.9,15.6
+2023,294965,Taiwan,Soochow University (Taiwan),1279,n/a,4.3,7.2,1.9,4.8,4.5,4.6,3.4,5.6
+2023,294958,Taiwan,Tamkang University,1285,n/a,5,5.6,6.3,3.7,9,7.7,17.5,24.5
+2023,294959,Taiwan,Tunghai University,1294,n/a,5.4,7.2,3.9,5.7,15.1,11.3,15.4,9
+2023,294697,False,Yuan Ze University,1400,n/a,4.6,5.9,12.8,7,9,7.1,8.7,8.3

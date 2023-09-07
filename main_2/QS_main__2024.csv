@@ -1,0 +1,1499 @@
+year,university_nid,country,university,rank,overall_score,Academic Reputation_score,Employer Reputation_score,Faculty Student Ratio_score,Citations per Faculty_score,International Faculty Ratio_score,International Students Ratio_score,International Research Network_score,Employment Outcomes_score,Sustainability_score
+2024,294850,United States,Massachusetts Institute of Technology (MIT) ,1,100,100,100,100,100,100,88.2,94.3,100,95.2
+2024,294561,United Kingdom,University of Cambridge,2,99.2,100,100,100,92.3,100,95.8,99.9,100,97.3
+2024,294654,United Kingdom,University of Oxford,3,98.9,100,100,100,90.6,98.2,98.2,100,100,97.8
+2024,294270,United States,Harvard University,4,98.3,100,100,98.3,100,84.6,66.8,100,100,96.7
+2024,297282,United States,Stanford University,5,98.1,100,100,100,99.9,99.9,51.2,95.8,100,94.4
+2024,294030,United Kingdom,Imperial College London,6,97.8,98.3,99.4,98.5,94,100,100,96.7,83,94.4
+2024,294432,Switzerland,ETH Zurich,7,93.3,98.8,83.6,72.1,98.9,100,98.5,96,79.1,88.4
+2024,294798,Singapore,National University of Singapore (NUS),8,92.7,99.4,88.6,76.5,93.2,100,81.9,76.3,100,88.1
+2024,294014,United Kingdom,UCL,9,92.4,99.5,97.9,98.4,74.3,99.1,100,100,51.6,92.5
+2024,294572,United States,"University of California, Berkeley (UCB)",10,90.4,100,100,20.5,99.9,92.2,63.9,92.4,98.7,100
+2024,294536,United States,University of Chicago,11,90.3,99.1,95.4,92.5,78.5,81.2,84.4,61.4,98.3,81.7
+2024,297569,United States,University of Pennsylvania,12,89.4,96.4,89.1,99.9,68.4,96,70.3,83.3,100,99.9
+2024,294514,United States,Cornell University,13,89.3,98.1,90.5,52.9,99.1,68.7,64,79.9,98,94.7
+2024,294861,Australia,The University of Melbourne,14,87.9,98.4,92.3,15.4,92.1,92.9,99.7,97.2,93.3,90.4
+2024,294562,United States,California Institute of Technology (Caltech),15,87.8,96.1,93.7,100,100,100,81,22.8,34.2,41.4
+2024,297177,United States,Yale University,16,87.7,99.9,99.9,100,45.8,89.8,78.8,85.8,99.9,99.2
+2024,294606,China (Mainland),Peking University,17,87,99.4,95.4,90.4,97.5,50.8,23.5,43.2,82.6,68.8
+2024,297490,United States,Princeton University,18,87,99.8,97.5,64.5,100,16.7,57.5,52.5,94.6,79.3
+2024,294788,Australia,The University of New South Wales (UNSW Sydney),19,86.7,89.7,88.1,18.2,95.9,100,99.1,99,95.5,99.6
+2024,296815,Australia,The University of Sydney,20,86.7,96,87.7,11.8,93.5,99.5,100,91.9,88.1,99.7
+2024,297242,Canada,University of Toronto,21,86.3,99.7,96,54.2,57.2,95.7,96.4,95.5,96.4,99.9
+2024,294478,United Kingdom,The University of Edinburgh,22,86.1,98.1,96.9,72.4,58.7,98.8,99.9,99.6,48.1,99.7
+2024,294519,United States,Columbia University,23,85.9,99.6,98.3,100,40.7,56.1,96.8,97.6,99.9,94.2
+2024,397503,France,Université PSL,24,85.8,73.7,97,99.3,95.7,69.2,72.7,100,60.8,80.4
+2024,297235,China (Mainland),Tsinghua University,25,84.9,99.1,96.9,93.9,98.9,9.4,15.7,47.8,82.2,55.8
+2024,294821,Singapore,"Nanyang Technological University, Singapore (NTU Singapore)",26,84.5,91,67.1,77.6,94.4,100,80.2,66.1,68.4,78.2
+2024,294256,Hong Kong SAR,The University of Hong Kong,27,84.5,97.6,51.4,82.9,82.3,100,99,42.7,99.5,97.3
+2024,294184,United States,Johns Hopkins University,28,84.5,87.3,59.7,100,89.4,64.4,91.4,98.1,74.5,84.6
+2024,297246,Japan,The University of Tokyo,29,84.3,100,99.8,90.4,70,10.3,29.2,70,99.8,99.7
+2024,294569,United States,"University of California, Los Angeles (UCLA)",30,83.8,100,99.8,36.6,84.8,43.4,24.8,89.8,97,91.2
+2024,294864,Canada,McGill University,31,83.7,93.7,87.6,64,62.1,88.9,93.3,86.2,92.5,94.2
+2024,294871,United Kingdom,The University of Manchester,32,82.2,95.4,98,53.8,49.1,93.5,99.4,99.7,71.9,92.3
+2024,294857,United States,University of Michigan-Ann Arbor,33,81.7,98.3,89.9,82.2,56.2,67,27.6,95.4,94.3,83.7
+2024,294616,Australia,Australian National University (ANU),34,81.5,93.2,70.2,34.9,92.8,100,93.3,78.5,43.9,87.4
+2024,294586,Canada,University of British Columbia,35,81.5,98.2,93.5,44.4,57,96.4,74.1,96.3,60.1,99.9
+2024,294481,Switzerland,EPFL,36,80.4,84.6,59.9,92.4,98,100,100,65.6,19.4,42.3
+2024,297262,Germany,Technical University of Munich,37,80,83.9,98.2,88.8,59.6,76.5,97.3,86.7,25,84.8
+2024,3291252,France,Institut Polytechnique de Paris,38,79.5,44.8,99.6,97.3,93.8,98.5,98.3,76.9,90.3,72.5
+2024,294786,United States,New York University (NYU),39,79.5,95.9,98.5,95.5,26.7,26.4,95,85.4,99.7,98.3
+2024,294029,United Kingdom,King's College London,40,79.3,89.5,82.3,64.6,61.1,98.8,100,99.2,34.4,81.1
+2024,297403,South Korea,Seoul National University,41,78.5,99,98.2,85.1,64.9,11.5,14.5,36.9,100,73.8
+2024,294848,Australia,Monash University,42,78.2,88.4,75.2,9.6,88.4,100,100,86.8,61,71.8
+2024,297460,Australia,The University of Queensland,43,78.1,87.1,73.7,21.6,87,100,100,95,44.4,73.1
+2024,297123,China (Mainland),Zhejiang University,44,77.8,73.8,95.7,66.5,97.6,97.7,26.5,74.7,37.7,51.5
+2024,294016,United Kingdom,The London School of Economics and Political Science (LSE),45,76.9,67.7,96.1,39.6,80.2,100,100,32.4,98.6,97.8
+2024,294111,Japan,Kyoto University,46,76.3,98.7,99.1,94.7,49.3,14.9,20.8,57.3,53.2,88.4
+2024,294502,Netherlands,Delft University of Technology,47,76.2,73,79,36.9,84.9,100,89.3,91.4,42.1,98.4
+2024,294767,United States,Northwestern University,48,76.2,83.8,60.2,98.9,70.3,48.2,44.2,79.2,97.7,78
+2024,294277,Hong Kong SAR,The Chinese University of Hong Kong (CUHK),49,76.2,88.4,46.3,60,92.3,100,77.1,32.7,78.6,61.3
+2024,294367,China (Mainland),Fudan University,50,74.4,84.7,89.8,84.5,72.4,88.3,33,22.7,49.6,43.8
+2024,297378,China (Mainland),Shanghai Jiao Tong University,51,74.3,83.7,83.3,54.7,99.4,39.2,35.5,38.3,55.5,44.1
+2024,294555,United States,Carnegie Mellon University,52,73.7,71.2,75.3,49.1,99.9,46.6,98.2,57.4,60,47.2
+2024,297816,Netherlands,University of Amsterdam,53,73.4,83.6,44.2,21.2,98.1,92.4,79.9,97.4,49.9,64.8
+2024,294840,Germany,Ludwig-Maximilians-Universität München,54,72.5,92.7,83.5,46.7,51.4,73.3,37.7,94.4,48.5,77.3
+2024,294587,United Kingdom,University of Bristol,55,72.4,74.9,84.7,47.3,64.7,85.5,86.8,84.4,39.6,81.3
+2024,294124,South Korea,KAIST - Korea Advanced Institute of Science & Technology,56,72.2,89.9,88.8,66.2,97.7,22.3,11.6,10.6,41.8,14.2
+2024,294490,United States,Duke University,57,72,85.7,69.3,100,40.2,16.8,52.2,90,89.3,95
+2024,297257,United States,University of Texas at Austin,58,71.8,93.5,83.2,8.9,86.7,9.3,11,79.4,70,77.7
+2024,396462,France,Sorbonne University,59,71.7,88.6,53.2,43.3,85.4,35.2,49.8,100,39.5,75.8
+2024,294255,Hong Kong SAR,The Hong Kong University of Science and Technology,60,71.1,83.3,42.6,53.6,99.1,100,91.4,5.3,50.3,31
+2024,294551,Belgium,KU Leuven,61,70.1,84.6,42.4,7,92.7,93.1,45.7,99.9,56.1,75.6
+2024,294567,United States,"University of California, San Diego (UCSD)",62,70,89.1,50.4,49.6,74.3,68.1,51.3,94.9,17.7,72.5
+2024,297194,United States,University of Washington,63,69.2,84,50.4,19.1,93.5,19,33.2,94,70,88.1
+2024,295060,United States,University of Illinois at Urbana-Champaign,64,69.1,85,70.8,7.5,86.5,11.1,49.2,76.4,66,83.5
+2024,294257,Hong Kong SAR,The Hong Kong Polytechnic University,65,68.7,68.1,30.2,68,88.8,100,87.4,42,49.2,92.8
+2024,294877,Malaysia,Universiti Malaya (UM),66,68.7,81.2,96,71.6,32.7,52.8,58.9,79.3,28.1,93.4
+2024,297197,United Kingdom,The University of Warwick,67,68.6,71.3,88,37.3,49,98.2,99.3,89.7,47.2,62.5
+2024,294619,New Zealand,The University of Auckland,68,68,81.6,40.8,19.3,61.7,100,91.6,64.4,94.3,99.6
+2024,294804,Taiwan,National Taiwan University (NTU),69,67.9,92.8,91.3,30.9,47,17.7,20,33.2,99.7,95.6
+2024,294527,Hong Kong SAR,City University of Hong Kong,70,67.7,59.6,27.3,86.6,99.9,100,100,17.4,29.5,82.1
+2024,297526,France,Université Paris-Saclay,71,67.6,58.9,99.1,99.8,45.8,39.1,60.8,98.7,34.3,73.6
+2024,297188,Australia,The University of Western Australia,72,66.9,56.2,44.6,16.5,98.9,100,99.8,90,66,70.1
+2024,294584,United States,Brown University,73,66.4,58.3,42.4,77.8,85.9,84.5,52,58.3,74.8,70.4
+2024,297484,Sweden,KTH Royal Institute of Technology ,74,66.4,45.7,51.1,66.2,90.2,93.2,68.1,80.7,56.9,96.1
+2024,294081,United Kingdom,University of Leeds,75,65.5,70.3,76.7,37.3,42.3,85.2,90,98.7,37.8,90.9
+2024,294322,United Kingdom,University of Glasgow,76,65.2,76.3,70.7,41.7,31.8,96,99.5,90,26.7,99.5
+2024,297129,South Korea,Yonsei University,77,65.2,80,96.3,87.4,36.2,19.6,49.7,25,70.9,38.1
+2024,294488,United Kingdom,Durham University,78,65.1,59.5,89.3,27.8,53.3,97.5,86.9,86.2,29.2,97.6
+2024,294121,South Korea,Korea University,79,64.7,82.2,94,81,36.6,13.6,36.3,19.6,70.6,58.6
+2024,297628,Japan,Osaka University,80,63.9,81.3,89.1,55.3,62.7,28.6,13.2,26.7,23.4,58.6
+2024,294491,Ireland,"Trinity College Dublin, The University of Dublin",81,63.5,69.3,39.8,23.7,64.1,99.8,92.5,82.2,70.6,75.6
+2024,297288,United Kingdom,University of Southampton,82,63.5,51.5,51.2,52.8,71.4,96.1,97.4,97,32.5,82.7
+2024,297570,United States,Pennsylvania State University,83,63.1,77.5,63,28.4,62.9,23.4,26.8,96.6,47.5,95.1
+2024,294597,United Kingdom,University of Birmingham,84,63,67.5,75.7,41.3,38.2,92.3,83.9,96,29.5,80.4
+2024,293996,Sweden,Lund University,85,62.8,69.3,47.5,50.2,37.7,98.8,77.4,95.2,66,99.1
+2024,297422,Brazil,Universidade de São Paulo,86,62.8,92.4,82.9,19.2,29.9,6,2.3,90.9,89.7,96.1
+2024,294842,Russia,Lomonosov Moscow State University,87,62.2,81.2,78.3,99.8,4.6,20.3,92.3,85.2,82.2,13.4
+2024,294265,Germany,Universität Heidelberg,88,62.2,78.3,52,99.7,38.2,52.5,50.4,89.7,19.8,42.6
+2024,294644,Australia,The University of Adelaide,89,62,54.2,36.5,16.2,87.1,100,99.6,78.8,38.4,96.3
+2024,297273,Australia,University of Technology Sydney,90,61.8,43.4,57.8,9,95.3,96.6,93.6,79.7,30.1,93.1
+2024,297248,Japan,Tokyo Institute of Technology (Tokyo Tech),91,61.6,74.4,94.8,84.4,53,31.8,31.7,8.9,19.7,18
+2024,297126,Switzerland,University of Zurich,92,61.6,59.1,27.6,89.9,52,100,53,87.2,75.2,80.2
+2024,294593,United States,Boston University,93,61.4,61.7,68.3,32.7,60.1,21.6,87.5,72.6,68.6,85.9
+2024,294835,Mexico,Universidad Nacional Autónoma de México  (UNAM),94,61.4,96.6,98.2,39.8,2.7,8.3,2.5,84.5,68.4,88.5
+2024,294578,Argentina,Universidad de Buenos Aires (UBA),95,61,93.3,98,73.5,1.7,62.6,66.7,28.1,26.2,18.8
+2024,297285,United Kingdom,University of St Andrews,96,61,47.3,67.2,64.9,57.7,98.7,100,51.1,22.4,92.1
+2024,294349,United States,Georgia Institute of Technology,97,60.9,67.4,85.1,15.3,67.1,38.8,65.4,33.2,41.7,70.4
+2024,294382,Germany,Freie Universitaet Berlin,98,60.8,80.8,51,4.4,71.4,62.8,43.6,84.9,21.9,60.1
+2024,297485,United States,Purdue University,99,60.7,63.9,81.2,10.3,68.4,41.5,45.8,75.4,53.4,67.4
+2024,297501,South Korea,Pohang University of Science And Technology (POSTECH),100,60.4,51.6,75.9,99.9,98.3,33.8,2.6,1.3,13.4,16.9
+2024,294758,United Kingdom,University of Nottingham,101,60.4,60.7,72.1,32.2,46.5,90,75.2,98.4,24.4,80
+2024,297183,United States,University of Wisconsin-Madison,102,60,80.2,47.8,61.3,37.4,30.9,22.8,83.6,73.1,83.7
+2024,294549,Chile,Pontificia Universidad Católica de Chile (UC),103,59.9,92.9,99.5,20.6,11.6,16.4,3.5,56.8,76.3,91.3
+2024,297471,United Kingdom,The University of Sheffield,104,59.7,58.7,52.3,54.7,46.9,84,97.5,96.1,24.9,76.3
+2024,297218,Sweden,Uppsala University,105,59.4,62.7,30.5,47.7,45.6,98.3,82.4,95.5,58.2,99.4
+2024,294649,Germany,RWTH Aachen University,106,59.3,49.7,93,5.5,78.7,49,83,63.5,23.9,53.4
+2024,294516,Denmark,University of Copenhagen,107,58.8,74.1,25.8,100,21.2,91.4,22.5,98.2,60.1,87.4
+2024,297215,Netherlands,Utrecht University,108,58.8,66.6,31.6,32.6,80.8,57.1,21.2,95,26.5,83.5
+2024,294263,Finland,Aalto University,109,58.7,44.6,41.8,40.2,79.4,95.5,37.7,56.2,88.9,95
+2024,294781,United Kingdom,Newcastle University,110,58.6,48,74.5,35.6,50.2,90,70.9,96.1,24.1,98.8
+2024,294639,Canada,University of Alberta,111,58.3,56.8,36.5,42.8,59.1,97.9,73.2,92.1,46,76.1
+2024,297191,Canada,University of Waterloo,112,58.1,40.7,66.7,6.8,82.9,76.8,77.9,55.4,55.9,97.1
+2024,297250,Japan,Tohoku University,113,58,72.4,84.2,98.5,29.6,14.2,13.8,27.6,17.2,74.8
+2024,297187,Canada,Western University,114,57.4,32.1,47.4,3.7,98.3,99.7,54.6,56.4,93.3,99.6
+2024,294264,Finland,University of Helsinki,115,57.2,65.1,32.3,63.4,49.8,71.5,5.4,96,65.7,82.7
+2024,297286,United States,University of Southern California,116,57.1,52.5,47.6,21.7,68,31.8,73.5,62.8,93.1,98.9
+2024,297620,Norway,University of Oslo,117,56.9,55.8,11.2,81.7,64.2,86.1,25.4,95.9,41.8,91.8
+2024,297278,Sweden,Stockholm University,118,56.8,54.1,15.2,28.2,71.9,81.5,84.1,95.3,76.2,75.1
+2024,294571,United States,"University of California, Davis",119,56.7,63.9,44.7,23.4,59.2,74.8,54.9,77.7,18.9,98.9
+2024,294164,Germany,"KIT, Karlsruhe Institute of Technology",120,56.4,45.6,76.8,36,71.9,70.4,46.7,76,38.7,23.9
+2024,294252,Germany,Humboldt-Universität zu Berlin,121,56.3,90.2,65.9,7.6,31.3,68.1,31.5,86,14.4,37.5
+2024,297264,Denmark,Technical University of Denmark,122,56.2,32.5,16.3,99.8,83.4,100,82,71.6,28.9,54.9
+2024,294090,United Kingdom,Lancaster University,123,55.7,39.7,40.2,25.2,79.3,93.6,90.6,75.3,20.7,98
+2024,294853,Italy,Politecnico di Milano,124,55.2,69.3,71.2,5.2,48.3,63.8,56.6,75.1,36.9,29.4
+2024,294476,Netherlands,Eindhoven University of Technology,125,55,29.3,76.2,40.4,89.7,100,70.8,40.1,19.7,18
+2024,294610,Switzerland,University of Basel,126,55,27.8,17.8,57.4,96.5,100,85,74.4,41.1,70.4
+2024,294071,Netherlands,Leiden University,127,54.8,69.1,26.8,20.2,62.7,85.5,50.2,93.7,26.9,46
+2024,294601,Switzerland,University of Bern,128,54.8,30.5,24.4,54.6,99.2,100,36.9,89.1,26.1,73.6
+2024,294362,Switzerland,University of Geneva,129,54.2,45.1,14.1,42,75.4,100,96.3,87.3,31,63.1
+2024,294540,Sweden,Chalmers University of Technology,130,54,26.6,51.5,51.1,80.9,100,67.4,52.2,28.7,82.9
+2024,293982,Australia,"Macquarie University (Sydney, Australia)",131,53.7,31.6,41,10.3,81.3,98.6,93.6,81.4,43.2,91.8
+2024,297209,Austria,University of Vienna,132,53.7,70.8,42.5,22,14.5,99.3,88.1,93.5,56.8,74.1
+2024,294836,United States,University of North Carolina at Chapel Hill,133,53.2,63,33.9,72.9,42.5,24.7,10.1,82.2,47.9,96.8
+2024,297489,Italy,Sapienza University of Rome,134,52.9,79.2,41,4.6,44.9,3,10.8,96.9,59.8,92
+2024,297256,United States,Texas A&M University,135,52.9,62,59.6,4.5,68.4,23.1,13.3,88.4,30.1,61.3
+2024,294858,United States,Michigan State University,136,52.7,59.9,49.4,11.3,58,58.6,12.8,95.6,45.5,71.2
+2024,294874,Malaysia,Universiti Sains Malaysia (USM),137,52.6,61.4,74.7,55.2,16.2,24.9,88.9,59.6,18.2,85.5
+2024,294534,China (Mainland),University of Science and Technology of China,138,52.6,52.5,17.5,91.2,98.5,16.8,5.2,32.2,24.8,21.6
+2024,294293,Netherlands,University of Groningen,139,52.5,52.9,29.9,51.4,42.9,93.5,85.6,92.1,22.3,67.7
+2024,297499,Australia,RMIT University,140,52.4,38.6,49.6,5.4,68.6,100,92.8,57.3,28.8,96.2
+2024,294826,China (Mainland),Nanjing University,141,52.1,59.6,25.4,31.3,96.9,55.1,7.3,26.4,23.7,39
+2024,294843,Canada,Université de Montréal ,142,52.1,56.6,34.5,77,24.9,88.4,52.2,65.2,36,95.5
+2024,294648,Denmark,Aarhus University,143,52,55.8,24.7,32.5,54.1,90.3,13.1,94.8,45.1,98.4
+2024,296687,Saudi Arabia,King Abdulaziz University (KAU),144,52,54.5,61.6,52.5,37.5,97.5,23.1,84.4,17.3,43.5
+2024,294022,United Kingdom,Queen Mary University of London,145,51.9,48.8,32.8,38.7,50.7,99.7,99.4,72.8,16.8,69.9
+2024,297437,United States,Rice University,146,51.9,38.7,22.9,65.9,82.5,91,94.8,9.8,30,42.6
+2024,297467,South Korea,Sungkyunkwan University (SKKU),147,51.9,64.2,71.6,81.8,37.9,17.8,34,9.8,26.8,27.6
+2024,294609,United Kingdom,University of Bath,148,51.8,35.6,74.3,16.1,61.9,96.3,81.6,59.3,26.5,48.4
+2024,294243,India,Indian Institute of Technology Bombay (IITB),149,51.7,55.5,81.9,18.9,73.1,4.7,1.4,8.5,47.4,54.9
+2024,294612,Spain,Universitat Autònoma de Barcelona,150,51.7,63.2,39,10.6,70.6,18,17.4,84.2,13.7,94.6
+2024,294741,United States,The Ohio State University,151,51.3,59.4,55.8,53.8,30.8,49.7,16.5,85,35.2,78.4
+2024,297202,Netherlands,Wageningen University & Research,152,51.3,43.3,19,97.9,46,55,78.5,97.8,19,71.5
+2024,294427,United Kingdom,University of Exeter,153,50.9,43,51.1,27.4,43.3,91.6,76.2,89.8,19.7,94.8
+2024,294595,Italy,Alma Mater Studiorum - University of Bologna,154,50.5,79.6,40,3.4,49.5,8,10.9,91,34.8,56.5
+2024,294557,United Kingdom,Cardiff University,155,50.5,46.5,48.3,33.7,39.6,84,70.6,81.6,18.9,97.9
+2024,297266,Germany,Technische Universität Berlin (TU Berlin),156,50.5,56.2,69.3,53,24.9,51.3,68.8,55,25.4,52.1
+2024,297193,United States,Washington University in St. Louis,157,50.5,38.6,10.4,99.8,50.7,84.3,68,60.5,33.7,91.4
+2024,294875,Malaysia,Universiti Putra Malaysia (UPM),158,50.4,58.8,67.5,67.6,22.7,44.3,97.3,45.4,9.7,23.2
+2024,294329,Belgium,Ghent University,159,50.2,53.4,25.2,78.9,25.1,79.6,21.2,99.8,52,91.3
+2024,294535,Chile,Universidad de Chile,160,50.2,81.5,96.6,9.7,12.5,9,5,48.6,50.4,36.3
+2024,294876,Malaysia,Universiti Kebangsaan Malaysia (UKM),161,50.2,59.7,70.1,87.5,11.7,52.7,61.1,56.7,11.2,24.4
+2024,297181,Australia,University of Wollongong,162,50.1,29.7,25.1,16.3,93.8,95.6,56,72.7,17.1,92.3
+2024,294565,United States,"University of California, Santa Barbara (UCSB)",163,50,54.8,19,9.5,96.9,70.4,21.6,43.5,10.4,55.8
+2024,294273,South Korea,Hanyang University,164,49.7,49,81.3,83.5,23.3,16.9,54.3,15.6,24.8,77.7
+2024,294103,Japan,Kyushu University,165,49.7,57.4,70,85.7,23.9,14.7,25.6,32.8,15.4,77.7
+2024,294613,Spain,Universitat de Barcelona,166,49.7,73.2,23,13.1,41.8,21.8,28.5,97.8,39.8,98.1
+2024,294471,United States,Emory University,167,49.6,25.6,16.4,97.3,84,53.5,32.4,56.8,23.6,85.7
+2024,297128,United Kingdom,University of York,168,49.4,43.5,35.3,45,40.3,88.3,78.2,79.2,19.8,97.8
+2024,294394,United States,University of Florida,169,49.1,48,58.7,71.3,26.6,18.8,10.8,97.7,39,95.7
+2024,294867,United States,"University of Maryland, College Park",170,48.9,49.2,26.1,35.1,68.4,31.6,14,85.5,41.6,81.7
+2024,297458,United Kingdom,University of Reading,171,48.9,33.2,39.3,16.1,67.4,88.4,81,77.8,32.3,72.5
+2024,294880,Spain,Complutense University of Madrid,172,48.8,68.2,69.3,25.8,7,9,25.6,83.4,57.9,96.3
+2024,294492,Ireland,University College Dublin,173,48.8,49.8,41.3,20.7,38.9,98.8,60.8,50.5,69,70.1
+2024,293349,Qatar,Qatar University,174,48.7,27.1,43.9,64.8,38.8,100,96.8,59.8,95.8,35.5
+2024,294784,Australia,"The University of Newcastle, Australia (UON)",175,48.7,29.3,26.9,36.5,91.4,100,17.3,49.2,12.5,93.2
+2024,294558,South Africa,University of Cape Town,176,48.7,44.4,51,12.6,45.7,59.9,21.2,95.4,88.9,75.1
+2024,294457,Netherlands,Erasmus University Rotterdam ,177,48.5,37.3,50.9,22.5,53.4,83,60.1,71.6,63.7,49.4
+2024,294832,Japan,Nagoya University,178,48.5,61.5,65.1,87.5,33,15.4,19.1,17.6,16.6,24.1
+2024,294045,United Kingdom,University of Liverpool,179,48.5,44.4,35,39.7,37.9,87.8,79,97.2,25.6,72
+2024,294631,United States,Arizona State University,180,48.1,46.7,36.7,6.8,61.5,64.5,30.1,87.9,26.6,97.3
+2024,297053,Saudi Arabia,King Fahd University of Petroleum & Minerals,181,48,32.9,36.5,82.8,65.8,100,31.8,25.7,38.9,20.9
+2024,294550,Belgium,Université catholique de Louvain (UCLouvain),182,48,49.1,30.8,4.4,60.2,89.4,39.3,83.2,51.7,54.6
+2024,294574,Canada,University of Calgary,183,47.9,37.7,61.2,19.9,41.5,82.8,62,62.3,38.6,91.5
+2024,294507,Australia,Curtin University,184,47.8,32.4,31.8,14.3,86.2,100,26.4,84.9,25.7,50.6
+2024,297208,Austria,Technische Universität Wien,185,47.6,32.9,44.4,13.1,85.7,79.3,89,45.1,13.2,19
+2024,297267,Mexico,Tecnológico de Monterrey,186,47.6,51.3,96.8,63.5,2.3,32.7,11.7,13.5,88.3,65.7
+2024,294483,France,École Normale Supérieure de Lyon,187,47.6,30.5,14.4,95.7,98.4,70.8,14.6,34.3,10,5.9
+2024,294314,Sweden,University of Gothenburg,188,47.3,36.2,16.9,56.3,39.4,90.6,80.8,86.4,46.3,97.6
+2024,294873,Malaysia,Universiti Teknologi Malaysia ,189,46.9,46.6,63.8,42.5,33.9,16,85.2,58.6,13.6,66.8
+2024,294863,Canada,McMaster University,190,46.8,40.5,38.2,75.1,29,99.3,59.5,40.2,37.2,70.1
+2024,297459,Australia,Queensland University of Technology (QUT),191,46.8,40.9,37.6,7.4,64.9,96,26.4,68.8,16.8,90.6
+2024,294581,Belgium,Universite libre de Bruxelles,192,46.8,34.4,38.9,3.3,63.3,97.1,85,69.1,35.7,60.4
+2024,294376,Germany,Albert-Ludwigs-Universitaet Freiburg,193,46.7,46.1,19.8,29.1,63.3,68.8,36.3,82.7,25.3,68.2
+2024,294463,France,Ecole des Ponts ParisTech,194,46.7,8.3,57.9,98.2,80.7,34.6,96.8,5.6,30,19.2
+2024,296996,China (Mainland),Wuhan University,195,46.6,40.9,44,12.8,87.4,40.7,5,48.4,35,44.4
+2024,294852,United States,University of Minnesota Twin Cities,196,46.4,59,30.2,30.6,46.4,5.5,9.1,86.1,41.9,88.5
+2024,294258,Japan,Hokkaido University,197,46.2,57.3,66,75.8,27.8,17.5,14.4,38.1,12.9,30.7
+2024,294242,India,Indian Institute of Technology Delhi (IITD),198,46.1,51.2,75.9,22,64.3,2.4,1.4,6.6,32.8,37.5
+2024,294011,Colombia,Universidad de los Andes,199,46,65.4,95.7,17.6,5.9,26.4,2,11.1,96.2,40.2
+2024,293977,Spain,Universidad Autónoma de Madrid,200,45.9,60.4,57.7,34.5,25.1,7.8,12,80.4,19.6,88.8
+2024,297196,Japan,Waseda University,201,45.9,60.2,97.3,23.7,4.3,27.6,28.6,17.5,65.6,56.5
+2024,297461,United Kingdom,Queen's University Belfast,202,45.8,33.6,30.3,27.5,43.5,100,98.9,84.1,14.3,91
+2024,296684,Saudi Arabia,King Saud University,203,45.2,36.9,21.3,64.2,32.2,99.7,21.3,88.6,71.7,75.8
+2024,297610,Canada,University of Ottawa,204,45.2,26.5,29.7,3.8,79.1,85.9,75.9,85.8,24.3,54.6
+2024,294282,Germany,Universität Hamburg,205,45.1,51,28.7,16.9,60,41.6,22.3,87.2,26.8,52.8
+2024,297618,New Zealand,University of Otago,206,45,46.3,27.1,11,51,100,29.2,38.1,44.7,98.1
+2024,297203,Netherlands,Vrije Universiteit Amsterdam,207,44.9,39.6,15.7,23.6,68.1,68.5,40.2,70.1,20.2,89.1
+2024,294647,United Kingdom,University of Aberdeen,208,44.6,29.6,32.5,29.6,42.1,95.8,96.7,73.3,20.5,98.1
+2024,297462,Canada,Queen's University at Kingston,209,44.5,40.5,56.7,5.3,45.1,70.1,30.6,22.5,71.5,85.4
+2024,297226,Netherlands,University of Twente,210,44.4,20.6,38.3,39.4,65.3,99.3,91.1,67.6,12.6,33.2
+2024,294531,Thailand,Chulalongkorn University,211,44.3,66.6,50.1,31.5,7,15,2.9,49.4,87.2,85.9
+2024,294009,United Kingdom,Loughborough University,212,44.2,30.5,66.8,23.6,34.6,87.3,63.5,77.1,18.8,63.4
+2024,297232,Germany,Eberhard Karls Universität Tübingen,213,44.1,45.8,29.9,92.9,19.7,67.6,26.7,89.9,21.1,42.3
+2024,294156,Japan,Keio University,214,44,51.4,93.5,58,6,9.6,9.2,9.2,79.8,39.3
+2024,297260,Israel,Tel Aviv University,215,43.9,33.2,23.6,3.8,99.9,40.4,4.6,39.5,72.9,38.4
+2024,297244,China (Mainland),Tongji University,216,43.5,34.4,13.1,28.8,91.8,56.7,32.6,21.3,18,65.4
+2024,3740459,Taiwan,National Yang Ming Chiao Tung University,217,43.3,33.3,67.9,53.9,52.1,19,18.5,4.4,44.6,54.3
+2024,296147,United Kingdom,University of Sussex,218,43.1,22.9,8.9,14.6,70.9,96.1,93,62.9,30.6,97.2
+2024,297578,Italy,Università di Padova,219,43,57.3,22,7.8,51.8,12.9,9.4,91.3,13.8,95
+2024,294560,Brazil,Universidade Estadual de Campinas (Unicamp),220,42.7,70.3,50.1,13,24.9,11.7,2.9,53.7,9.6,74.8
+2024,294085,Switzerland,University of Lausanne,221,42.7,29.4,15.1,36.6,65.1,99.9,56.6,48,27.9,61.6
+2024,294777,Netherlands,Radboud University ,222,42.5,28.9,13.9,27.6,74.9,78.3,20.2,78.8,15.7,82.7
+2024,297561,United States,University of Pittsburgh,223,42.5,37.9,15.2,96.1,38.7,7,14.9,81.1,33.1,90.5
+2024,297494,United States,University of Rochester,224,42.4,22.1,18.4,97.9,51.6,71.4,91.7,31.3,26.6,33.2
+2024,295536,India,Indian Institute of Science,225,42.1,41.5,20,46.4,100,4.8,1.7,4.4,13.8,10.7
+2024,297050,Lebanon,American University of Beirut (AUB),226,41.9,27.6,41.6,57.3,24.2,67.8,46.8,35.6,88.5,93.2
+2024,294523,Colombia,Universidad Nacional de Colombia,227,41.9,69.5,96.8,6.1,3.5,6.4,1.5,13.3,29.9,49.7
+2024,294814,Taiwan,National Cheng Kung University (NCKU),228,41.8,49.4,75.6,32.9,21.2,23.7,15.7,10.9,30.2,78.2
+2024,294454,Germany,Friedrich-Alexander-Universität Erlangen-Nürnberg,229,41.7,25.2,20.9,2.8,95.8,26.8,39.9,75.1,15.5,69.9
+2024,295109,Kazakhstan,Al-Farabi Kazakh National University,230,41.6,51.4,74.9,98.9,1.4,28.8,34,12,11.5,5.1
+2024,295657,United Arab Emirates,Khalifa University,231,41.6,19.7,20.4,87.2,48.3,100,75.3,29.6,9,66.5
+2024,294311,Germany,University of Göttingen,232,41.4,47.4,29,70.1,17.7,49.5,22.5,91.8,21.9,55.5
+2024,884388,Australia,Deakin University.,233,41.3,29.6,25.8,4.8,67.4,96.7,59.9,51.4,26.2,54.3
+2024,294800,Taiwan,National Tsing Hua University,234,41.3,53.1,67.7,28.3,38.3,16.8,20.1,6.7,15.9,30.5
+2024,297099,United Kingdom,Heriot-Watt University,235,41.2,16.4,21.1,18.6,79.4,100,97.6,40.2,21.3,43.5
+2024,924190,France,Université Paris Cité,236,41.1,31.6,5.9,9.2,93.7,19.3,41.5,99.6,11.6,46
+2024,294505,United States,Dartmouth College,237,40.9,21.1,24.2,57.9,78.6,5.3,33.9,6.6,72.1,66.8
+2024,294233,Indonesia,Universitas Indonesia,238,40.9,50.5,73,50.4,2,75.8,4.8,2,58.7,42.3
+2024,294865,New Zealand,Massey University,239,40.6,30.4,16,43.2,22.7,98.2,97.9,65.2,44.9,94.7
+2024,294594,Germany,Rheinische Friedrich-Wilhelms-Universität Bonn,240,40.6,52.4,19.8,58,22.1,41.5,37.5,90.7,25.9,35.2
+2024,297211,New Zealand,Victoria University of Wellington,241,40.5,44.8,25.5,9.1,32.3,99.5,34.6,38.1,47,93.6
+2024,294098,Australia,La Trobe University,242,40.3,22.6,20.2,6.9,77.5,94.4,98.4,45.8,14.3,28.9
+2024,294295,Australia,Griffith University,243,40.1,26.5,16.2,7.5,65.8,100,31.7,72.7,15.5,93.3
+2024,297275,United Kingdom,University of Surrey,244,39.9,20.4,23.4,23.2,56.2,96.8,88.3,71.1,16.8,57.7
+2024,294866,United States,University of Massachusetts Amherst,245,39.8,39.5,11.9,10.7,57.6,71,23.8,52,27.7,93.5
+2024,297233,Germany,Technical University of Darmstadt,246,39.7,21,37.5,6.2,79,62.6,74.6,32.5,33.5,19.9
+2024,297263,Germany,Technische Universität Dresden,247,39.7,37.5,37.7,91.2,14.8,46.2,35.2,87.4,11.2,30.7
+2024,294539,Czechia,Charles University,248,39.6,45.5,43.5,34.8,9.4,24.8,51.2,90.9,27.6,83.9
+2024,294634,Belgium,University of Antwerp,249,39.6,23.7,11.8,45.3,49.2,90.9,32.3,90,29.6,80.4
+2024,297201,New Zealand,University of Waikato,250,39.5,18.4,13.2,11.3,75,99.3,73.3,17.5,44.5,79.8
+2024,294267,Israel,The Hebrew University of Jerusalem,251,39.3,34.3,29.1,81.2,22.5,54.7,16,37.1,77.7,50.9
+2024,297228,Italy,Politecnico di Torino,252,39.2,38.5,44.9,2.4,57.9,4.1,46.7,49.9,21.3,57.4
+2024,297070,Portugal,University of Porto,253,39,39.8,22.9,11.1,58.1,7.3,18.7,93.8,17.6,77.3
+2024,293821,Macau SAR,University of Macau,254,38.9,10.6,14.2,12.2,96.9,100,99.3,11.4,41.6,4.3
+2024,294554,United States,Case Western Reserve University,255,38.8,18.4,17.1,83,63.9,38.2,68.3,21,27,34.6
+2024,297014,China (Mainland),Harbin Institute of Technology,256,38.7,28.6,14.9,41.6,98.8,8.6,8.4,23.2,20.3,15.4
+2024,293985,Netherlands,Maastricht University ,257,38.7,23.4,22.3,12.8,62.7,99.5,100,46.5,27,13.7
+2024,294559,New Zealand,University of Canterbury | Te Whare Wānanga o Waitaha,258,38.7,33.8,33.1,10.9,32.8,99.8,35.3,21.9,62.6,97.1
+2024,294582,Belgium,Vrije Universiteit Brussel (VUB),259,38.6,23.1,16.8,75.9,22,93.6,59.2,88.4,31.1,67.4
+2024,297205,United States,University of Virginia,260,38.5,35.6,32,56.9,34.1,7.9,10.8,57.7,68.5,63.1
+2024,297212,United States,Vanderbilt University,261,38.4,25.2,19.8,100,37.2,36.4,34.6,47.1,35.7,51.2
+2024,297198,Poland,University of Warsaw ,262,38.1,48.7,53.4,41.9,6.3,9.8,8.6,62.1,36.7,80
+2024,294365,Indonesia,Gadjah Mada University,263,38,51.7,66.5,54.4,1.7,38.5,1.6,2.1,42.6,47.2
+2024,294520,United States,University of Colorado Boulder,264,37.9,36.9,13.5,33.2,49.4,27.1,5.5,68.6,30.8,96.4
+2024,297182,South Africa,University of Witwatersrand,265,37.9,25.7,43,10.9,27.7,79.9,7.5,92.4,96.7,62.5
+2024,955279,South Korea,Ulsan National Institute of Science and Technology (UNIST),266,37.7,15,11.9,84.1,98.6,41.5,10.9,1.2,8.4,1.8
+2024,296493,Portugal,University of Lisbon ,267,37.7,42.2,21,12.7,35.1,9.3,30.7,97.4,65.8,66.5
+2024,294051,Sweden,Linköping University,268,37.5,19,26.6,34.8,48.8,77.8,30.3,57.9,34.7,87.4
+2024,294570,United States,"University of California, Irvine",269,37.5,37.6,16.6,14.6,50.3,56.9,49.6,65.3,11.4,58.6
+2024,294130,Germany,University of Cologne,270,37.5,36.9,38.5,19.3,31.2,40.5,30.9,80.9,37,57.4
+2024,294239,India,Indian Institute of Technology Kharagpur (IIT-KGP),271,37.4,32.2,43.5,11.8,85.8,3.1,1.3,10.7,21.5,18
+2024,297022,China (Mainland),Beijing Normal University ,272,37.3,38.4,6.8,25.6,86.4,7.1,23.3,22.8,12.2,30.5
+2024,294075,United Kingdom,University of Leicester,273,37.3,21.2,14.2,36.1,45.3,80.8,94.1,75.7,17.8,50.9
+2024,294837,United States,North Carolina State University,274,37.2,27.8,25,8.9,67.3,63,15.3,49.6,20.8,64.5
+2024,294971,China (Mainland),Huazhong University of Science and Technology,275,37.1,22.7,29.2,10,99.3,5.5,3.2,45.4,16.8,27.1
+2024,294778,Italy,University of Milan,276,37,51.2,12.7,5.6,47.8,7.5,6.8,59,24.2,92.1
+2024,297470,United Kingdom,University of Strathclyde,277,37,26.3,34.6,17.7,33.7,93.3,67,61.6,24,59.2
+2024,294240,India,Indian Institute of Technology Kanpur (IITK),278,36.9,34.7,49.3,14.2,75.5,2.1,1.1,3.3,20.6,21.8
+2024,294859,United States,University of Miami,279,36.9,20.1,44.7,76.8,19.2,84.2,22.8,55,37,50.6
+2024,294793,Spain,University of Navarra,280,36.8,29,61.2,56.5,15.1,25.2,74.8,28.9,28.4,45.6
+2024,294615,Indonesia,Bandung Institute of Technology (ITB),281,36.6,41,65.6,65.6,2.5,84.4,2.3,1.2,35.7,21.2
+2024,294603,Norway,University of Bergen,282,36.6,32.7,5.4,67.1,31.2,92.3,14.3,69.3,23.6,57.7
+2024,297281,South Africa,Stellenbosch University,283,36.5,25,39.4,3.1,59.9,20,7.8,92,50.1,44.1
+2024,293867,Malaysia,Taylor's University,284,36.2,24,82.8,63.3,8.5,54.1,98.8,3.8,10.5,2.3
+2024,294238,India,Indian Institute of Technology Madras (IITM),285,36.1,40.1,55.9,26.6,54.7,2.6,1.4,2.7,26,6.5
+2024,297071,Australia,Swinburne University of Technology,286,36.1,13.4,12,11,89.5,97.9,65.5,23.9,10.8,25.8
+2024,294630,United States,The University of Arizona,287,36.1,38.5,18.4,72.5,19.5,11,9.3,88,31,71.5
+2024,297252,China (Mainland),Tianjin University,288,36.1,18.7,8.6,34.7,98.2,24.3,27.4,18.6,24,25.6
+2024,294364,Ireland,University of Galway,289,36,26.3,28.2,61.2,13.5,92.3,39.3,45.7,30.7,90.6
+2024,297051,United Arab Emirates,United Arab Emirates University,290,35.9,28.3,37.8,52.6,13.8,100,38.7,56.5,60.9,16.3
+2024,297178,China (Mainland),Xi’an Jiaotong University,291,35.8,21.4,42.2,17.4,80.9,4.4,4.1,36.8,20.8,34.6
+2024,294764,Norway,Norwegian University of Science And Technology,292,35.7,34,19.4,23.6,27.5,76.1,10.3,88.9,51,65.7
+2024,294515,Ireland,University College Cork,293,35.7,28.4,36.3,29.4,21.6,94.8,47.1,25.1,23.5,96.1
+2024,325908,France,Université Grenoble Alpes,294,35.6,44.5,10.1,7.8,48.8,18.4,34.9,92.6,14.2,40.8
+2024,296813,Hong Kong SAR,Hong Kong Baptist University,295,35.4,19.4,12.6,56,51.9,97.8,100,2.6,15.1,17.2
+2024,297224,United Kingdom,University of East Anglia (UEA),296,35.4,19.2,8.5,16.8,66,68,38.2,64.8,12.7,84.3
+2024,294355,United States,Georgetown University,297,35.3,30.3,34.4,59,18.6,17,39.8,14.4,87.8,66.8
+2024,294506,Canada,Dalhousie University,298,34.9,19.2,18,16,41.8,99,74.7,37.2,21.6,94.4
+2024,297482,United States,Rutgers University–New Brunswick,299,34.8,36.9,24.7,48.7,18.1,18.9,32.8,59.7,20.7,95.9
+2024,295828,Malaysia,UCSI University,300,34.7,22.5,58.4,72.6,3.2,83.7,98,1.3,15.8,24.6
+2024,884447,China (Mainland),Southern University of Science and Technology (SUSTech),301,34.6,9.1,2.1,94.6,95,37.2,1.5,6.8,7.4,6.9
+2024,294384,Germany,Goethe-University Frankfurt am Main,302,34.5,44.4,29.1,21.4,21.3,41.3,25.6,82.1,11.5,46.6
+2024,297206,United States,Virginia Polytechnic Institute and State University,303,34.5,26.2,40.4,18.7,34.8,71.7,17.9,70,20.7,52.8
+2024,294196,Poland,Jagiellonian University,304,34.3,37.3,47.2,65.1,6.2,4.9,13.4,59.4,27.9,57.7
+2024,294761,United States,University of Notre Dame,305,34.3,26.5,32.2,59.7,39.1,23.3,17.7,32,45.2,34.6
+2024,297592,South Africa,University of Johannesburg,306,34,16.2,21.4,36.8,20.7,96.3,50.6,96.9,43.6,73.6
+2024,295458,South Korea,Daegu Gyeongbuk Institute of Science and Technology (DGIST),307,34,10.4,7.5,89,100,5.3,3.7,1,4.7,n/a
+2024,297274,United Kingdom,Swansea University,308,33.9,21,45,23.6,27.4,73.1,54.1,59,10.6,61
+2024,297140,Malaysia,Universiti Teknologi PETRONAS (UTP),309,33.9,18.2,31.6,34.6,65.7,85.2,18.5,24.2,9.9,2.9
+2024,297268,Australia,University of Tasmania,310,33.9,17.2,7.8,17.7,58.1,75.1,95.8,48.8,14.8,47.2
+2024,3845845,Qatar,Hamad bin Khalifa University,311,33.8,11.5,3.9,100,88.6,n/a,n/a,28.1,10.3,n/a
+2024,297497,Spain,Universitat Pompeu Fabra (Barcelona),312,33.8,30.9,22.8,13.1,55.6,77.9,26.6,38.4,15.3,13.2
+2024,297469,Germany,Universität Stuttgart,313,33.7,23.7,27.2,6.1,64.8,37.4,49.8,36.5,19.4,33.8
+2024,294235,United States,Indiana University Bloomington,314,33.5,35.1,24.4,30.5,21.6,40.5,12.7,68.5,52.2,62.5
+2024,297603,Finland,University of Oulu,315,33.5,15.8,17.3,26.4,56.9,52.5,9.4,75.4,16.6,88.4
+2024,297404,Pakistan,Quaid-i-Azam University,316,33.4,15.8,40.3,2.8,97,3.4,1.4,23,5.8,23
+2024,297283,Russia,Saint Petersburg State University,317,33.4,40.8,24,61.6,5.1,5.2,41.7,69.5,52.8,36.1
+2024,297227,Finland,University of Turku,318,33.4,28.3,21.1,52.3,32.4,27.2,4.3,62.9,27.8,77.7
+2024,297293,Canada,Simon Fraser University,319,33.3,25.5,13.5,5.7,42.5,96.8,86.3,34.5,17.6,54.3
+2024,296473,Russia,Bauman Moscow State Technical University,320,33.2,31.3,44.4,100,1.4,53.6,58.9,1,12.2,10.5
+2024,297573,France,Sciences Po,321,33.2,17.7,27.6,88,3.2,54.9,97.1,1.4,76.3,54.6
+2024,296463,Spain,Universidad Carlos III de Madrid (UC3M),322,33.2,32.9,49.1,53.3,4.8,56.5,41.2,18.5,12.9,62.5
+2024,297210,Canada,University of Victoria (UVic),323,33,17.3,7.6,3.5,65,95.2,48.6,19,12.2,89.8
+2024,296998,China (Mainland),Sun Yat-sen University,324,32.8,36.4,22.3,48.8,44.1,2.4,4.2,33.3,16.7,38.4
+2024,294246,United States,University of Illinois at Chicago (UIC),325,32.8,40.9,23.5,31.6,26.2,8.5,17,50.1,31.5,62.8
+2024,297493,South Africa,University of Pretoria,326,32.8,23.6,52.3,3.5,20.7,25,6.4,97.6,58.4,78.4
+2024,297289,Australia,University of South Australia,327,32.7,22.5,14,22.4,32.8,99.8,45.1,58.6,15.4,81.7
+2024,294743,Denmark,University of Southern Denmark (SDU),328,32.7,20,18,27.1,40.7,83.2,22.7,49.7,17.7,88.7
+2024,294034,United Kingdom,"City, University of London",329,32.6,21.4,18.1,6.7,42.2,95,99.3,22.1,28.3,41.7
+2024,297110,South Korea,Gwangju Institute of Science and Technology (GIST),330,32.6,17.4,8.9,38.4,100,21.6,10,1.3,8.1,2.1
+2024,297639,Switzerland,USI - Università della Svizzera italiana,331,32.6,5.8,3.9,82.9,56.4,100,100,4.2,7.9,1.2
+2024,297554,France,Université Paris 1 Panthéon-Sorbonne ,332,32.6,65.2,24.9,4.2,3.4,38.2,46.4,30,32.2,16.3
+2024,294106,South Korea,Kyung Hee University,333,32.5,28,41.6,84.8,14,14.2,54,16.7,12.1,33.5
+2024,294564,United States,"University of California, Santa Cruz",334,32.5,18.4,4.9,7.2,79.6,63.6,8.9,19.3,10.7,89.1
+2024,297394,Iran,Sharif University of Technology,335,32.4,10.1,43.8,6.1,99.1,7.3,1.3,9.7,25.7,1.9
+2024,294819,Italy,University of Naples - Federico II,336,32.3,35.2,17,4.3,61.8,2.4,1.1,81.6,7.1,34.6
+2024,296663,Denmark,Aalborg University,337,32.2,20,22.2,31.5,42.4,76.4,18.2,79.2,14.7,35.8
+2024,296110,Turkey,Middle East Technical University,338,32.2,29,63.7,9,22.2,11.3,17.4,32.2,24.6,84.8
+2024,294548,Peru,Pontificia Universidad Catolica del Peru,339,32.2,46.3,77.1,25.9,1.8,3.9,1.4,2.5,35.2,31.3
+2024,294152,United Kingdom,University of Kent,340,32.2,17,6.7,13.3,43.9,96.6,72.8,43,20.2,85.2
+2024,297023,China (Mainland),Beijing Institute of Technology,341,32.1,22.7,18.1,41.1,76.4,3.1,4.2,17.1,14.1,23.7
+2024,294358,United States,George Washington University,342,32.1,26.9,24.5,28.3,29.3,31.6,27.6,61,49.5,62.8
+2024,296468,Russia,RUDN University,343,32,22.4,45,92.2,2,8.2,92.7,60.1,12.2,4.4
+2024,294583,United Kingdom,Brunel University London,344,31.9,11.3,13.3,7.9,44.2,99.7,99.6,56.9,18.5,62.8
+2024,296494,Portugal,University of Aveiro,345,31.6,13.4,6.6,13.8,84.3,4.3,13.5,72.3,6.7,69.3
+2024,294643,Indonesia,Airlangga University,346,31.5,34,72.5,52.4,1.4,44.6,6.3,1.4,14.4,30.5
+2024,296893,Canada,University of Saskatchewan,347,31.5,12,6.8,17.3,54.3,70,51.8,47.2,20.9,94.9
+2024,294624,Greece,National Technical University of Athens,348,31.4,20.5,42.7,4.7,72.3,1.3,4.3,32,31.8,7.8
+2024,296872,Colombia,Pontificia Universidad Javeriana,349,31.4,43.2,72.7,22.9,1.7,4,2.7,4.2,57.3,29.1
+2024,296465,Spain,Universidad Politécnica de Madrid (UPM),350,31.3,31.2,49.3,14.9,11.4,3.2,30.7,59.9,37.3,83.5
+2024,297565,Italy,University of Pisa,351,31.3,40.4,12.7,7.5,41.1,5.9,4.1,67.6,13.4,73.6
+2024,296646,Finland,Lappeenranta-Lahti University of Technology LUT,352,31.2,6.9,13.3,11.1,97.7,45.2,18.2,14.7,11.4,39
+2024,294525,Portugal,University of Coimbra,353,31.2,28.9,13.1,11.3,41.6,10.7,37.7,78.8,15.6,79.5
+2024,297127,Canada,York University,354,31.1,23,21,4.6,29.2,50.6,81.2,28,53.2,80.8
+2024,294553,Spain,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),355,31,31.9,22,41.2,22.3,8,21.2,72.8,15.1,73.3
+2024,295110,Kazakhstan,L.N. Gumilyov Eurasian National University (ENU),356,30.9,29.5,51.7,96.8,1.4,59.3,5.7,1.1,10.9,9.6
+2024,297004,China (Mainland),Sichuan University,357,30.9,20.1,7.6,11.4,94.7,6.6,5.4,26.2,14.8,18.8
+2024,297234,Japan,University of Tsukuba,358,30.9,35.8,24,59,19,13.8,21.2,31.7,11.5,57.7
+2024,294412,Italy,University of Florence,359,30.8,33.6,5.7,4.1,49.6,8.1,10.7,73,17.4,81.1
+2024,297217,Estonia,University of Tartu,360,30.8,24.4,9,91.5,11.5,46.5,22.2,73.7,42.1,27.6
+2024,297386,China (Mainland),Shandong University,361,30.7,15.6,31.8,17.6,78.7,8.8,3.4,16.3,17.4,28.4
+2024,297117,Iran,University of Tehran,362,30.7,18.7,38.8,3.4,67.5,2.1,1.8,68.6,17.5,18.4
+2024,297139,New Zealand,Lincoln University,363,30.6,7.9,5.3,39.9,51.5,100,91,1.2,31.7,37.8
+2024,294230,Austria,Universität Innsbruck,364,30.6,20.2,7,69.2,11.2,100,100,32.9,35.7,16.5
+2024,297642,United Arab Emirates,American University of Sharjah,365,30.3,20,39.1,20.7,20,100,100,6.4,36.9,3
+2024,294241,India,Indian Institute of Technology Guwahati (IITG),366,30.3,17,25.2,7.7,98.1,3,1.3,5.8,5.5,4.4
+2024,297229,Italy,University of Turin,367,30.3,39.8,5.7,2.9,36.8,4.6,5.4,69.4,32.5,84.3
+2024,297119,Pakistan,National University of Sciences And Technology (NUST) Islamabad,368,30.2,18.9,72.7,77.4,11.7,2.6,3.9,23.5,9,30.7
+2024,293700,Cyprus,University of Cyprus (UCY),369,30.1,8.9,3.1,4.9,77.8,92.9,25.4,55.9,18.6,24.4
+2024,294237,India,Indian Institute of Technology Roorkee (IITR),370,30,17.8,22.5,7.8,91.2,1.3,2.2,3.6,10.5,27.6
+2024,297176,United States,Yeshiva University,371,30,2.8,3.3,75,99.7,n/a,8.9,3.6,10.4,1.3
+2024,294576,Egypt,Cairo University,372,29.9,43.7,33.2,8,2.8,2.7,6.2,48.7,72.5,78.6
+2024,297251,Netherlands,Tilburg University,373,29.9,15.2,33.4,10.4,44.2,96.6,58.4,9.4,14.1,31
+2024,297503,Brazil,Universidade Federal do Rio de Janeiro,374,29.9,60.1,17,15.4,8.3,7.9,1.6,51.7,36.8,23
+2024,297511,United Kingdom,"Birkbeck, University of London",375,29.7,10.8,3.5,14.1,65.1,97.5,98,9.1,12.3,12
+2024,296805,Iran,Amirkabir University of Technology,376,29.5,4.1,33.4,5.1,99.8,15.9,2.8,9.5,10.3,16.5
+2024,294773,United States,Northeastern University,377,29.5,19.4,9.5,19.1,24.2,60.2,94.3,33.2,35.4,87.3
+2024,297475,Germany,Ruhr-Universität Bochum,378,29.5,21.2,11,2.3,59.7,61.1,29.6,62.3,14.7,18
+2024,297041,Australia,Western Sydney University,379,29.5,18.4,15,4.5,29.5,100,39.2,68.3,10.3,90.4
+2024,297231,United States,Tufts University,380,29.4,18.1,5.3,56.2,42.9,25.2,36.2,18.9,47.7,50.9
+2024,294415,Australia,Flinders University,381,29.2,13.3,6.7,6.5,42.6,97,89.5,38.9,10.5,64.8
+2024,297102,Luxembourg,University of Luxembourg,382,29.1,9.1,4.9,77.2,28.6,100,100,18.4,25.6,n/a
+2024,294879,Thailand,Mahidol University,383,29,42.4,30.3,77.7,4.7,6,5.1,10.3,11,27.6
+2024,309623,France,Université de Montpellier,384,29,19.4,3.4,8.9,57.6,23.9,32.3,99.8,10.7,38.7
+2024,297009,China (Mainland),Nankai University,385,28.6,21.1,8.6,29.5,73.9,11.2,3.5,8.1,18.9,22.5
+2024,294839,Germany,University of Münster,386,28.6,31.5,24.6,55.3,12.5,30.3,4.9,59.1,26.1,27.6
+2024,294268,United States,University of Hawaiʻi at Mānoa,387,28.4,16.1,8.5,36.8,48.6,53,12.9,53.7,10.7,47.5
+2024,294791,France,Aix-Marseille University,388,28.3,36.1,4.5,8.3,26.5,18.5,19.9,99.4,11.3,64.5
+2024,293625,Belarus,Belarusian State University,389,28.3,26.6,42.5,95.3,1.3,4.1,49.9,3.4,24.5,1.4
+2024,294518,Canada,Concordia University,390,28.3,15,15.2,3,23.7,80.3,89.3,40.4,30.2,88.8
+2024,297271,Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),391,28.3,27.1,37.8,43.6,27,17.5,31.1,1.9,18.5,26.6
+2024,295818,Brunei,Universiti Brunei Darussalam (UBD),392,28.3,21,5.5,96.3,8.2,100,65.1,2.3,27.4,4
+2024,293278,France,Institut National des Sciences Appliquées de Lyon (INSA),393,28.2,7.8,29.4,37.1,50.8,29.4,69.3,18.8,12.8,20.5
+2024,297000,China (Mainland),South China University of Technology,394,28.2,12.5,4.2,19,95.4,10.4,4.5,9.7,21.9,10.2
+2024,297261,Israel,Technion - Israel Institute of Technology,395,28.2,25.4,27.8,43.9,25.4,64.8,4.6,12.8,30.7,26.1
+2024,296994,China (Mainland),Xiamen University,396,28.2,25.9,11.6,20,65.3,5.4,3.4,25.4,21.5,17.1
+2024,294327,Germany,Justus-Liebig-University Giessen,397,28.1,13.6,6.1,1.7,85.7,12.1,18.9,63.8,9.5,11.1
+2024,294158,Russia,Kazan (Volga region) Federal University,398,28.1,22.7,7.6,93.7,2.8,10.5,96.1,61.7,11.2,24.4
+2024,297276,United States,"Stony Brook University, State University of New York",399,28.1,18.9,7.6,30.4,31.8,45.2,51,34.4,18.5,88.8
+2024,295115,Russia,HSE University,400,28,27.3,31.9,90.7,1.9,6.3,16.1,71.1,13.4,5.1
+2024,294222,United States,Iowa State University,401,27.9,20,13.5,8.4,58.7,4.6,11.1,50.9,27.2,51.8
+2024,297103,Czechia,Masaryk University,402,27.9,23.2,32.2,10.4,15.2,31,68.7,56.2,14.6,69.9
+2024,294754,Portugal,Universidade Nova de Lisboa,403,27.9,28,20.2,19.6,24.2,24,47,63.5,18.8,40.2
+2024,294309,Spain,University of Granada,404,27.8,44,9.8,5.6,23.3,3.4,16.1,96.8,5.1,36.1
+2024,294206,Turkey,Istanbul Technical University,405,27.6,24.2,60.4,12.1,13.3,7.3,18.3,37.2,23,63.1
+2024,294568,United States,"University of California, Riverside",406,27.6,17.5,7,6.7,59.9,63,9.1,45.1,10,46.6
+2024,297566,Philippines,University of the Philippines,407,27.6,34.4,58.9,38,1.9,1.6,1.1,9.3,35.3,38.7
+2024,297138,New Zealand,Auckland University of Technology (AUT),408,27.4,19.3,11.7,10.3,18.5,100,99.3,12,19.3,71.5
+2024,294501,India,University of Delhi,409,27.4,36.1,28.2,3.9,22.5,1.4,1.7,24.7,91.4,31
+2024,294521,United States,Colorado State University,410,27.3,18.8,18.2,56.8,20.3,12.3,4.2,54.9,15,97.7
+2024,297429,Chile,Universidad de Santiago de Chile (USACH),411,27.2,43.3,72.9,8.7,4,6.6,2.2,7.3,4,12.9
+2024,294169,United States,University of Kansas,412,27.2,15.1,13.3,83.6,9,72.6,7.8,35.7,23.5,71.8
+2024,297043,Australia,University of Southern Queensland,413,27.2,8.5,6.8,4.5,59.6,76.1,26.3,60.6,12,51.2
+2024,297597,United Kingdom,Oxford Brookes University,414,27.1,28.9,29.7,13.8,8.4,68.8,70.3,27.1,18.4,34.3
+2024,297486,United Kingdom,Royal Holloway University of London,415,27.1,16,5.7,13.7,36.3,94.4,88.7,23.7,11.1,38.1
+2024,297518,Australia,James Cook University,416,27,15.4,8.7,14.1,51.1,42,13.5,42.5,9,83.3
+2024,294466,Russia,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),417,27,19.8,19.9,96,16,31.4,53.1,5.4,15.7,1.2
+2024,294620,Egypt,The American University in Cairo,418,27,30.3,23.8,42.8,4.6,97.9,3.9,1.4,63.3,16.3
+2024,297245,Russia,Tomsk State University,419,26.9,23.1,10.9,99.4,5.1,23.7,91.5,23.4,7.3,3
+2024,297517,Brazil,UNESP,420,26.8,39.3,34.6,15,16.2,6.2,2.8,34.5,5.7,53.7
+2024,297195,United States,Washington State University,421,26.8,24.4,17.9,16.2,35.4,50,5.5,46.5,11.1,49.7
+2024,297506,Austria,Graz University of Technology,422,26.7,14.5,11,99.5,13.6,75,58.8,10.4,13.6,4.2
+2024,294749,Russia,Novosibirsk State University,423,26.7,27.5,14.4,93.5,12.6,6.7,56.3,5.3,12.9,6.8
+2024,296820,Australia,University of Canberra,424,26.7,13.7,7.3,2.3,51.7,87,58.9,8.9,9.8,55.2
+2024,294063,Belgium,Université de Liège,425,26.7,18.1,16.3,12.9,27.2,50.7,48.5,79.3,16.2,47.8
+2024,297277,France,Université de Strasbourg,426,26.7,39.6,7.9,5.3,23.1,35.6,38.6,70.2,10.9,14.9
+2024,294053,Ireland,University of Limerick,427,26.6,17.5,29.1,14,21.9,88.4,28.6,34.6,13.9,58.9
+2024,296811,India,Anna University,428,26.5,8.5,8.5,5.3,99.8,n/a,1.5,33.8,9.8,n/a
+2024,294227,Spain,IE University,429,26.4,7,40.9,56.2,2.6,94.6,100,1,39.4,6
+2024,309580,Singapore,Singapore University of Technology and Design,430,26.3,7,5.8,99.2,64.6,n/a,n/a,3.1,7.5,n/a
+2024,297238,Italy,University of Trento,431,26.3,24.6,8.9,19.3,44,26.9,6.2,61,9.3,34.9
+2024,297068,Turkey,Koç University,432,26.2,22.4,47.3,24,28.6,27.3,11.2,6.4,11,29.9
+2024,297514,Australia,Murdoch University,433,26.2,7.3,5.3,5.4,53.1,86.3,76.6,40.1,14.2,23.7
+2024,294963,Taiwan,National Taipei University of Technology,434,26.2,15,57.7,27,34.3,21.1,18.2,1.3,17.3,12.6
+2024,294806,Taiwan,National Taiwan Normal University,435,26.2,34.5,20.8,65.4,5.9,14.5,26.7,1.5,14.7,43.2
+2024,297280,United Kingdom,University of Stirling,436,26.2,11.5,10.2,10.5,34.7,71.9,83.5,14.4,14.8,79.8
+2024,294494,Ireland,Dublin City University,437,26,19.7,27,25.6,12.4,76,19.3,19.3,24.8,81.7
+2024,296716,South Korea,Sejong University ,438,26,13.8,17.3,14.7,65.5,24.6,26.7,29.2,5.7,8.7
+2024,913795,Finland,Tampere University,439,26,22.5,19.5,23.9,31.8,32,6.4,56.4,20.6,37.2
+2024,294974,China (Mainland),University of Science and Technology Beijing,440,26,12.6,3,10.7,97.3,3.3,3,9.2,6.2,3.3
+2024,297284,Switzerland,University of St.Gallen (HSG),441,26,9,27.6,6.2,22.8,100,83.1,1,94.8,1.6
+2024,297179,Germany,Julius-Maximilians-Universität Würzburg,442,25.9,17.4,6,4.9,68,35.5,16.4,41.9,9.5,11.7
+2024,294489,United Kingdom, University of Dundee,443,25.9,18.3,13.6,37.5,14.2,96,79.9,27.4,10.5,21.8
+2024,297216,United States,University of Utah,444,25.9,15.9,6,53,36.5,25.3,10.1,54.4,14.9,49
+2024,294083,Canada,Université Laval,445,25.9,19.9,11,25.6,25.1,67.4,36.3,55.4,24.4,31
+2024,294623,Greece,National and Kapodistrian University of Athens,446,25.8,26.3,31.6,2,29.1,9.9,16.2,72.8,28.9,16.1
+2024,294517,United States,University of Connecticut,447,25.8,15.1,6.9,14.5,41.6,47,19,61.4,21.7,61.9
+2024,294627,United Kingdom,Aston University,448,25.7,12.9,22.8,10,34.1,93,38.3,50.5,18.1,12.3
+2024,294049,Austria,Johannes Kepler University Linz,449,25.7,12.5,13.5,82.9,16.1,86.3,27.2,26.5,11.1,18.4
+2024,297258,United States,"The University of Tennessee, Knoxville",450,25.7,10.3,15.4,10.8,72.5,4.2,2.5,45.2,11.9,30.7
+2024,294942,Japan,Toyota Technological Institute,451,25.7,5.2,1.6,37.5,96.4,7.7,1.6,1,8.4,n/a
+2024,294178,Finland,University of Jyväskylä,452,25.7,17.2,12.5,86.2,15.3,40.9,2.8,54.7,11.4,30.2
+2024,296801,Iran,Iran University of Science and Technology,453,25.6,6.6,23.2,2.5,94.8,n/a,1.5,11.1,5.5,1.5
+2024,297020,China (Mainland),Central South University,454,25.5,8.8,3.4,5.6,98.4,6.6,3.6,13.5,9.9,8.9
+2024,293992,France,Université Claude Bernard Lyon 1,455,25.5,18.9,4.1,8.2,55.3,7.9,13.2,90.8,8.8,26.6
+2024,297125,Czechia,Czech Technical University in Prague,456,25.2,21.5,37.6,75.8,4.1,25.6,39.2,15.3,13.8,1.6
+2024,884446,India,Indian Institute of Technology Indore,457,25.2,5.6,4.3,33.3,94.4,2.3,1.1,1.2,8.4,2
+2024,297287,China (Mainland),Southeast University,458,25.2,12.8,7.4,23.9,73.1,15.1,3.5,21.1,8.8,16.9
+2024,293342,Oman,Sultan Qaboos University,459,25.2,16.7,13.7,56.7,18.4,100,3.4,48.3,17.4,8
+2024,294869,Germany,Universität Mannheim,460,25.2,16.1,48.6,2.1,45.1,29.1,20.9,2,23.8,2.5
+2024,294434,United Kingdom,"Essex, University of",461,25.1,16.4,5.1,13,25.6,99.8,99,40.1,13.4,9.6
+2024,296570,Germany,Universität Potsdam,462,25,16,3.1,16.4,38.6,51,21.8,86.3,7.2,42.6
+2024,294402,United States,Florida State University,463,24.9,25.1,25.7,6.8,30.7,15.6,3.9,40.1,20.5,54.3
+2024,294393,Russia,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),464,24.9,10.2,10.1,99,10.9,54.1,90.7,2,18,1.2
+2024,294189,Germany,Universität Jena,465,24.9,18.5,6,99.9,10,n/a,22.4,84,8.1,16.1
+2024,294878,Germany,Johannes Gutenberg Universität Mainz,466,24.8,22.6,12.7,54.5,14.8,38.5,16.2,70.2,10.4,19
+2024,294142,United States,Colorado School of Mines,467,24.7,7.2,9.6,19.7,70.8,29.6,9,2.3,17.4,42
+2024,297222,Sweden,Umea University,468,24.7,19.7,13.9,68.3,14.9,23.8,9.6,44.8,12.7,47.8
+2024,296634,France,University of Bordeaux,469,24.7,30.2,5.3,14.4,21.4,25.6,19.5,91.2,11.9,35.8
+2024,293354,United Arab Emirates,University of Sharjah,470,24.7,16.7,18.8,5.5,13.5,100,99.7,35.9,14.1,24.6
+2024,294604,Israel,Ben-Gurion University of The Negev,471,24.6,14.6,14.2,11.7,52.7,65.3,15.7,20.1,10.5,18.2
+2024,294247,United States,Illinois Institute of Technology,472,24.6,14.2,15.6,13,48.5,30.1,94.1,1.5,13.6,2.5
+2024,297512,Italy,Università degli Studi di Pavia,473,24.6,21.2,5.8,7.5,51,6.1,13.2,53.1,13.2,44.4
+2024,294260,Japan,Hiroshima University,474,24.5,23.6,14,81,9.6,17.3,12.9,30,9.8,37.5
+2024,297021,China (Mainland),Beihang University (former BUAA),475,24.4,13.1,5.5,36.1,68.7,7.5,4.9,7,13.1,15.2
+2024,296475,Russia,Ural Federal University - UrFU,476,24.4,21.3,13.3,93.2,2.1,5.7,25.8,63.3,7.4,24.8
+2024,297067,Lithuania,Vilnius University ,477,24.4,19.8,27.8,83,3,13,14.9,43.5,25.5,11.7
+2024,294136,Japan,Kobe University,478,24.3,28.5,38.8,53.2,11.6,7.4,7.7,8.7,11.9,10.9
+2024,297213,Spain,Universitat Politecnica de Valencia,479,24.3,26.2,12,47,19.6,4.3,23.9,56.8,8.1,28.1
+2024,294127,Germany,Universität Konstanz,480,24.2,20.4,6.9,33.7,21.2,79.8,14.2,24.1,15.6,55.8
+2024,294065,Germany,Universität  Leipzig,481,24.1,25.4,10.2,71,9.6,n/a,15.8,59.3,10,34.6
+2024,294803,United States,Missouri University of Science and Technology,482,24,4.6,4.8,6.5,85.1,61.1,12.3,2.1,9.6,1.6
+2024,294614,United Kingdom,Bangor University,483,23.9,8.8,5.3,14.9,39.7,42.2,55.4,24.6,13,87.4
+2024,294259,Japan,Hitotsubashi University,484,23.9,14.4,80.6,28.6,2.2,21.6,22.4,1,38.4,1.1
+2024,294274,Germany,Leibniz University Hannover,485,23.9,21.3,33.2,16.8,14.8,40.5,30.6,44.3,13.1,29.9
+2024,295111,Kazakhstan,Satbayev University,486,23.9,23.3,36,84.3,1.2,40.5,4.2,1,10.5,1.3
+2024,293783,Italy,University of Milano-Bicocca ,487,24,20.6,9.6,2.9,57.1,3.3,4.6,45.2,13.2,29.4
+2024,297214,Spain,Universitat de Valencia,488,23.8,33.9,7.3,10.9,22.4,2.3,16.6,83.4,6.6,31.6
+2024,294979,China (Mainland),University of Electronic Science and Technology of China,489,23.7,4.3,3,8.6,96.4,3.4,2.6,21.7,7.6,3.5
+2024,296894,Canada,University of Guelph,490,23.7,13.5,20.9,5.8,47.5,43.5,15.1,22.3,13.1,36.3
+2024,297389,Indonesia,IPB University (aka Bogor Agricultural University),491,23.6,21.6,39,66.1,1.7,54.6,3.8,1.2,24.1,3.4
+2024,297487,Italy,"University of Rome ""Tor Vergata""",492,23.6,31.5,12.6,7.6,38.1,7.1,16.2,32.8,7.8,15.2
+2024,297017,China (Mainland),Dalian University of Technology,493,23.5,9.1,3.2,16.8,79.8,12.2,3.2,16.3,13.7,8.7
+2024,294802,United States,University at Buffalo SUNY,494,23.5,18,8.3,7.8,37.2,42.8,33.3,23.3,24.6,50.6
+2024,294215,United States,University of Iowa,495,23.5,19.9,11.2,48.2,20.9,22.3,4.6,51.3,22.1,38.4
+2024,296762,South Korea,Chung-Ang University (CAU),496,23.4,19.8,36.2,69.5,8.9,13.8,36.3,1.7,12.8,2.5
+2024,297013,China (Mainland),Hunan University ,497,23.4,8.6,8.4,13.8,82,4.9,1.9,3.8,18.7,7
+2024,297444,United States,Rensselaer Polytechnic Institute,498,23.4,8.3,7,19.5,70.7,4,44.3,1.6,24.1,2.7
+2024,297392,Spain,Universidad de Sevilla,499,23.4,38.8,10.4,16.7,8.5,3.6,16,82,8,29.1
+2024,294477,South Korea,Ewha Womans University,500,23.2,26.7,23,77.4,7.7,7.8,19.8,1.6,15.3,6.9
+2024,296383,United Kingdom,Ulster University,501,23.2,8.4,13,11.9,12.1,100,90.5,38.5,11.6,63.7
+2024,294503,United States,University of Delaware,502,23.2,10.3,7.9,6.9,59.1,36.3,13.7,28.2,19.8,31.8
+2024,295192,Jordan,University of Jordan,503,23.2,29.1,38.8,17.4,3.3,20.6,34.1,13.8,29.8,28.9
+2024,294598,Turkey,Bilkent University,504,23.1,22.2,44.9,17.2,12.9,72,5.7,4.1,14.3,14.2
+2024,294186,China (Mainland),Jilin University,505,23.1,14.3,47.1,39.3,23.6,12.4,2.2,17.9,18.3,13.7
+2024,297495,United Kingdom,University of Portsmouth,506,23.1,8.4,9.6,8.7,18.7,75.1,87.3,44.8,12.6,73.1
+2024,295514,Macau SAR,Macau University of Science and Technology,507,23,4.2,4.2,4.5,47.8,100,100,2.4,20.9,1.1
+2024,294807,Taiwan,National Sun Yat-sen University,508,23,26.5,24.4,29.5,25.2,23.8,10.3,2.5,12.1,20.9
+2024,297522,United States,Oregon State University,509,23,15.7,4.6,18.9,41.1,17,9.6,58.2,14.1,53.1
+2024,294854,Italy,Università Cattolica del Sacro Cuore,510,23,23.5,31.4,35,13.4,10.4,12.7,9,26,44.4
+2024,297290,South Korea,Sogang University,511,22.9,21.5,49.1,55.7,5.5,7.2,24.3,1,16.5,1.4
+2024,294607,Germany,University of Bayreuth,512,22.9,10.3,19.3,46.4,27,50.1,21.9,40.2,12.1,15.4
+2024,297016,China (Mainland),East China Normal University,513,22.8,15.2,3.7,19.1,53.1,23.3,19.6,31,11.7,19.7
+2024,295395,United Kingdom,SOAS University of London ,514,22.8,18.1,9.5,18.3,15.2,100,99,1,19.6,3.8
+2024,297239,France,Université Paul Sabatier Toulouse III,515,22.8,18.4,3.4,40.4,24.8,5.5,23.5,98.2,7.4,21.8
+2024,297652,Turkey,Bogaziçi Üniversitesi,516,22.7,23,58.4,4,14.3,11.1,2.6,4.9,52.7,6.2
+2024,891275,Vietnam,Duy Tan University,517,22.7,10.7,26.3,3.8,33.6,37,1.2,63.7,10.9,57.4
+2024,293373,Argentina,Pontificia Universidad Católica Argentina,518,22.7,20.4,32.3,99.9,1.1,1.9,8.8,1,19.8,1
+2024,297367,China (Mainland),Shanghai University,519,22.7,22.2,9,53.3,25.4,43.8,5.9,11.5,11.1,15.8
+2024,294337,United States,The University of Georgia,520,22.7,20.9,18.2,9.7,29.7,9.7,4.5,59.1,17.7,46.6
+2024,294589,Germany,Universität Bremen,521,22.7,19.7,8.4,16.3,24.4,41.7,26.7,77.7,7.2,28.1
+2024,294104,South Korea,Kyungpook National University,522,22.6,11.1,18,64.5,17.2,9.8,20.1,7.7,43.1,54.6
+2024,294618,Argentina,Universidad Austral,523,22.6,19.4,52.5,75.4,1.8,2.4,8.5,1,9.4,1.2
+2024,295219,United States,University of Texas Dallas,524,22.6,13.3,11.6,3.8,54.5,5.4,35.5,23.8,8.4,41.1
+2024,297124,Spain,Universidad de Zaragoza,525,22.5,22.9,4.5,57.6,7.1,4.1,9.7,55.3,8,80.6
+2024,294253,United Kingdom,University of Hull,526,22.5,8.5,3.5,13,25.4,57.4,67.4,36.4,16.8,85.2
+2024,295513,Brunei,Universiti Teknologi Brunei,527,22.4,13.7,3.9,90.3,8.6,100,5.5,1,34.2,1
+2024,295119,Russia,MGIMO University,528,22.3,11.8,21.3,100,1.4,12.7,46.2,1,47.6,1
+2024,297478,Turkey,Sabanci University,529,22.3,18.1,37.5,34.5,19.2,37,15,1.8,11.2,15.4
+2024,297298,India,University of Madras,530,22.3,8.7,3.6,n/a,95.4,n/a,n/a,2.4,n/a,1.1
+2024,296821,Australia,Edith Cowan University ,531,22.2,8.7,8.1,6.2,41,77.5,72.6,18.7,12,11.7
+2024,294652,Greece,Aristotle University of Thessaloniki,532,22.1,28.7,25.9,3.8,13.5,1.4,4,75.4,15.7,36.6
+2024,294141,Germany,Christian-Albrechts-University zu Kiel,533,22.1,18.6,10.1,47.7,16.1,n/a,9.4,79.9,10.5,42.3
+2024,293454,Argentina,Universidad de Palermo (UP),534,22.1,9.3,17.8,90.5,1.1,40.4,96.6,1,9.6,1
+2024,294360,Italy,University of Genoa,535,22.1,17.4,3.8,11.3,40.6,4.8,8.8,54.3,12.7,61.9
+2024,297019,China (Mainland),China Agricultural University ,536,22,9.6,2.1,19.9,78.7,3.4,1.6,3.3,6.5,8.4
+2024,295116,Russia,Peter the Great St. Petersburg Polytechnic University,537,22,16.7,9,77.6,3,15,87.6,21.9,4.3,18.2
+2024,294510,Greece,University of Crete,538,22,15.1,14.3,3,67.9,1.7,3.8,13.4,8.9,3.5
+2024,297474,Spain,University of Salamanca,539,22,26.8,15,23.2,6.9,6.7,22.4,45.3,15.3,72.5
+2024,296405,Spain,Universidad de Alcalá,540,21.9,10,4.7,68.8,5.2,20,66.3,37.9,9.4,74.3
+2024,294872,Malaysia,Universiti Utara Malaysia (UUM),541,21.9,20.6,28,40.4,7.1,18.8,79.8,3.4,9.7,10.6
+2024,295144,Pakistan,Lahore University of Management Sciences (LUMS),542,21.8,15.7,72,35.1,6,7.3,1.9,1.1,22.2,1.4
+2024,296825,Argentina,Universidad Nacional de La Plata (UNLP),543,21.8,38.7,31,23.8,2.1,3.6,29.9,9.1,8.6,5.1
+2024,294172,Russia,ITMO University,544,21.7,12,11.6,96.2,6.9,21.4,38.9,27.3,7.3,15
+2024,297223,Germany,Ulm University,545,21.7,7.6,3.9,78.3,33.7,41.1,21.1,14.5,7.2,3.2
+2024,294681,Costa Rica,Universidad de Costa Rica,546,21.6,33.5,37.6,34.7,1.8,n/a,n/a,6,33.7,4.7
+2024,296784,Israel,Bar-Ilan University,547,21.5,8,5.3,7.8,62.2,47.9,2.9,10.2,15.2,28.4
+2024,294508,United States,City University of New York,548,21.5,22.7,34.1,9.4,5.8,6.6,4.9,89,19.3,31.3
+2024,297648,Singapore,Singapore Management University,549,21.5,11.8,15.3,10.5,20.9,100,63.3,1.2,25,21.4
+2024,297601,United States,Lehigh University,550,21.4,5.8,4.2,26.2,38.4,62.4,29.6,9.1,28.3,47.5
+2024,294770,United Kingdom,Northumbria University at Newcastle,551,21.4,10.5,15.9,10.7,16,67.2,72.3,49.8,16,29.1
+2024,294115,Finland,University of Eastern Finland,552,21.4,14.8,9.7,39.4,24.6,30.9,4.8,62.4,8.1,28.4
+2024,294731,United Arab Emirates,Ajman University,553,21.3,13.6,34.7,8.2,2.2,100,100,2,13.3,3
+2024,295868,United Arab Emirates,Canadian University Dubai,554,21.3,14.7,14.4,31.3,2.3,100,100,1,22.3,1
+2024,296664,Belgium,Hasselt University ,555,21.3,5.8,3.4,78.8,18.3,76,23.9,27.2,10.2,15.9
+2024,297560,United States,University of Nebraska - Lincoln,556,21.3,10.8,5.9,18.8,33.7,30.4,8.2,42.6,12.2,79.1
+2024,297097,Malaysia,Universiti Teknologi MARA - UiTM,557,21.2,28.9,47.6,15.8,2.8,1.9,2.1,24.3,8.7,31
+2024,294404,United States,Florida International University,558,21.1,14.9,35.4,12,12.8,21.1,12.1,68.1,14.2,39
+2024,360165,Malaysia,INTI International University,559,21.1,5,14.8,84.3,1.7,75.2,88.4,1,9.1,1
+2024,296557,Italy,Politecnico di Bari,560,21.1,6.5,4.6,15.6,79.3,5,7.9,4.1,5.5,1.1
+2024,297005,China (Mainland),Renmin (People's) University of China,561,21.1,23.7,40.4,17.2,8,7,5.3,1.5,62.4,18.2
+2024,297524,Czechia,"University of Chemistry and Technology, Prague",562,21.1,6.1,7.9,99,12.9,27.8,71.9,3.2,10.1,1.3
+2024,297018,China (Mainland),Chongqing University,563,21,8.4,3.8,13.2,70.4,14.7,2.2,11.4,13.6,10.3
+2024,297557,United Kingdom,University of Plymouth,564,21,9,12.1,12.2,29.1,51.3,38.9,45.4,11.2,45
+2024,294626,Philippines,Ateneo de Manila University,565,20.9,19.7,57.9,29,1.7,3.3,2.7,1.1,54.6,1.7
+2024,297480,United States,University of South Florida,566,20.9,13.2,10.2,7.9,36.6,30.7,13.8,57.8,10.6,34.9
+2024,297641,Switzerland,Université de Fribourg,567,20.9,10.7,3.8,5.3,38.8,100,45.4,8.9,20.4,5.2
+2024,297113,Australia,Bond University,568,20.8,4.7,5.2,44.1,22.8,87.7,93.6,1.1,11.7,1.1
+2024,294811,Taiwan,National Chengchi University,569,20.8,19.5,39,19.7,2.7,27.1,23.5,1,81,1.9
+2024,294642,Chile,Universidad Adolfo Ibáñez,570,20.8,19.1,73.5,4.2,4.4,37.7,4.2,1.2,13.7,1.1
+2024,297416,United Kingdom,University of Huddersfield,571,20.8,12.5,15,6.7,20.9,65.1,79.4,41.2,9,7.3
+2024,294538,Thailand,Chiang Mai University,572,20.7,33.8,19.3,16.4,3.9,5.1,4.1,20.9,17.1,59.2
+2024,294512,United Kingdom,Coventry University,573,20.7,9.2,12.5,15.7,6.8,74.8,100,50.7,13.7,26.6
+2024,295508,India,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),574,20.7,4.4,3.6,3.9,88.7,1.4,1.1,1.5,8.2,4
+2024,297199,Poland,Warsaw University of Technology,575,20.7,22.8,49.8,38.7,4.3,1.8,10.3,9.7,11.5,2.1
+2024,296751,South Korea,HUFS - Hankuk (Korea) University of Foreign Studies ,576,20.6,13.4,23.9,85.3,1.6,32.3,45.1,1,5.7,1.3
+2024,297481,United States,University of South Carolina,577,20.6,14.7,11.8,8.9,33.6,37.8,3.5,40.8,17.1,39.6
+2024,297145,Lebanon,Lebanese University,578,20.5,23.7,49.8,11.6,2.1,43.3,31.9,2.3,9.9,2.1
+2024,295098,Taiwan,Taipei Medical University (TMU),579,20.5,10.3,15.4,91.1,17.9,15.1,15.6,1.3,9.9,9
+2024,297236,Norway,University of Tromsø The Arctic University of Norway,580,20.5,12.1,3.7,70.5,8.9,70.4,7.7,42.5,9.6,21.8
+2024,294729,United Arab Emirates,Abu Dhabi University,581,20.4,11.5,17.9,12.6,12.4,100,99.9,1.2,11.3,1.1
+2024,294797,Austria,University of Klagenfurt,582,20.4,5.5,4.3,60.2,11.4,95.2,86.6,3,12,1.6
+2024,295558,Bahrain,Applied Science University - Bahrain,583,20.3,18.2,21.9,36.8,1.7,100,44.9,1,8.3,n/a
+2024,294635,Venezuela,Universidad Católica Andres Bello,584,20.3,26.6,67.7,3.7,1,2.5,2.9,n/a,29.8,n/a
+2024,293896,Spain,Comillas Pontifical University,585,20.3,8.1,65.9,39.9,2.3,19.3,5.8,1,45.5,2
+2024,293643,Russia,National Research Tomsk Polytechnic University,586,20.2,9.7,7.5,93.9,4,8.1,76.6,21.3,8.1,8.3
+2024,297555,Malaysia,Sunway University,587,20.2,10.5,44.1,52.2,7.2,35.5,24.3,4.4,9.2,5.4
+2024,294851,United States,"University of Missouri, Columbia",588,20.2,14.2,9.6,40.2,17.4,56.4,3.3,23.9,24.2,35.5
+2024,296089,Australia,Central Queensland University (CQUniversity Australia),589,20.1,8.7,9.5,24,16,98,98.1,1.2,8.3,5.6
+2024,297540,United Kingdom,Manchester Metropolitan University,590,20.1,12,13.4,8.5,9.8,44.4,40.5,66.6,14.6,69.3
+2024,295923,Saudi Arabia,Prince Mohammad Bin Fahd university,591,20.1,15.4,19.1,20.8,20.3,100,20.5,1.1,9.4,1
+2024,294032,United Kingdom,"Goldsmiths, University of London",592,20,14.9,6,14.7,13.6,97.8,92.8,1.2,17.2,1.8
+2024,294406,United States,University of Central Florida,593,20,14.4,37.1,2.8,25.7,17.1,4.5,32.1,11.1,32.7
+2024,293876,Saudi Arabia,Imam Abdulrahman Bin Faisal University (IAU),594,19.9,7.6,7.1,85.9,2.3,98.5,16.5,11.6,8.1,19
+2024,297519,United Kingdom,Nottingham Trent University,595,19.9,10.6,20.5,10.2,5.2,56.9,61,52.1,13.8,50.6
+2024,297502,Brazil,Pontifícia Universidade Católica do Rio de Janeiro,596,19.9,33.4,24.5,9.3,7.7,12.4,1.6,2.4,28.6,32.7
+2024,293144,China (Mainland),Shenzhen University,597,19.9,8.4,2.3,55.2,42.6,13.2,1.4,14.3,17.6,15.8
+2024,296537,Italy,Università Vita-Salute San Raffaele,598,19.9,3.1,1.7,98.8,39,8.3,3.1,3.6,7.6,1
+2024,294977,China (Mainland),Nanjing University of Science and Technology,599,19.8,5.1,2.2,10.9,82.2,n/a,n/a,3.4,6.2,1.8
+2024,297255,Thailand,Thammasat University,600,19.8,23.8,26.4,25.1,2.1,11.6,1.7,2,72.5,29.4
+2024,297230,United States,Tulane University,601,19.8,9.6,5,81.5,10.4,16.9,14.5,45.5,22.7,21.4
+2024,297479,Germany,Saarland University,602,19.8,11.1,4.5,89.9,8.3,4.9,39.2,39,20.1,2
+2024,296649,Finland,Abo Akademi University,603,n/a,8.3,6.2,23.6,40.7,45.2,15.5,29.5,11.5,11.8
+2024,296682,United Arab Emirates,American University in Dubai,604,n/a,9.8,16.8,20.4,1.9,100,100,1,37.3,1
+2024,297046,Australia,Charles Darwin University ,605,n/a,5.8,4.7,4,41.3,37.4,76.7,3.6,8.5,45.3
+2024,294495,United States,Drexel University,606,n/a,8.4,6.1,21.1,35.1,32.8,22.3,28.4,26,34.6
+2024,294191,India,Jawaharlal Nehru University,607,n/a,29.1,10.6,12.2,24.1,n/a,1.6,4.8,13.2,47.5
+2024,294138,United Kingdom,"Kingston University, London",608,n/a,17.5,12.6,6.1,8.7,71.9,99.4,9.2,14.1,9.8
+2024,297377,Saudi Arabia,Umm Al-Qura University,609,n/a,18.3,9.4,56.9,2,100,17.6,4.5,8.2,3.1
+2024,296834,Chile,Universidad de Concepción,610,n/a,27,35.6,13.1,7.4,13.1,2.2,16.3,9.5,31.6
+2024,297272,Hungary,University of Szeged,611,n/a,18,12,44.6,4.9,11.9,50.5,34.6,9.1,34.9
+2024,295319,United Arab Emirates,Al Ain University,612,n/a,17.4,11,11.9,4.2,100,100,1.4,11.4,1
+2024,295113,Kazakhstan,Auezov South Kazakhstan University (SKU),613,n/a,15.2,21.5,92,1,13.3,21.3,1,11.2,1
+2024,294585,Czechia,Brno University of Technology,614,n/a,13.1,34.7,22.7,6.7,9,70.9,38.6,14.2,2.7
+2024,294285,Germany,Martin-Luther-Universität Halle-Wittenberg,615,n/a,14.4,4.3,82.8,6.9,n/a,9.8,73.4,7.6,5.8
+2024,294816,Taiwan,National Central University,616,n/a,21.5,27.1,23,17.8,12.9,9.1,2.1,6.5,30.2
+2024,297483,South Korea,Pusan National University,617,n/a,23,18.5,38,17.1,10.4,12.4,7.9,13.3,8.1
+2024,296773,Japan,Tokyo Medical and Dental University (TMDU),618,n/a,11.5,5.8,100,18.2,3.5,15.3,1.2,8,1.1
+2024,296408,Portugal,University of Minho,619,n/a,15.6,8.7,32.8,18.7,19.4,18,52.7,10.2,27.6
+2024,309634,Malaysia,Asia Pacific University of Technology and Innovation (APU) Malaysia,620,n/a,6.4,8.6,57.8,1.5,89.8,100,1,9.4,1
+2024,294682,Taiwan,Chang Gung University,621,n/a,5.7,4.6,70,43,4.3,4.7,1.4,7.9,4.1
+2024,296976,Indonesia,Institut Teknologi Sepuluh Nopember (ITS Surabaya),622,n/a,15.3,41,36.9,1.7,43.1,5.2,1,14.5,26.3
+2024,295796,Malaysia,Management and Science University,623,n/a,12.4,12.2,33.5,1.6,90.5,94.1,1,10.1,1
+2024,294972,China (Mainland),Northwestern Polytechnical University,624,n/a,5.9,2.5,46,53.6,13.9,4.8,6.1,10.1,3.2
+2024,297562,United States,Stevens Institute of Technology,625,n/a,2.7,2.9,4.7,52.4,37.5,91.4,1.2,12.2,1.1
+2024,309672,Spain,Universitat Ramon Llull,626,n/a,10.4,43.7,6.3,8.5,94.7,32.2,2.4,15.6,1.4
+2024,294818,South Africa,University of Kwazulu-Natal,627,n/a,12.9,11.8,6.5,22.8,25.1,1.9,78.1,28,37.8
+2024,294040,Slovenia,University of Ljubljana,628,n/a,20,9.5,35.6,6.3,4.5,10.7,59.3,48.9,17.2
+2024,296460,Spain,University of the Basque Country,629,n/a,19.4,6.4,34.7,17.4,2.5,3.8,73.6,7,21.2
+2024,296814,China (Mainland),Zhengzhou University,630,n/a,5.4,19.7,4.7,65.6,n/a,2.5,4.4,6.7,3.2
+2024,296433,South Korea,Ajou University ,631,n/a,15.5,15.4,65.1,17.4,6.2,13.7,1.1,8.3,5
+2024,297105,United States,Boston College,632,n/a,20.5,12.9,19.3,21.5,12,18.3,9.1,38.4,15.9
+2024,295038,China (Mainland),Jinan University (China),633,n/a,5.6,2.1,9.4,42.9,36.7,85.2,9.6,7.3,5
+2024,295889,Czechia,Palacký University Olomouc,634,n/a,15,17.9,29.6,8.6,33.3,19.5,54,9.5,23.7
+2024,297500,Japan,Ritsumeikan University,635,n/a,15.2,68.4,8.1,3.8,24.7,10.2,2,8.7,2.2
+2024,297144,Lebanon,Saint Joseph University of Beirut (USJ) ,636,n/a,9.2,27.6,46.8,2.5,90.8,19.7,1,13,9.7
+2024,293426,Venezuela,Universidad Central de Venezuela,637,n/a,23.1,58.4,21,1.1,n/a,n/a,1.2,14.3,1.1
+2024,294790,United States,University of New Mexico,638,n/a,11.6,13.9,38.3,16.4,15.7,4,57.5,9.3,33.8
+2024,397495,France,Université de Lille,639,n/a,25.3,4.2,4.4,14.6,16.8,17.6,86.3,7,17.2
+2024,293893,Russia,Far Eastern Federal University,640,n/a,10.6,3.5,94.9,1.8,14.1,66.1,5.1,8.2,1.2
+2024,296551,Italy,Free University of Bozen-Bolzano,641,n/a,5,1.5,11,47.6,74.8,26.3,11.1,8,1.9
+2024,293621,Kazakhstan,Kazakh National Agrarian University KazNAU,642,n/a,17.4,13.1,79.8,1.1,20.2,24.3,1,11.8,1.1
+2024,296993,Hong Kong SAR,"Lingnan University, Hong Kong",643,n/a,9.3,5.5,14.6,16.3,100,95,1.1,8,1.1
+2024,296898,Canada,Memorial University of Newfoundland,644,n/a,7,4.6,11,28.5,25.3,71.9,36.5,11.8,31
+2024,295250,United States,New Jersey Institute of Technology (NJIT),645,n/a,3.9,6.1,14,27.5,84.5,69.9,1.9,9.9,20.5
+2024,295180,Pakistan,Pakistan Institute of Engineering and Applied Sciences (PIEAS),646,n/a,5.5,9.5,76.6,34.4,n/a,1,1.1,10.9,1
+2024,297650,United States,The New School,647,n/a,15.9,14.9,44.3,2.8,6,91.7,1.2,24.7,1.1
+2024,293444,Cuba,Universidad de La Habana,648,n/a,19.5,17.3,72.9,1.6,1.9,4,1.2,35.3,1.2
+2024,294591,United Kingdom,University of Bradford,649,n/a,8.7,7.3,8.2,18.1,63.8,93.2,20.1,21.6,3.4
+2024,294254,United States,University of Houston,650,n/a,13.9,10.9,4.5,34,8.5,9.3,34,29.2,27.8
+2024,294849,Italy,University of Modena and Reggio Emilia,651,n/a,8.7,3.2,2.3,50.3,3.9,3.8,21.4,13.9,57.4
+2024,294734,United States,University of Oklahoma,652,n/a,9.6,10.6,16.3,34.3,34.5,5.1,17.9,17.2,33.5
+2024,296897,Canada,University of Windsor,653,n/a,3.6,4.8,2.3,33.1,87.6,75.1,6.1,20.4,6.4
+2024,295071,Pakistan,COMSATS University Islamabad,654,n/a,10.4,29.2,14.4,13.9,1.6,1.6,62.6,8.1,50.9
+2024,297635,Mexico,Instituto Tecnológico Autónomo de México (ITAM),655,n/a,15.5,35.1,11.7,1.8,65.6,1.5,1,64.9,1.2
+2024,296819,Australia,Southern Cross University ,656,n/a,4.7,3.4,3.2,38.6,71.2,66.2,9.3,6.9,11
+2024,297270,Estonia,Tallinn University of Technology (TalTech),657,n/a,12.9,11.4,27.6,9.6,49.5,25,48.5,32,3.5
+2024,297121,Uruguay,Universidad de Montevideo (UM),658,n/a,18.6,13.5,80.2,1.1,23.7,3.3,1,18.8,n/a
+2024,297087,Israel,University of Haifa,659,n/a,13.1,7.4,19.6,30.1,14.2,3.9,13.5,14.1,51.8
+2024,296584,Germany,University of Hohenheim,660,n/a,9.8,5.3,10,39.4,26.4,24.2,36.3,8.8,15
+2024,294646,United Kingdom,Aberystwyth University,661,n/a,9.5,6.4,19.5,23.5,46.1,49.5,27.1,10.5,9.6
+2024,294590,United States,Brandeis University,662,n/a,9.8,4.3,49.9,16.3,26.2,70.6,1.4,17.4,1.5
+2024,297066,Italy,Ca' Foscari University of Venice ,663,n/a,18.8,14.8,4.9,14.2,35.1,8.2,15.5,10.8,62.8
+2024,297150,Lebanon,Holy Spirit University of Kaslik ,664,n/a,6,12,60.6,2,99,38.3,1,9.5,2.6
+2024,294307,Austria,Karl-Franzens-Universitaet Graz,665,n/a,21.3,9.5,12.3,10.9,46.9,28.4,15.2,18.3,19.2
+2024,297147,Lebanon,Lebanese American University,666,n/a,10.5,28.2,35.5,3.2,78.9,26.4,1,10.4,7.8
+2024,294856,United Kingdom,Middlesex University,667,n/a,5.6,4.8,8.3,14.3,85.1,99.6,20.6,15.8,8.6
+2024,294808,Taiwan,National Chung Hsing University,668,n/a,20.2,24.1,27.6,11.8,7.9,5.6,2.2,20.4,20.1
+2024,295342,Saudi Arabia,Princess Nourah bint Abdulrahman University,669,n/a,16.6,16.5,19.4,1.9,92.5,47.7,6.3,8.2,2.5
+2024,293648,Japan,Tokyo University of Science,670,n/a,11,54.8,10.6,11.7,13.3,3.8,1.2,29.8,7
+2024,293506,Mexico,Universidad Panamericana (UP),671,n/a,8.7,22,81.5,1.2,10.5,2.5,1.2,49.4,1
+2024,296963,Indonesia,Universitas Padjadjaran (UNPAD),672,n/a,16.8,34,36.6,1.4,24,1.7,1.2,22,24.8
+2024,294166,Spain,Universitat Rovira i Virgili,673,n/a,6.7,2,16.6,37.4,7.6,22.5,38.6,7.5,47.2
+2024,297567,Italy,Università degli Studi di Perugia,674,n/a,9.3,2.3,3.6,42.4,6.9,5.9,27.3,6,66
+2024,892235,Kuwait,American University of the Middle East,675,n/a,17.7,18,17.8,3.3,100,25,1.3,12.7,1.1
+2024,294556,Canada,Carleton University,676,n/a,10.9,13.9,3.1,21.8,21.6,46,16.8,28.5,35.8
+2024,296757,South Korea,Dongguk University ,677,n/a,10.4,11.5,88.5,8.5,8.5,23.4,2.8,4.9,1.6
+2024,297396,Hungary,University of Debrecen,678,n/a,17.3,10.3,30.4,3.7,10.6,68,39.6,16.9,3.5
+2024,296381,United Kingdom,University of Greenwich,679,n/a,4.5,4.2,4.6,10.6,91.9,100,41.1,12.8,12.7
+2024,294870,Canada,University of Manitoba,680,n/a,14.5,12,36.3,10,n/a,27.8,29.3,24.1,32.9
+2024,293628,Kazakhstan,Abai Kazakh National Pedagogical University,681,n/a,23.2,17,47.8,1.2,38,2.8,1,12.1,1
+2024,293362,Mexico,"El Colegio de México, A.C.",682,n/a,15.6,3.1,100,1.6,9.1,18,1,7.7,1
+2024,294504,Philippines,De La Salle University,683,n/a,21,45.1,10.5,4.2,2,2.7,1.3,35.6,5.6
+2024,297015,China (Mainland),East China University of Science and Technology,684,n/a,7.5,2.6,13,61.4,2.7,1.8,2.8,11.7,3.6
+2024,296146,Austria,Paris Lodron University of Salzburg,685,n/a,9.4,2.3,13,8,95.1,97.5,13.3,12,6.3
+2024,297096,Chile,Pontificia Universidad Católica de Valparaíso,686,n/a,27.3,39.6,4.9,6.6,10.4,1.6,5.3,8.7,1.8
+2024,296792,Iran,Shiraz University,687,n/a,5.7,10.4,5.1,54.9,1.2,1.8,6.4,13.4,27.6
+2024,297002,China (Mainland),Soochow University,688,n/a,6.2,2.3,16.8,58.5,6.7,2.7,10.4,11.1,3.8
+2024,294139,Ukraine,Taras Shevchenko National University of Kyiv,689,n/a,19.2,38.6,33.4,2.3,1.5,5.1,2.9,28,1.9
+2024,294116,Russia,The National University of Science and Technology MISIS,690,n/a,6.5,8,75.5,14.7,7.9,49.9,3.6,9.8,1.1
+2024,294149,United States,University of Kentucky,691,n/a,10.9,11.5,18.9,26.1,20.9,3.7,40.6,13.6,24.1
+2024,295447,India,Indian Institute of Technology Hyderabad (IITH),692,n/a,5.1,2.7,16.6,64.3,1.2,1.1,1,8.2,2.6
+2024,297122,South Korea,Inha University,693,n/a,10.9,15.3,72.9,11.7,8.8,14.4,1.4,12.4,3
+2024,294249,Mexico,Universidad Iberoamericana IBERO,694,n/a,19.1,31.1,31.6,1.3,5.5,2.4,1,51.4,7.4
+2024,296865,Brazil,Universidade Federal de Minas Gerais      ,695,n/a,32.7,5.7,12.4,7.6,7.1,1.8,24.7,25.6,13.7
+2024,295200,Brazil,Universidade Federal do Rio Grande Do Sul ,696,n/a,28.6,3.8,10.9,10.1,2.2,1.6,36,9.5,46.3
+2024,294528,United States,University of Cincinnati,697,n/a,12.3,7.6,21,25.8,6,10.8,32.1,20,31.3
+2024,294499,Bangladesh,University of Dhaka,698,n/a,21.3,44.9,11.7,2.6,1.7,1,2.1,30.3,11.6
+2024,296666,Belgium,University of Mons ,699,n/a,6.7,13,3.1,40.3,35.9,43.6,5.2,11.3,1.8
+2024,297237,Italy,University of Trieste,700,n/a,11.9,3.6,4,45.5,6.4,7.6,37.6,12.9,4
+2024,296999,Ukraine,V. N. Karazin Kharkiv National University,701,n/a,12.6,17.9,66,1.4,3.1,58.8,1.6,9.9,1.1
+2024,296470,Russia,Altai State University,702,n/a,10,3.7,84.4,1.4,6.7,69.9,1,7.6,6.1
+2024,294537,Japan,Chiba University,703,n/a,16.8,8.4,62.3,10.9,7.5,5.2,2.5,8.6,18.8
+2024,371261,Czechia,Czech University of Life Sciences in Prague,704,n/a,11,8.8,9.2,9.5,26.6,64.5,54.7,9.4,35.8
+2024,294013,Hungary,Eötvös Loránd University,705,n/a,23.9,16.8,13.2,7.8,5,11.3,31.1,30.8,10.2
+2024,296871,Colombia,Universidad de Antioquia,706,n/a,31,33.9,4.2,4.3,3.9,1.3,3.9,9.6,5.2
+2024,297434,Spain,Universidade de Santiago de Compostela,707,n/a,23.5,10.3,13,16.1,2.8,6,38,8.1,23.2
+2024,297200,United States,Wake Forest University,708,n/a,5.4,6.1,100,11,5.4,13.5,5.5,16.5,2.3
+2024,297638,United Arab Emirates,Zayed University,709,n/a,14.5,17.3,22,6.3,100,2,8.3,17,2.8
+2024,297152,Lebanon,Beirut Arab University ,710,n/a,13.4,18.8,16.5,2.7,80.1,51.3,1.1,18.2,1.1
+2024,294975,China (Mainland),"China University of Petroleum, Beijing",711,n/a,3.8,1.5,9.8,64.8,1.5,3.2,1.2,17.1,2.5
+2024,297111,Malaysia,International Islamic University Malaysia (IIUM),712,n/a,22.8,17.2,14.2,2.9,24,60.2,12.2,7.2,3
+2024,294202,Turkey,Istanbul University,713,n/a,26.4,19.1,3,4.2,6.4,15.7,36.1,34.7,3.4
+2024,297488,India,Savitribai Phule Pune University,714,n/a,7.8,11.3,55.1,30.4,1.2,3.3,3,7.2,4.9
+2024,296857,Colombia,Universidad del Rosario,715,n/a,14.4,43.4,21,2.7,9.5,2.4,1.1,27.5,22.5
+2024,295062,United States,"University of Maryland, Baltimore County",716,n/a,10.6,13.1,13.4,18.1,59.4,15.9,6.2,10.8,38.7
+2024,294159,Canada,University of New Brunswick,717,n/a,4.6,6.9,23,24.9,63.8,24.8,5.9,14.4,32.7
+2024,297186,United Kingdom,University of Westminster,718,n/a,12.9,6.7,5.9,6,78.4,100,1.9,16.3,1.9
+2024,297447,France,Université de Rennes 1,719,n/a,15.8,4,12.2,25,12.6,12.1,57.3,7.4,13.4
+2024,297040,Australia,Victoria University ,720,n/a,7.6,6.5,2.4,34.6,34.1,57.6,15,12.3,4.1
+2024,297631,Egypt,"Ain Shams University in Cairo (ASU, Cairo)",721,n/a,22.4,25.4,10.2,1.9,25,5.6,22.2,30.2,7
+2024,294983,China (Mainland),Beijing University of Chemical Technology,722,n/a,4.8,1.8,15.6,62.7,n/a,n/a,2,5.9,1.4
+2024,294533,South Korea,Jeonbuk National University,723,n/a,16.7,10.7,65.8,9.7,8.2,7.4,2.9,5.1,3.1
+2024,3919720,Japan,Osaka Metropolitan University,724,n/a,13.4,12.1,59.6,7.4,5,3.6,1.9,47.9,1.2
+2024,297259,United States,Temple University,725,n/a,12.5,7.9,26.4,18.8,3.4,5.7,48.1,18.3,23
+2024,295802,Vietnam,Ton Duc Thang University,726,n/a,4.2,10.2,5.1,34.6,18.4,1.6,84.9,11.8,6.8
+2024,296533,Italy,Universita' Politecnica delle Marche,727,n/a,6,2.8,11,49.1,3.9,4.8,40.9,6.9,6.5
+2024,295204,Serbia,University of Belgrade,728,n/a,17.8,5.2,4.3,5.3,2.9,4.3,95.4,56.7,16.1
+2024,295082,United States,"University of Colorado, Denver ",729,n/a,8.4,6.3,100,4.9,3.6,9,2.3,8.4,15.2
+2024,297643,United States,University of Oregon,730,n/a,17.7,8.6,11.2,24,12.5,4.5,8.9,18.3,30.7
+2024,913867,France,Université Côte d'Azur,731,n/a,15.8,3,5.2,21.8,32.8,39.7,42.6,7.8,5.6
+2024,294830,France,Université de Lorraine,732,n/a,13.7,3.6,6.4,11.4,28.9,28.4,93.1,10.2,17.2
+2024,295689,Poland,"Adam Mickiewicz University, Poznań",733,n/a,15.8,8.7,29.7,5,7,7,59.5,12.6,38.4
+2024,295102,Saudi Arabia,Alfaisal University,734,n/a,3.9,3.2,23.9,10.7,100,89.4,1.1,9.2,1.2
+2024,294592,United Kingdom,Bournemouth University,735,n/a,5.7,8.3,6.1,17.4,81.2,50.1,23.3,10,18.4
+2024,884449,India,Indian Institute of Technology Bhubaneswar,736,n/a,3.8,3.4,12,63.3,1.6,1,1,8.2,1
+2024,293330,Jordan,Jordan University of Science & Technology,737,n/a,18.5,24.5,16.4,4.7,13.9,31.6,9.9,9.8,22
+2024,293591,Ukraine,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",738,n/a,16.1,33.7,47,1.5,1.1,2.5,1.4,18.9,1.4
+2024,294696,Colombia,Universidad EAFIT,739,n/a,13.1,61.5,4.5,2.3,4.6,1.6,1,35.1,1.1
+2024,293558,Brazil,Universidade Federal de São Paulo,740,n/a,11.4,4.3,97,6.3,5,1.5,7.2,4.7,4.5
+2024,297347,Italy,University of Siena,741,n/a,12.5,2.6,8.6,33.2,2.1,15.1,16,8.3,49.4
+2024,296566,Hungary,Budapest University of Technology and Economics,742,n/a,14.3,19.4,15.2,8.9,2.5,18.8,25.4,25,40.8
+2024,293370,Mexico,Instituto Politécnico Nacional (IPN),743,n/a,20.4,40.2,8.7,2.1,2.6,1.1,6.9,9.8,33.5
+2024,297316,India,Jadavpur University,744,n/a,16.3,5.1,8.3,37.9,n/a,1,3.1,14.4,21.2
+2024,293750,Bulgaria,"Sofia University ""St. Kliment Ohridski""",745,n/a,14.4,16.3,54.1,2.1,3.1,8.4,12.9,27.3,16.7
+2024,295248,United States,Swarthmore College,746,n/a,3.4,1.8,85.9,17,5.4,28.8,1,18.5,n/a
+2024,297054,Pakistan,"University of Agriculture, Faisalabad ",747,n/a,5.8,11.9,1.6,49.5,3.2,1.1,19.1,5.7,21.6
+2024,294611,Italy,University of Bari,748,n/a,12.8,2.9,4.2,27.8,5,2.2,64.5,6.8,37.5
+2024,296700,Pakistan,University of the Punjab,749,n/a,14.2,52.3,5.3,9.8,2.9,1.3,5.2,14.6,4.9
+2024,297189,United Kingdom,University of the West of England,750,n/a,9.2,9.4,8.4,10.8,48.4,75.8,24.8,8.9,21.6
+2024,297455,Germany,Universität Regensburg,751,n/a,11.2,6.7,75.9,7.2,n/a,9.5,27.1,14.1,1.9
+2024,293318,Bahrain,Ahlia University,752,n/a,12.8,8,31.7,3,100,31,1,8.3,1
+2024,293665,Portugal,ISCTE-IUL,753,n/a,7,6.2,1.4,59.2,n/a,n/a,8.1,10,n/a
+2024,294160,Thailand,Kasetsart University,754,n/a,24.3,21.8,6.2,2.5,4.8,1.3,5.2,19.3,51.5
+2024,297505,United Kingdom,Liverpool John Moores University,755,n/a,9.9,6.8,8.4,14.5,48.1,24.4,56.2,10.4,24.4
+2024,293864,Latvia,Riga Technical University,756,n/a,11.4,28.2,19.7,2.9,16.4,59.9,1.4,18.5,15.2
+2024,297265,Germany,Technische Universität Braunschweig,757,n/a,11,14.5,58.8,6.3,n/a,26.8,20.2,12,4.8
+2024,294710,Colombia,Universidad Externado de Colombia ,758,n/a,14,43.7,31.2,1.1,11.3,1.6,1,18.8,1
+2024,294841,India,University of Mumbai,759,n/a,8.1,25,2.4,25,2,3.5,1.1,70.5,10.5
+2024,297163,South Korea,University of Ulsan ,760,n/a,6.9,2.5,57.8,34.3,2.5,3.4,1.8,6.9,1.3
+2024,293611,Croatia,University of Zagreb,761,n/a,16.2,4.7,23.8,4.2,1.5,2.7,74.2,44.8,19.2
+2024,297463,Canada,Université du Québec,762,n/a,17.3,11.8,1.6,16.3,37.1,11.6,19.7,14.8,27.3
+2024,294766,United States,Wayne State University,763,n/a,7.8,3.2,64.7,12.3,12.5,4.8,41.9,15.4,6.4
+2024,297052,Turkey,Hacettepe University ,764,n/a,20.4,22.7,10.1,6,3.2,3.4,27,13.8,31.6
+2024,296685,Saudi Arabia,King Khalid University,765,n/a,12.8,5.1,43,2.2,100,10.2,7.8,7.8,1.1
+2024,294868,Germany,Philipps-Universität Marburg ,766,n/a,14,7.5,5.5,31.1,16.8,22.6,16.2,9.1,6.1
+2024,294605,Argentina,Universidad de Belgrano,767,n/a,9.9,10.7,88.1,1,5.7,26.3,1,8.7,n/a
+2024,294656,Malaysia,Universiti Tenaga Nasional (UNITEN),768,n/a,7.3,13.8,49.1,14.6,5.7,50.2,3,10.4,1.8
+2024,296569,Germany,Universität Rostock,769,n/a,7.7,3.2,79.4,5.8,n/a,14.7,47.6,9.2,2.8
+2024,297207,United States,Virginia Commonwealth University,770,n/a,6.7,16.5,43.1,13.7,15.9,3.2,39.2,12.4,12
+2024,3782779,India,Chandigarh University,771,n/a,11.5,43.4,21.1,1.3,34.1,15.1,1.1,8.1,2.8
+2024,295245,Slovakia,Comenius University Bratislava,772,n/a,14.1,5.2,55.8,3.4,4.1,30.5,13,32.8,4.1
+2024,295063,United States,Rutgers University–Newark,773,n/a,11.1,5.2,15.5,19.3,26.3,46.8,2.2,28.6,15.4
+2024,293905,Russia,Sechenov University,774,n/a,5.8,4.4,59.7,3.4,9.6,66,46.5,4.7,1.1
+2024,926532,India,Shoolini University of Biotechnology and Management Sciences,775,n/a,8.3,12.6,7.3,42.4,24.2,1.7,2.1,8,1
+2024,294636,Mexico,Universidad Anáhuac México,776,n/a,13.4,24.1,45.6,1.1,6.7,3.7,1,49.5,1.2
+2024,297637,Uruguay,Universidad ORT Uruguay,777,n/a,11.8,11.8,82.6,1.2,17.9,1.9,1,13,1
+2024,294711,United States,University at Albany SUNY,778,n/a,8.6,4.5,5.3,41.8,4.2,6,23.2,9.4,23.9
+2024,297368,United Kingdom,University of Brighton,779,n/a,8.4,7,8.9,15.8,56.2,54.2,27.6,11.2,9.1
+2024,294436,Germany,Universität Duisburg-Essen,780,n/a,11.5,5.2,11.4,11.8,36.4,42.2,54.9,11.5,9.2
+2024,293598,France,Nantes University,781,n/a,10.3,2.7,7.1,23.6,17.1,13.9,77.3,6.7,15.6
+2024,294973,China (Mainland),China University of Mining and Technology,782,n/a,3.7,1.6,9.5,60.5,n/a,n/a,2.9,9,3
+2024,297527,United Kingdom,Keele University,783,n/a,6.7,4.3,15.2,27.1,53.1,33.2,11.6,10.5,3.1
+2024,295950,Kazakhstan,Khoja Akhmet Yassawi International Kazakh-Turkish University,784,n/a,14.6,20.9,53,1.2,8.5,15.5,1,11.6,4.4
+2024,297010,China (Mainland),Nanjing Agricultural University,785,n/a,5.5,1.9,7.2,58.8,n/a,1.5,6.5,5.3,2.5
+2024,295450,India,"National Institute of Technology, Tiruchirappalli",786,n/a,3.7,2.7,11.8,58.9,n/a,2.1,1.5,7.7,1.1
+2024,297591,United States,Syracuse University,787,n/a,13.6,9.6,11.8,13.7,4.8,44.1,11.1,30.2,23
+2024,297168,South Korea,The Catholic University of Korea ,788,n/a,3.6,2.7,99,12,3.3,13,1,7.2,1.1
+2024,293851,Malaysia,Universiti Malaysia Pahang,789,n/a,10.1,7.1,15.2,28.3,23.6,9.7,5.9,9.9,28.4
+2024,294733,United States,University of Alaska Fairbanks,790,n/a,3.1,3.2,99.6,13.4,6.7,3.1,4.6,8.4,n/a
+2024,293647,Canada,University of Northern British Columbia,791,n/a,3.8,8.5,100,1.1,n/a,n/a,40.3,7.3,n/a
+2024,294637,United States,American University,792,n/a,16.2,22.8,30,4.1,3,15.6,1.2,33.3,3
+2024,297397,United States,Clarkson University,793,n/a,1.6,2.4,16.9,39,64.7,8.6,2.6,10.7,1.2
+2024,294276,Indonesia,Diponegoro University,794,n/a,17.2,33.9,15.7,1.4,22.8,2.8,1,15,13.1
+2024,294200,Argentina,Instituto Tecnológico de Buenos Aires (ITBA),795,n/a,9,38.8,35.2,1.4,26.7,13.5,1,6.6,n/a
+2024,297012,China (Mainland),Lanzhou University,796,n/a,8.3,2.3,26.3,38.1,2.5,1.6,15.3,6.2,9.8
+2024,295117,Russia,Plekhanov Russian University of Economics,797,n/a,12.6,14.3,49.6,2.8,6,21.2,5.8,30.1,7.5
+2024,294100,Colombia,Universidad de La Sabana,798,n/a,19.4,39.1,15.4,2,6.7,3.3,1,11.3,3.7
+2024,293775,Italy,University of Brescia,799,n/a,3.9,2.1,6.8,50.4,2.6,6.9,9,8.8,24.8
+2024,297063,Pakistan,University of Engineering & Technology (UET) Lahore,800,n/a,8.9,44.8,16.4,5.7,1.1,3.6,2.1,16.8,27.3
+2024,297521,Greece,University of Patras,801,n/a,12.1,17.7,2.7,24,1.5,5.1,12.4,8.4,41.1
+2024,295540,Jordan,Al-Ahliyya Amman University,802,n/a,6.8,5.9,9.3,2.3,72.9,100,1,10.4,1.6
+2024,296066,Kazakhstan,Almaty Technological University,803,n/a,5.1,3.3,92.1,1,26,5.2,1,11.8,1
+2024,294776,United States,Auburn University,804,n/a,7.2,8.5,7.4,19,23.9,7.8,14.3,17.4,53.4
+2024,297047,Australia,Australian Catholic University,805,n/a,8.3,10.5,4.7,13.5,70.2,43.2,3.2,8.1,4.7
+2024,295039,Romania,Babes-Bolyai University,806,n/a,16.4,13.7,4.7,4.2,7.7,4,42.6,23.1,48.4
+2024,297037,Bangladesh,Bangladesh University of Engineering and Technology,807,n/a,15.6,34.8,16.9,12,n/a,1,1.2,7,3.4
+2024,294982,China (Mainland),Beijing University of Technology,808,n/a,8.3,3.5,42.9,26.6,4.8,2.9,1.7,8.9,2.9
+2024,294134,Belarus,Belarusian National Technical University (BNTU),809,n/a,13.1,29.8,45.6,1,2.2,12.6,1,7.1,n/a
+2024,296822,Australia,Charles Sturt University ,810,n/a,5,6,7,8.6,31.7,74,10.5,10.3,53.4
+2024,294976,China (Mainland),China University of Geosciences,811,n/a,5.3,1.4,55.9,25.3,1.6,2.9,26.1,5.3,7
+2024,297558,United States,Clark University,812,n/a,3,5.3,23.4,18.3,14.2,72.6,1.2,14.9,33.2
+2024,294713,United Kingdom,De Montfort University,813,n/a,5.5,4.8,5.8,7.6,75.3,97.5,8.8,10.5,4.9
+2024,293650,United Kingdom,Edinburgh Napier University,814,n/a,4.9,4.2,4.1,10.4,73.8,87.9,5.9,10.8,2.9
+2024,294462,Russia,Immanuel Kant Baltic Federal University,815,n/a,8.1,2.3,75.5,1.8,17.9,32,2.7,6.3,1.9
+2024,378434,Georgia,Ivane Javakhishvili Tbilisi State University,816,n/a,9.7,2.6,76,1.2,1.9,3.5,1.2,43.4,1.1
+2024,293332,Saudi Arabia,Jouf University,817,n/a,8.8,5.3,45.1,1.9,100,2.8,2.2,8,1
+2024,293626,Kazakhstan,Karaganda State Technical University,818,n/a,8.4,6.8,80.6,1.1,8.2,18.4,1,12.1,2.1
+2024,296511,Lithuania,Kaunas University of Technology,819,n/a,11.3,21.8,31.5,6.8,3.3,24.1,16.9,8.4,1.9
+2024,296429,South Korea,Konkuk University ,820,n/a,9.4,9.3,59,13.8,7.7,9.8,2.8,9.9,2.3
+2024,294004,United States,Louisiana State University,821,n/a,9.7,8.3,7.1,16.2,10.1,4.1,15.5,17.2,70.7
+2024,297064,Ireland,Maynooth University,822,n/a,10,9.2,8.7,12.6,89.4,15.6,4.7,9,4.7
+2024,294833,Japan,Nagasaki University,823,n/a,6.9,2.2,84.2,6.2,6.5,4.2,11.8,8.3,2
+2024,297011,China (Mainland),Nanjing University of Aeronautics and Astronautics,824,n/a,4.7,2.6,13.1,47.3,5.7,3.2,4.5,5.3,1.5
+2024,296681,South Africa,North-West University,825,n/a,7.1,9.1,5.2,13,5.8,2.4,88.2,12.7,49.7
+2024,893474,Poland,Poznan University of Life Sciences,826,n/a,5.8,1.8,98,5.2,3.2,5.4,1.7,8.2,1.1
+2024,296780,Japan,Ritsumeikan Asia Pacific University ,827,n/a,5.1,9.4,2.4,2.6,99.6,99.6,1,7.8,1
+2024,294725,United States,Texas Tech University,828,n/a,11,11.8,5,15.3,8.5,7.1,20.3,13.7,56.1
+2024,296772,Japan,Tokyo University of Agriculture and Technology ,829,n/a,13.6,6.7,13.3,32.9,5.8,9.5,6,7.8,1.8
+2024,293508,Colombia,Universidad Pontificia Bolivariana ,830,n/a,9.3,15.4,69.9,1.6,4.9,2.1,1.2,18.2,3.3
+2024,293462,Ecuador,Universidad San Francisco de Quito (USFQ),831,n/a,14.4,10.7,36.1,2.3,56.9,2,1.5,11,7.8
+2024,295086,Chile,Universidad Técnica Federico Santa María (USM),832,n/a,10,50.6,3.7,5.9,15.8,1.9,9.5,10.1,7.9
+2024,296833,Argentina,Universidad de San Andrés - UdeSA,833,n/a,6.8,32.6,48.1,2.1,8,4.4,1,18,1
+2024,296892,Uruguay,Universidad de la República (Udelar),834,n/a,25.1,14.4,17.5,1.6,8.4,2.5,8.3,22.5,4.1
+2024,293554,Brazil,Universidade Federal de Santa Catarina ,835,n/a,19.6,4.4,19,8,4.4,2,18,8.2,57.4
+2024,296864,Brazil,Universidade de Brasília,836,n/a,26.1,14.5,8.4,4.2,11.9,1.6,15.3,11.5,9.4
+2024,297069,Indonesia,Universitas Brawijaya ,837,n/a,17.2,34.5,10.5,1.4,6.2,1.5,1.1,14,14.5
+2024,294953,Malaysia,Universiti Tunku Abdul Rahman (UTAR),838,n/a,12.9,36.4,11.1,5.1,8.4,3.3,2.1,9.7,30.7
+2024,294487,Germany,University Duesseldorf,839,n/a,12.9,7.6,41.1,7.5,n/a,15.7,30.9,9.5,1.7
+2024,296464,Spain,University of Alicante,840,n/a,13.4,6.2,22.9,8,4.6,14,41.8,5.5,29.9
+2024,297143,Lebanon,University of Balamand,841,n/a,4.9,13,83.8,2,12.6,21.8,1,8.2,1
+2024,294575,India,University of Calcutta,842,n/a,15.7,4.3,5.6,20.3,25.9,1.1,3.2,38.8,1.9
+2024,297008,United Arab Emirates,University of Dubai,843,n/a,4.2,4.5,13,10,100,64.5,1,17.3,1
+2024,297058,India,University of Hyderabad,844,n/a,11.9,2.8,16.3,37.9,2,2,1.4,7.8,1.3
+2024,293720,Latvia,University of Latvia,845,n/a,12.5,17.8,5.1,6.1,12.5,5.3,21.5,59.8,13.7
+2024,293778,United States,University of Massachusetts Boston,846,n/a,11.9,4.9,11.5,27.5,5.9,9.6,2.3,7.6,40.2
+2024,297401,Hungary,University of Pecs,847,n/a,13.2,8.8,38.1,2.7,9.1,62.4,4.8,9.6,3
+2024,294881,Italy,University of Salerno,848,n/a,7.9,2.1,4.8,31.9,3.4,1.8,64.8,5.4,7.6
+2024,297425,Philippines,University of Santo Tomas,849,n/a,11.5,33.5,15.7,1.3,41.4,8.2,1,12.5,1.1
+2024,296896,Canada,Université de Sherbrooke,850,n/a,6.9,6.8,19.9,20.1,56.2,8.4,3.2,14.3,7.5
+2024,293776,Italy,Verona University,851,n/a,8.7,2.9,4.8,40,4.7,3.6,32,6.9,14.7
+2024,293792,Lithuania,Vilnius Gediminas Technical University (VILNIUS TECH),852,n/a,9,16.7,40.9,7.3,15.8,38.8,4.7,11.5,1.9
+2024,296510,Lithuania,Vytautas Magnus University,853,n/a,11,20.6,38.5,2.1,15.1,40.2,2.4,11.4,1.6
+2024,297175,Japan,Yokohama City University,854,n/a,3.3,2.6,97.7,10.3,4.1,2.4,1.1,8.5,1
+2024,294216,Ethiopia,Addis Ababa University,855,n/a,5.6,10.8,61.1,1.7,n/a,n/a,14.3,54.7,n/a
+2024,294984,China (Mainland),Beijing University of Posts and Telecommunications,856,n/a,3.9,2.2,10,49.2,5,1.8,1.1,10.4,1.2
+2024,3740455,France,CY Cergy Paris University,857,n/a,3.4,2.7,41.9,6.5,54.3,45.1,8.1,7.4,9.6
+2024,294552,Italy,Catania University,858,n/a,11.7,3.1,4.8,27.4,2.8,2.6,30.4,6.1,25.1
+2024,294532,South Korea,Chonnam National University,859,n/a,11.7,5,44,14.3,11.4,6.5,1.7,6,4
+2024,294530,South Korea,Chungnam National University,860,n/a,11.7,8,45.3,10.6,8.2,10.7,1.6,8,2.1
+2024,297622,United States,Clemson University,861,n/a,8.3,10.8,12.9,16.7,8.3,4.5,36.4,11.1,32.1
+2024,371307,Poland,Gdańsk University of Technology,862,n/a,9.2,14.4,36.3,11.8,3.3,7.1,11.8,8.6,14.9
+2024,294343,United States,Georgia State University,863,n/a,11.7,13.6,4.9,20.3,10.5,7.4,17,16.1,11.8
+2024,295902,Kuwait,Gulf University for Science and Technology,864,n/a,10.7,7.3,9.3,4.3,100,23.3,1,14,1.9
+2024,295017,China (Mainland),Huazhong Agricultural University,865,n/a,4.1,1.8,6.3,48.7,4,1.6,2.8,5.9,4
+2024,294171,Japan,Kanazawa University,866,n/a,9.3,4.4,60.8,12.1,9.2,5.8,2.4,7.9,1.4
+2024,294883,United States,Kansas State University ,867,n/a,8.9,8,12,20,24,5.2,19,13,26.1
+2024,295112,Kazakhstan,Karaganda Buketov University,868,n/a,13.7,19.9,32.4,1.2,22.2,7.3,1,11.9,1
+2024,296686,Saudi Arabia,King Faisal University,869,n/a,15,8.6,11.4,2.4,99.2,2,3.1,7.5,1.1
+2024,293341,Kuwait,Kuwait University,870,n/a,13.6,8.3,6.4,2.2,30.4,21,10.9,51.3,18.8
+2024,700335,Kyrgyzstan,Kyrgyz-Turkish Manas University,871,n/a,13,7.3,12.2,1.6,85.3,24.7,1,14.5,n/a
+2024,297533,United Kingdom,London South Bank University,872,n/a,3.5,2.9,8.3,5.6,78.2,95.9,2.3,11.1,1.1
+2024,297446,United States,Michigan Technological University,873,n/a,4.4,4.2,26,32.1,19.6,9.4,8.3,8.6,3.2
+2024,296471,Russia,National Research Saratov State University,874,n/a,5.2,2.5,95.8,1.7,3.2,18.2,1.2,4.7,1
+2024,294779,Japan,Niigata University,875,n/a,4.9,3.3,88.1,4.6,4.2,3.3,1.2,9.2,3
+2024,296818,Bangladesh,North South University,876,n/a,12.1,48.4,5.6,2.3,12.2,2.4,1.1,13.3,1.1
+2024,295202,United States,Oklahoma State University ,877,n/a,8.4,9.7,10.7,15.1,37.3,4.3,23.4,16.6,20.9
+2024,371278,Slovakia,Pavol Jozef Šafárik University in Košice,878,n/a,5.1,3.6,55.5,3.6,2,63.8,3.3,13,1.3
+2024,296350,United Kingdom,"Queen Margaret University , Edinburgh",879,n/a,3.8,4,5.3,17,61.2,76,1,8.7,1
+2024,296097,Canada,Toronto Metropolitan University,880,n/a,7,14.4,1.7,30.7,n/a,3.6,14.6,12.7,8
+2024,295118,Russia,Southern Federal University,881,n/a,7.6,3.6,77.8,1.8,3.5,23.1,5.1,6.6,11.7
+2024,294497,Germany,TU Dortmund University,882,n/a,13.6,13.8,22.2,7.4,20.2,19.1,17,9.1,4.4
+2024,294493,Ireland,Technological University Dublin,883,n/a,12.1,12.4,12.6,3.1,32.7,39.6,5,13.1,16.9
+2024,293423,Uruguay,Universidad Católica del Uruguay (UCU),884,n/a,12.2,12.4,57,1.2,8.7,2.6,1,13.1,1.2
+2024,293429,Cuba,"Universidad Central ""Marta Abreu"" de Las Villas",885,n/a,5.7,1.1,99.9,1.2,1.1,1.3,1.1,14.6,1
+2024,297243,Argentina,Universidad Torcuato Di Tella,886,n/a,11.9,25.4,17.9,3.2,34.5,8.2,1,17.1,1
+2024,296848,Mexico,Universidad de Guadalajara (UDG),887,n/a,20.3,9.2,19.6,1.3,2.4,1.1,7.5,8.5,37.8
+2024,296561,Italy,Universita' degli Studi di Ferrara,888,n/a,6.5,2.4,2.4,38.6,2.5,3.5,26.8,8.4,17.8
+2024,297551,France,Universite Paris-Pantheon-Assas,889,n/a,7.1,3.5,71.3,1.2,12.5,24.5,1,27.4,1
+2024,294579,Romania,University of Bucharest,890,n/a,15.5,13.8,6.5,4.2,2.8,1.9,28.7,34.7,27.8
+2024,297350,United Kingdom,University of East London,891,n/a,3.6,3.5,3.5,6.7,74.2,100,2.1,12,1.1
+2024,297574,United Kingdom,University of Hertfordshire,892,n/a,4.7,4.8,6.4,5.6,63.4,99.5,11.2,12,2.7
+2024,296375,United Kingdom,University of Lincoln,893,n/a,6.1,5.1,9.1,11.3,64.6,30.1,9.6,8.9,37.5
+2024,294144,Malta,University of Malta,894,n/a,5.3,5.2,38.2,6.5,15.1,11.2,35.4,47.4,2.3
+2024,297348,Slovenia,University of Maribor,895,n/a,7,6.7,30.8,6.7,1.9,14.3,16.1,52.1,31.3
+2024,3315974,Italy,University of Messina (UniME),896,n/a,8.3,2.5,12.7,29.4,1.4,4.4,30.7,1,23.2
+2024,295205,Italy,University of Palermo,897,n/a,10.9,2.4,5.1,27.5,2.4,1.9,53.3,5.1,9.7
+2024,295243,Italy,University of Parma,898,n/a,9.4,2.7,2.6,34.6,2,6.3,35.1,10.2,3.7
+2024,297473,United Kingdom,University of Salford,899,n/a,7.4,4,6.7,7.8,38.1,70.1,20.8,11.8,9.8
+2024,297594,South Africa,University of South Africa,900,n/a,9.6,4.9,1,8.8,n/a,8,81.8,66.6,n/a
+2024,297297,India,"Vellore Institute of Technology (VIT), Vellore, India",901,n/a,11.2,12.2,6.5,21.3,19,2.2,13.3,10.2,9.7
+2024,295908,United States,Wesleyan University,902,n/a,4.4,1.8,63.5,8.6,18,16.8,1,27.7,n/a
+2024,297535,United States,Worcester Polytechnic Institute,903,n/a,3.9,5.7,17.1,27.5,42.7,24.2,1.7,11.8,1.3
+2024,296816,China (Mainland),Wuhan University of Technology,904,n/a,6.9,2.1,12.1,41.1,n/a,2.6,9.7,7,2.4
+2024,296504,Poland,AGH University of Science and Technology,905,n/a,9.2,15.2,37.3,7,2.7,4.5,13.2,8.8,2.5
+2024,297619,Egypt,Alexandria University ,906,n/a,21.5,13.1,5,1.9,1.7,5,28.7,13.5,2.7
+2024,297383,Turkey,Ankara Üniversitesi,907,n/a,18.5,11.7,8.1,2.7,2.5,5.4,32.4,15.4,16.1
+2024,294450,Taiwan,Asia University Taiwan,908,n/a,5.9,1.8,3.3,38.7,9.5,3.5,12,7.9,2.3
+2024,294622,Greece,Athens University of Economics and Business,909,n/a,7.4,33.3,1.6,17.7,1.7,3.3,1,15.7,4.1
+2024,294981,China (Mainland),Beijing Jiaotong University,910,n/a,10.1,4.2,16,28.8,5,10.6,2.6,8.2,1.7
+2024,294524,United States,College of William and Mary,911,n/a,8.3,10.6,25.7,15.6,6.9,6.8,2.5,21.4,8.1
+2024,293627,Kazakhstan,D. Serikbayev East Kazakhstan Technical University,912,n/a,11.6,6.3,59.9,1.2,17.3,2.7,1,12.6,1.6
+2024,294997,China (Mainland),Donghua University,913,n/a,4,1.5,26.9,37.9,2.3,3.4,1.9,6.2,1.3
+2024,296752,South Korea,Hallym University ,914,n/a,2.6,1.9,94,6.9,4.2,2.7,1,4.2,1
+2024,294119,Japan,Kumamoto University,915,n/a,7.6,3.1,56,12.3,5.9,3.4,3.1,8.1,1.9
+2024,294025,United Kingdom,London Metropolitan University,916,n/a,5.5,2.9,4.5,3.2,60.8,100,1,14,1
+2024,294002,United States,Loyola University Chicago,917,n/a,8.7,29.6,21.3,8,7.4,3,1.6,13.1,2.5
+2024,371309,Czechia,Mendel University in Brno,918,n/a,6.4,8.6,48.8,3.9,10.4,37.1,13.1,8.7,1.3
+2024,294692,Taiwan,National Chung Cheng University,919,n/a,13,26.2,18.2,5.2,4.5,3.9,1.1,4.2,8.3
+2024,293830,Ukraine,"National Technical University  ""Kharkiv Polytechnic Institute""",920,n/a,6.6,12.1,63.3,1.3,1.8,24,1,10.2,n/a
+2024,296502,Poland,Nicolaus Copernicus University ,921,n/a,7.5,3,48.7,4.8,3.4,4.8,51.1,8.2,2
+2024,295344,Saudi Arabia,Northern Borders University,922,n/a,10.4,3.7,21.9,2,98.2,5.2,1,8.2,1
+2024,888850,Lebanon,Notre Dame University-Louaize NDU,923,n/a,4.5,13.8,24.9,2.6,84.2,21.9,1,8,1
+2024,295016,China (Mainland),Ocean University of China,924,n/a,5.5,1.9,9.9,40.5,3.3,2,9.4,5.9,4.9
+2024,294737,Japan,Okayama University,925,n/a,8.9,3.9,62.1,8.4,5.6,6.3,3.6,8.2,1.6
+2024,293375,Ecuador,Pontificia Universidad Católica del Ecuador (PUCE),926,n/a,16.8,28.7,10.5,1.3,16.9,1.6,1.1,15.5,1.2
+2024,297491,Thailand,Prince of Songkla University,927,n/a,20.1,7.1,16.4,3.2,4.9,1.9,4,7.7,42.6
+2024,294140,Jordan,Princess Sumaya University for Technology,928,n/a,8,19.5,10.7,4.5,42.1,39.9,1,11.7,1
+2024,295103,Saudi Arabia,Qassim University,929,n/a,7.2,2.9,30.6,1.6,98.4,8.6,8.2,8.8,1.5
+2024,297596,South Africa,Rhodes University ,930,n/a,6.7,9.5,13.6,16.5,n/a,35.8,11.6,19.6,6.5
+2024,293582,Latvia,Riga Stradins University,931,n/a,6.7,14.1,14.4,1.8,16.9,86.4,1,11.7,4.1
+2024,297496,United Kingdom,Robert Gordon University,932,n/a,3.5,11.7,5.4,4.9,63.9,76.7,1.5,9.8,1.2
+2024,294135,Kazakhstan,Asfendiyarov Kazakh National Medical University,933,n/a,5.5,3.8,59.3,1.1,9.6,55.6,1,12.5,1
+2024,295946,Russia,Samara National Research University (Samara University),934,n/a,4.6,2.2,81.8,2.3,2.8,14.3,1.1,10.6,3.3
+2024,296775,Japan,Sophia University ,935,n/a,12.1,19.9,21.3,2.1,35.2,12,1,12.5,5.9
+2024,295821,United States,Saint Louis University,936,n/a,4.2,2.7,66.3,11.1,16.5,6.5,2.1,11.1,n/a
+2024,297169,South Korea,Sungshin Women's University,937,n/a,5.1,7.4,88.4,1.2,2.8,4.2,1,5.1,1
+2024,293412,Mexico,Universidad Autónoma Metropolitana (UAM),938,n/a,23.1,14.5,4.1,2.6,8.6,1.3,4.8,7.6,24.8
+2024,296880,Colombia,Universidad ICESI,939,n/a,5.5,9.7,74.3,1.7,4.7,2.5,1,12.5,1.2
+2024,296885,Peru,Universidad Nacional Mayor de San Marcos,940,n/a,21.1,27.8,7,1.3,n/a,n/a,1.9,4.7,1.2
+2024,294547,Portugal,Universidade Católica Portuguesa - UCP,941,n/a,13.3,11.1,13.9,6.5,9.1,26.3,1.6,29.3,9.7
+2024,296452,Spain,Universidade de Vigo,942,n/a,8.3,5.4,8.6,17,2.3,4.1,35.3,7,42.6
+2024,295084,United States,University of Alabama at Birmingham ,943,n/a,6.7,4.3,49.4,18,n/a,n/a,8.9,7.3,n/a
+2024,294543,United Kingdom,University of Central Lancashire,944,n/a,5.9,5.8,11.5,4.4,37,81.6,16.7,8.9,1.5
+2024,294500,United States,University of Denver,945,n/a,5.3,7.5,45.7,11.1,2.4,5.6,3.3,23.1,18.8
+2024,294838,Spain,University of Murcia,946,n/a,12.6,2.8,32.5,5.7,3.7,8.3,42,5.5,9.4
+2024,328355,India,UPES,947,n/a,18.2,3.7,39.2,2.8,18.1,1.1,1.5,8.1,n/a
+2024,297611,United States,University of Vermont,948,n/a,3.3,3.2,53.2,12.8,3.3,2.5,14.5,14.6,20.3
+2024,296500,Poland,University of Wroclaw,949,n/a,14.8,14.4,28.4,4.2,5,7.6,7.7,12.1,7.3
+2024,296979,Italy,Università degli studi Roma Tre,950,n/a,17.5,6.9,2.1,14.9,9,4.6,18.2,5.8,8.4
+2024,295162,United States,West Virginia University,951,n/a,6.4,6.2,11.7,21.5,6.5,5.2,25.4,14.1,20.3
+2024,296503,Poland,Wroclaw University of Science and Technology (WRUST),952,n/a,11.9,17.2,32.7,5.3,3.3,5.3,8.4,8.4,1.8
+2024,294599,Germany,Bielefeld University,953,n/a,14.6,3.8,8.4,8.2,21.2,7.7,32.8,8.1,6.5
+2024,297324,India,"Birla Institute of Technology and Science, Pilani",954,n/a,9.1,14.4,7.3,17.3,1.8,2.6,2.2,24,7.9
+2024,297427,United States,George Mason University,955,n/a,9,6,12.6,11.4,12.4,10.6,17.2,14.5,28.6
+2024,294325,Japan,Gifu University,956,n/a,6.3,2.5,67.4,7.3,5.3,3.7,1.1,7.9,1.1
+2024,294288,Japan,Gunma University,957,n/a,3.8,2.2,82,4.7,4.5,3.7,1,7.9,1
+2024,295900,United States,Indiana University–Purdue University Indianapolis,958,n/a,7.7,6.1,15.4,17,29.4,5.8,2.6,7.7,8.5
+2024,296688,Saudi Arabia,Islamic University of Madinah,959,n/a,4.4,1.9,8.1,1.4,55.4,100,1,5.2,n/a
+2024,295742,India,Jamia Millia Islamia,960,n/a,8,2.6,34.7,20.7,3.5,4.4,2,7.2,3.8
+2024,294143,Thailand,Khon Kaen University,961,n/a,16.4,12.1,8.1,4.1,6.9,2.7,3.3,9.7,29.9
+2024,294702,Thailand,King Mongkut's University of Technology Thonburi ,962,n/a,13.1,7.2,14,7.6,12.5,3.5,1.6,8.4,49.4
+2024,296059,Ukraine,Lviv Polytechnic National University,963,n/a,8.1,14.8,37.2,1.8,1.9,1.6,1.1,14,22.7
+2024,294203,Uganda,Makerere University,964,n/a,10.2,4.7,3.4,4.6,10.3,8.2,17.8,79.5,9.2
+2024,297312,India,"Manipal Academy of Higher Education, Manipal, Karnataka, India",965,n/a,9.6,7,46.4,4,1.7,7.1,13,11.3,1.7
+2024,295114,Kazakhstan,NJSC KIMEP University,966,n/a,5.9,11.9,17.7,3.5,75.2,19.8,1,14.8,1.2
+2024,297007,China (Mainland),Northwest Agriculture and Forestry University,967,n/a,4.7,1.4,30,28.9,n/a,1.4,5.5,5.6,2.3
+2024,294371,India,O.P. Jindal Global University,968,n/a,6.6,13.1,51.1,1.5,25.1,1.2,1,8.7,1.5
+2024,295864,Russia,Saint Petersburg Electrotechnical University ETU-LETI,969,n/a,5.7,3.5,49.4,1.8,4.6,49.2,1.1,9.4,1.2
+2024,296802,Iran,Shahid Beheshti University (SBU),970,n/a,6.7,12.3,4,29.1,1.6,1.7,8.5,6.9,1.9
+2024,296125,Russia,South Ural State University (National Research University),971,n/a,9.3,4.2,39.4,3,9.7,16.4,36.6,5.1,1.3
+2024,293892,Ukraine,Sumy State University,972,n/a,5.6,5.7,42.4,2.3,2.9,63.1,1.2,9.7,3.4
+2024,293709,Costa Rica,Tecnológico de Costa Rica -TEC,973,n/a,8.4,33.8,23.2,1.4,6.8,2,1,12.4,1.9
+2024,295579,India,Thapar Institute of Engineering & Technology,974,n/a,3.8,4,7.9,36.9,3.7,1.6,1.6,8.7,1.2
+2024,294641,United States,The University of Alabama,975,n/a,9.7,19,5.9,12.8,8.9,2.7,8.8,13.3,16.3
+2024,297247,Japan,Tokyo Metropolitan University,976,n/a,12.6,5.4,28.7,14.3,6.9,6.3,2.3,8.8,1.1
+2024,296409,Poland,UNIVERSITY OF GDANSK,977,n/a,11.5,7,32.1,3.8,4.6,2.3,28,10,2.6
+2024,294498,Chile,Universidad Diego Portales (UDP),978,n/a,15,22.2,8.6,4.7,14.3,3.1,2.8,8.4,1.2
+2024,296826,Argentina,Universidad Nacional de Córdoba - UNC,979,n/a,24.4,15.5,7.3,1.6,1.4,1.5,5.8,8.5,2.2
+2024,293904,Peru,Universidad Nacional de Ingeniería ,980,n/a,7.9,42.5,21.9,1.3,n/a,n/a,1,4.7,n/a
+2024,296338,Argentina,Universidad Nacional de Rosario (UNR),981,n/a,19.4,8.8,27.6,1.1,n/a,7,1.1,5,1.3
+2024,293507,Peru,Universidad Peruana Cayetano Heredia (UPCH),982,n/a,9.7,10.4,54.9,2.3,1.2,1.2,2.3,8.4,9.8
+2024,296404,Spain,Universidad Rey Juan Carlos,983,n/a,7.3,9.4,6.4,4.1,15.3,14.8,13.7,9.3,60.4
+2024,293514,Venezuela,Universidad Simón Bolívar (USB),984,n/a,17.2,21.2,11.6,2.9,1.8,1,1,11.6,1
+2024,297571,Panama,Universidad Tecnológica de Panamá (UTP),985,n/a,8.8,30.7,23.8,1.1,2.7,3.9,1,14.1,1
+2024,296455,Spain,Universidad de Castilla-La Mancha,986,n/a,8.9,2,15.5,9.6,2,4.5,35.3,7.5,55.2
+2024,296399,Spain,Universidad de Valladolid,987,n/a,10.3,3.6,30,4.5,5.3,3.9,54.4,9.5,n/a
+2024,293445,Mexico,Universidad de las Américas Puebla (UDLAP),988,n/a,8.3,13.1,39.9,1.9,26.1,5.3,1,9.5,1
+2024,293446,Chile,Universidad de los Andes - Chile,989,n/a,15,24.5,9,3,12.4,2.3,1.2,9.1,1.1
+2024,294955,Malaysia,Universiti Pendidikan Sultan Idris (UPSI),990,n/a,11.9,11,25,2.5,21,28.7,1.1,9.6,6.6
+2024,293327,Iraq,University of Baghdad,991,n/a,9.5,11.4,30.9,1.5,1.8,1.1,14.1,31.4,14.2
+2024,293315,Bahrain,University of Bahrain,992,n/a,10.7,7.6,7.3,2.1,87.6,11.4,1.3,6.8,3
+2024,296977,Italy,University of Calabria,993,n/a,5.7,2,3.9,25.7,6.2,5.7,49.6,4.7,3.3
+2024,294208,Ghana,University of Ghana,994,n/a,10.5,9.4,1.8,5.1,4.9,1.8,28.9,64.1,9.7
+2024,294038,Poland,University of Lodz,995,n/a,11.7,4.3,39.7,3.2,4.2,12.8,26.7,11.8,2.4
+2024,297044,Australia,University of New England Australia,996,n/a,10.9,6.3,2.3,25.4,2.9,5.5,8.1,9.1,14.5
+2024,297049,Pakistan,University of Peshawar,997,n/a,6,9,36,17.4,n/a,2,3.7,5.9,1.2
+2024,297161,South Korea,University of Seoul ,998,n/a,12.1,10,37.2,8.2,3.2,5.8,1.3,9.2,1.4
+2024,297598,South Africa,University of the Western Cape,999,n/a,8.4,7.8,4.2,15.1,26.4,4,40.5,11.7,4.9
+2024,297241,France,Université Toulouse 1 Capitole,1000,n/a,14,3,1.5,5.4,29.4,52.3,13.6,6.4,1
+2024,293352,Tunisia,Université de Tunis El Manar,1001,n/a,8,2.6,20.8,4.8,21.9,5.1,50.2,27.3,8.3
+2024,297651,Vietnam,Viet Nam National University Ho Chi Minh City (VNU-HCM),1002,n/a,16.9,26.4,7,2,2.8,1.2,2.3,21.6,3.4
+2024,294945,Vietnam,"Vietnam National University, Hanoi ",1003,n/a,13.5,21.1,9.4,2.3,4.7,1.2,10.7,20.8,6.1
+2024,297154,South Korea,Yeungnam University ,1004,n/a,5.5,3.2,14.3,23.3,39.8,6.1,2.5,4.5,1.3
+2024,309595,Turkey,Yildiz Technical University,1005,n/a,8.1,21.5,5.1,9.3,8.7,21.6,2,10.6,24.4
+2024,297174,Japan,Yokohama National University,1006,n/a,9.6,18.3,16.7,8.3,8.8,9.4,2,16.2,12.7
+2024,293355,Palestinian Territories,Al-Quds University,1007,n/a,4.2,10.7,11.3,1.6,55.1,34.5,1.1,12.3,1
+2024,295760,India,Aligarh Muslim University,1008,n/a,9.7,2.5,20.8,10.2,1.2,1.7,5,6.1,17.1
+2024,293723,India,Amity University,1009,n/a,8.5,7.6,10.6,5.9,3.8,21.8,22.4,9.1,1.9
+2024,296992,India,Amrita Vishwa Vidyapeetham,1010,n/a,4.8,4.1,25.3,5.2,37,1.7,1.4,4.5,1.1
+2024,293345,Palestinian Territories,An-Najah National University,1011,n/a,6.4,16.5,7.3,2.2,36.2,25,1.3,10.9,3.1
+2024,295541,Egypt,"Arab Academy for Science, Technology and Maritime Transport (AASTMT)  ",1012,n/a,5.3,5.8,32.6,1.5,6.9,26.8,1.1,11.4,1.1
+2024,297625,Egypt,Assiut University ,1013,n/a,11.2,6.9,12.3,2.3,15.5,4,10.7,6.9,1.9
+2024,294114,Azerbaijan,Azerbaijan State University of Economics,1014,n/a,10.1,9.4,22,1.2,7,2.6,1,10.4,1.4
+2024,297036,Bangladesh,BRAC University,1015,n/a,10.6,29.1,12.4,1.9,2.5,1.4,1.1,9.6,1.1
+2024,293624,Azerbaijan,Baku State University,1016,n/a,9.6,3.2,33.9,1.4,2.1,1.7,1.1,9.6,1
+2024,3791951,India,Banaras Hindu University,1017,n/a,12.1,6.5,15.9,7.8,1.2,1.6,15.3,6.3,4.1
+2024,297630,United States,Baylor University,1018,n/a,6.1,16.8,11.7,8.3,2.4,3.8,3.5,12.8,3.8
+2024,294990,China (Mainland),Beijing Foreign Studies University,1019,n/a,6.6,2.5,27.3,1.5,20.7,28,1,7.8,1
+2024,294989,China (Mainland),Beijing University of Chinese Medicine,1020,n/a,4.9,1.4,35.8,8.2,n/a,9.2,1,5.3,1
+2024,296983,Indonesia,Bina Nusantara University (BINUS),1021,n/a,11,16.1,20.6,1.9,25.6,4.5,1,13.8,1.1
+2024,294772,United States,Binghamton University SUNY,1022,n/a,6.8,4.8,6.2,16.9,8,9.9,1.6,10.8,3.9
+2024,294545,United Kingdom,Birmingham City University ,1023,n/a,5.8,4.6,7.6,3.1,43.5,76.5,1.4,11.3,1.3
+2024,294588,United States,Brigham Young University,1024,n/a,7,5.3,4.6,13.3,1.3,3.3,8.2,22,7
+2024,297547,United Kingdom,Canterbury Christ Church University,1025,n/a,5.7,2.1,5.8,4.1,35.9,72.8,1,8.6,1
+2024,919381,Taiwan,Chang Jung Christian University,1026,n/a,6.3,2.5,44.5,1.6,6.4,5.4,1,7.9,1.1
+2024,294966,Taiwan,Chung Yuan Christian University,1027,n/a,5.8,5.2,4.4,15.1,4.4,7.2,1,19.2,3.2
+2024,296761,South Korea,Chungbuk National University,1028,n/a,5.4,2.8,30.6,8.6,7,4.3,1.9,4.5,1.1
+2024,297408,Hungary,Corvinus University of Budapest,1029,n/a,10.9,16,4.8,3.1,7.8,37.5,1.2,5.5,1.1
+2024,296411,Poland,Cracow University of Technology (Politechnika Krakowska),1030,n/a,11.4,23.7,19.6,4.4,2.1,2,1.6,8.8,1.4
+2024,296758,South Korea,Dankook University ,1031,n/a,4.8,3.5,68.9,2.8,4.5,5.8,1,6.8,1
+2024,294496,Japan,Doshisha University,1032,n/a,9,13.7,5.3,2.1,18.6,4,1.1,15.9,1
+2024,297371,Turkey,EGE UNIVERSITY,1033,n/a,8.6,10.3,13.8,3,1.3,3.3,10.6,8.5,17.2
+2024,294435,Ecuador,Escuela Politécnica Nacional,1034,n/a,6.3,17.6,16.6,3.3,6.7,1.9,1.1,10.6,1.1
+2024,293366,Ecuador,Escuela Superior Politécnica del Litoral (ESPOL),1035,n/a,12.9,9.1,19.2,2.7,13,1.7,1.4,11.9,23
+2024,296804,Iran,Ferdowsi University of Mashhad,1036,n/a,5.8,10.3,3.5,25.8,1.3,7.9,18.1,5.4,n/a
+2024,294302,Russia,Financial University under the Government of the Russian Federation,1037,n/a,5.5,7.8,37.1,1.6,4.1,13.1,1.9,33.4,5.2
+2024,297583,United States,Fordham University ,1038,n/a,6.4,7.3,15.4,5.9,7.8,14.6,1.5,24.7,1.3
+2024,294542,Spain,CEU Universities,1039,n/a,4.5,7.3,16.6,2.2,4,50.6,1,5.1,n/a
+2024,294201,Egypt,Future University in Egypt,1040,n/a,4.5,27.8,31.4,1.8,6.9,14.7,1,8.8,1.6
+2024,294695,Turkey,Gazi Üniversitesi,1041,n/a,16.4,11.3,5.5,4,1.1,2.8,14.4,14.5,14.5
+2024,295596,Jordan,German Jordanian University,1042,n/a,7.1,13.4,18.8,4.8,44.1,14.4,1.1,10.6,1
+2024,296377,United Kingdom,Glasgow Caledonian University,1043,n/a,5.5,4.9,4.4,6.5,31.4,37.5,2.4,11.2,14
+2024,295006,China (Mainland),Harbin Engineering University,1044,n/a,4.6,2,14.6,23,2.5,2,2.1,6.2,1.3
+2024,297076,United Kingdom,Harper Adams University,1045,n/a,4.2,12.6,6.1,8.5,18.5,9.1,1,9.3,1
+2024,297531,United States,Howard University,1046,n/a,6.5,7.7,46.7,3.4,1.1,3.8,2.6,16.1,1.2
+2024,378421,Hungary,MATE Hungarian University of Agriculture and Life Sciences,1047,n/a,5.6,4,34.1,2.9,1.9,29.1,8.5,5.5,1.4
+2024,293372,Mexico,"ITESO, Universidad Jesuita de Guadalajara",1048,n/a,6.3,5.5,58.8,1,2.5,1.5,1,6.6,n/a
+2024,3739620,Saudi Arabia,Imam Mohammad Ibn Saud Islamic University – IMSIU,1049,n/a,10.6,4.8,14.8,1.4,46.6,2.9,1.8,5.6,1
+2024,295278,Dominican Republic,Instituto Tecnológico de Santo Domingo (INTEC),1050,n/a,2.7,7.9,31.4,1.4,18.5,3.1,1,19.8,n/a
+2024,294894,Japan,International Christian University,1051,n/a,4.9,13.2,17.9,1.7,76.6,6,1,13.5,1
+2024,295011,China (Mainland),Jiangnan University,1052,n/a,4.9,6.8,16.8,20.5,n/a,n/a,5.8,5.3,1.2
+2024,294173,Japan,Kagoshima University,1053,n/a,6.1,2.9,65.8,3.9,4,3,1.8,7.2,1.3
+2024,296742,South Korea,Kangwon National University,1054,n/a,5.8,5.4,20,8.9,4,2.5,1.7,6,17.6
+2024,293740,Kazakhstan,Kazakh Ablai Khan University of International Relations and World Languages,1055,n/a,6.5,6.7,35.5,1,6.7,4.4,1,12.1,1.8
+2024,293622,Kazakhstan,Kazakh-British Technical University,1056,n/a,13.1,22.6,20,1.4,5.3,2.1,1,12.2,1
+2024,295997,Russia,Kazan National Research Technological University,1057,n/a,5,3.6,23.1,1.4,2.5,44,1,7.8,1
+2024,295215,United States,Kent State University,1058,n/a,5.9,4.1,6.6,15.1,27.2,4.8,7.5,10.4,4.4
+2024,296739,South Korea,Kookmin University ,1059,n/a,5.2,4,28.8,3.5,5.5,21,1,6.5,1
+2024,294918,Japan,Kyoto Institute of Technology,1060,n/a,6.4,4,16.2,12.9,11,7.9,1,7.8,1.1
+2024,297331,Japan,Kyushu Institute of Technology ,1061,n/a,4.7,5.4,11.3,23,9,4.6,1.1,8,1
+2024,296379,United Kingdom,Leeds Beckett University,1062,n/a,4.4,8,4.4,8.1,35.2,18,2.2,11.5,1.6
+2024,295629,Russia,Lobachevsky University,1063,n/a,8.8,3.7,45.9,2.1,2.2,21.9,1.3,8.5,5.9
+2024,371281,Poland,Lodz University of Technology,1064,n/a,5.4,3.7,42.4,8.3,4.2,3.5,7.8,8.4,3.9
+2024,297627,Egypt,Mansoura University,1065,n/a,12.9,8.1,3.2,2.4,5.8,4.1,33.5,9.6,19.9
+2024,294921,Japan,Meiji University,1066,n/a,7.4,24.5,4.9,1.7,10.1,5.3,1.5,16,1.1
+2024,297448,United States,Mississippi State University,1067,n/a,6,5.8,6.7,18.4,15.7,3.2,9.2,10.8,11.7
+2024,297142,Malaysia,Multimedia University (MMU),1068,n/a,8.8,17.6,11.6,5.8,16.3,23.5,1.3,9.1,1.3
+2024,294197,Iraq,Mustansiriyah University,1069,n/a,3.7,5.3,43.7,1.3,33,4,1,9.3,1
+2024,295572,Jordan,Mutah University,1070,n/a,7.6,8.9,10.1,1.7,10.1,43.6,1,8.7,1.7
+2024,296507,Lithuania,Mykolas Romeris University,1071,n/a,5.3,9.5,14.3,4.2,12.5,27.8,1,21.7,8.4
+2024,294980,China (Mainland),Nanjing Normal University,1072,n/a,5.1,1.7,16.6,21.6,n/a,4.6,7.5,6.4,7.1
+2024,309517,Ukraine,National University of Kyiv-Mohyla Academy (NaUKMA),1073,n/a,5.2,11.6,39.9,1.2,2.2,1.4,1,12.7,1.3
+2024,294655,United States,Northern Arizona University,1074,n/a,6.5,6,4.8,12.2,2.8,2.4,7.4,9.1,12.4
+2024,295037,China (Mainland),Northwest University (China),1075,n/a,4.7,1.5,50.9,14.3,3.8,2.8,3,5.9,2.7
+2024,295855,Russia,Novosibirsk State Technical University,1076,n/a,6.8,5.9,29.1,1.8,1.4,44.6,1,9.9,1.3
+2024,3786726,Ukraine,Odessa I.I.Mechnikov National University,1077,n/a,4.1,2.6,47.7,1.3,1.8,3.6,1,10.5,1
+2024,294667,United States,Ohio University,1078,n/a,8.5,9.3,5.5,14.3,5.5,3.9,15.1,15.5,3.9
+2024,297305,India,Panjab University,1079,n/a,6.7,5.9,5.6,21,n/a,1.8,1.9,29.8,2.2
+2024,294844,France,Paul Valéry University Montpellier,1080,n/a,12.2,2.7,2.9,4.6,5.4,34.8,6.6,6.4,2.4
+2024,293377,Brazil,Pontifícia Universidade Católica de São Paulo,1081,n/a,11.3,11.2,34.1,1.2,4.4,1.2,1,13.8,1.2
+2024,371303,Poland,Poznan University of Technology,1082,n/a,7.4,5.6,32.6,5.9,2.2,4,5.5,7.5,1.2
+2024,295201,United States,Rochester Institute of Technology (RIT),1083,n/a,6.2,9.4,19.8,7.6,5,17.7,7.8,17.3,1.9
+2024,294120,Russia,Russian Presidential Academy of National Economy and Public Administration,1084,n/a,5.2,6.8,49,1.1,2,3,1.1,26,1.1
+2024,294460,Russia,Saint-Petersburg Mining University,1085,n/a,3.7,3.1,53.9,2.2,19.7,20.6,1,12,4.1
+2024,294694,United States,San Diego State University,1086,n/a,5.2,3,3.2,17.1,6.5,4.4,27.1,17.8,23.7
+2024,295479,India,Sathyabama Institute of Science and Technology (Deemed to be University),1087,n/a,5,6.3,29.1,3.9,5.9,4.1,1.1,8.7,7.5
+2024,295883,South Korea,Seoul National University of Science and Technology,1088,n/a,7.4,3.8,10.8,10,11.1,11.9,1,7.6,1
+2024,294995,China (Mainland),Shanghai International Studies University,1089,n/a,5.3,2.5,17.6,1.7,28.2,29.6,1,6.8,1
+2024,297537,False,Sheffield Hallam University,1090,n/a,6.5,12.1,10,4.9,35,30.9,6.7,11.9,2.5
+2024,296777,Japan,Shinshu University ,1091,n/a,3.4,3.4,35.1,12,10.7,2.9,1.3,7.8,1.1
+2024,296923,Russia,"Siberian Federal University, SibFU",1092,n/a,7.8,3.8,15.5,3.5,45.5,31.2,2.4,10.4,7.4
+2024,888039,Poland,Silesian University of Technology,1093,n/a,6.5,3.6,27.7,6.2,2.4,4.4,9,11.1,1.4
+2024,293797,Slovakia,Slovak University of Technology in Bratislava,1094,n/a,9.7,7.9,34.7,3.6,2.1,2.7,2.6,18.2,1.4
+2024,297173,South Korea,Soonchunhyang University ,1095,n/a,5,2.9,46.6,7.3,5.7,4.8,1,6.8,1.1
+2024,297616,United States,Southern Methodist University,1096,n/a,5.2,3.8,28,8.6,13,8.8,2.7,30.5,1.6
+2024,294998,China (Mainland),Southwest University,1097,n/a,3.9,1.7,12.6,19.2,1.3,1.7,5.9,9,5.8
+2024,700828,Hungary,Szechenyi Istvan University (University of Gyor),1098,n/a,8.1,24.7,22.8,1.6,4.2,6.6,1,9.2,1.3
+2024,295100,Saudi Arabia,Taibah University,1099,n/a,5.7,2.3,4.1,3.2,97.7,2.3,2.4,4.5,2.1
+2024,293796,Estonia,Tallinn University ,1100,n/a,8.7,5.7,6.9,6.1,40,19.3,9.3,11,1.3
+2024,371274,Slovakia,Technical University of Kosice,1101,n/a,7.5,2.5,22.8,5.2,1.5,59.3,1.7,12.8,1.1
+2024,295389,Czechia,Technical University of Liberec,1102,n/a,4.3,3.2,45.5,4.3,16.4,10.1,1.6,7.8,1
+2024,296930,Indonesia,Telkom University,1103,n/a,7.4,9.4,27,1.4,22.3,3.6,1,10.4,3.4
+2024,294092,Pakistan,The University of Lahore,1104,n/a,9.4,17.5,15.3,2.6,3,2.5,6.9,9.1,10.6
+2024,296370,United Kingdom,The University of Northampton,1105,n/a,3.4,2.9,5.7,2.9,37.8,96.7,1,9.6,1
+2024,295208,United States,The University of Texas at Arlington,1106,n/a,5.2,4.7,4.7,10.4,2.3,20.5,7.9,10,34.3
+2024,297249,Japan,Tokai University,1107,n/a,11.4,6.4,14.4,3,6,3.1,1.6,7.8,1.2
+2024,296774,Japan,Tokushima University,1108,n/a,4.8,1.9,66.3,6.6,2.7,2.4,1.2,9,1
+2024,297520,Czechia,Tomas Bata University in Zlin,1109,n/a,4.4,15,11.3,5,19.5,33.9,1.2,10.1,1
+2024,3897133,Russia,Ufa State Aviation Technical University (USATU),1110,n/a,3.9,2,51,1.5,1.2,2.3,n/a,8,1.2
+2024,293386,Chile,Universidad Andrés Bello,1111,n/a,11,11,6.2,2.5,7,1.5,7.5,8.5,9.6
+2024,296838,Chile,Universidad Austral de Chile,1112,n/a,15.6,10.7,3.5,6.6,16,1.9,7.6,4.7,2.2
+2024,293392,Mexico,Universidad Autonoma Chapingo,1113,n/a,4.1,2.5,73.5,1.4,2.8,1.3,1,6.7,1.6
+2024,293398,Mexico,Universidad Autónoma de Guadalajara (UAG),1114,n/a,6.5,5.2,17.5,1.1,39.4,20,1,3.9,n/a
+2024,296849,Mexico,Universidad Autónoma de Nuevo León,1115,n/a,15.4,12.5,2.2,1.8,3.4,1.1,2.2,11.5,15.4
+2024,293410,Mexico,Universidad Autónoma del Estado de Hidalgo (UAEH),1116,n/a,3.9,7.2,43.2,1.4,2.4,1.8,1,7.6,2.6
+2024,295210,Mexico,Universidad Autónoma del Estado de México (UAEMex),1117,n/a,21.4,6.5,4.9,1.5,3,1.1,1.1,3.9,8.4
+2024,293483,Colombia,Universidad Industrial de Santander - UIS,1118,n/a,10.3,25.2,5.2,2.1,4.3,1.3,1,6.4,6.2
+2024,293488,Mexico,"Universidad La Salle, México",1119,n/a,3.9,26.5,20.1,1.1,4.1,1.7,1,9.6,1.2
+2024,294860,Venezuela,Universidad Metropolitana,1120,n/a,6.5,14.6,5.2,1.1,9.9,1.5,n/a,41.2,n/a
+2024,296830,Argentina,Universidad Nacional de Cuyo,1121,n/a,12.3,6.2,21.1,1.7,1.9,15.3,1.8,5.1,1.6
+2024,296828,Argentina,Universidad Nacional de San Luis,1122,n/a,4.1,1.9,67.5,1.2,n/a,n/a,1,5.1,1
+2024,293496,Paraguay,Universidad Nacional de la Asunción,1123,n/a,5.4,10.2,28.6,1.1,1.4,1.8,1,21.5,3.4
+2024,293815,Argentina,Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN),1124,n/a,5.4,2.7,78.8,1.4,n/a,n/a,1,5.1,1
+2024,295076,Costa Rica,Universidad Nacional Costa Rica,1125,n/a,10.8,18.3,12.8,1.5,10.4,2.5,1.1,9.6,1.1
+2024,296889,Peru,Universidad Peruana de Ciencias Aplicadas,1126,n/a,10.7,25.8,3.3,1.1,16.6,1.8,1,9.9,1.3
+2024,293517,Argentina,Universidad Tecnológica Nacional (UTN),1127,n/a,4.1,24.1,49.1,1.1,n/a,1.5,1,5,1
+2024,296449,Spain,Universidad de Córdoba,1128,n/a,10.6,3.4,28,10.4,n/a,n/a,33.3,4.3,n/a
+2024,296454,Spain,Universidad de León,1129,n/a,5.7,3.1,63.9,3.9,3.5,4.4,4.5,8.1,n/a
+2024,296886,Peru,Universidad de Lima,1130,n/a,10.3,27.3,4.3,1.2,3.4,2,1,16.1,1.5
+2024,293447,Venezuela,Universidad de Los Andes - (ULA) Mérida,1131,n/a,16.2,12.8,23,1.2,1.3,1.8,1.2,10.4,2.3
+2024,296862,Mexico,Universidad de Monterrey (UDEM),1132,n/a,12.2,23.1,9.9,1.4,8.6,1.5,1,9.2,1
+2024,293453,Cuba,"Universidad de Oriente, Santiago de Cuba",1133,n/a,10.6,10.8,25.9,1.1,n/a,n/a,1,13.9,n/a
+2024,296457,Spain,Universidad de Oviedo,1134,n/a,12.6,3.5,14.3,7.7,n/a,n/a,24.8,4.3,7.2
+2024,293458,Puerto Rico,Universidad de Puerto Rico,1135,n/a,9.4,6.2,11.4,2.1,1.4,1.5,2.4,46.4,29.1
+2024,296836,Chile,Universidad de Talca,1136,n/a,11,8.6,6.7,5.7,22.5,1.4,3.8,6.8,7
+2024,293472,Colombia,Universidad del Norte ,1137,n/a,9.8,20.8,12.3,2.7,8.3,1.3,1.7,9.2,1.7
+2024,293473,Peru,Universidad del Pacífico,1138,n/a,7.3,30.8,3.3,3.1,18.2,3,1,7.7,1
+2024,293476,Colombia,Universidad del Valle,1139,n/a,18.2,15,8.1,2,2.2,1.4,1.2,10,2.1
+2024,296866,Brazil,Universidade Federal de Pernambuco (UFPE) ,1140,n/a,12.4,2.6,17.6,4.2,1.7,1.3,10,4.6,1.6
+2024,293556,Brazil,Universidade Federal de São Carlos (UFSCar),1141,n/a,12.4,5.1,16.3,16.1,2.8,1.7,6.5,3.8,4
+2024,296868,Brazil,Universidade Federal do Paraná - UFPR,1142,n/a,13,5.8,18.8,5.5,3.1,4,3,5.9,3.8
+2024,296462,Spain,Universidade da Coruña ,1143,n/a,5.8,5.6,25.1,7.1,2.8,4.6,12,7.6,42.6
+2024,296560,Italy,"Universita' degli Studi ""G. d'Annunzio"" Chieti Pescara",1144,n/a,3.6,1.5,3.3,25.3,4.1,3,5.5,4.7,1
+2024,295264,Indonesia,Universitas Hasanuddin,1145,n/a,12.5,9.5,14.5,1.3,4.6,1.2,1.1,10.2,1.8
+2024,296939,Indonesia,Universitas Sebelas Maret,1146,n/a,10.7,11.5,13.6,1.5,10.3,2,1,7.5,7
+2024,296402,Spain,Universitat de Lleida (University of Lleida),1147,n/a,5.8,1.9,18.7,13.1,2.9,12.5,4.9,7.9,n/a
+2024,294950,Malaysia,Universiti Kuala Lumpur (UniKL),1148,n/a,6.4,9.9,33.6,2.1,8,3.8,1.1,9.8,1.1
+2024,293738,Malaysia,Universiti Malaysia Perlis,1149,n/a,7.3,5.5,24.1,7.5,2,4,1.6,9,15.6
+2024,297141,Malaysia,Universiti Malaysia Sabah (UMS),1150,n/a,13.6,10,7.8,3.3,9.8,4,1.7,9.6,2
+2024,294949,Malaysia,Universiti Malaysia Sarawak (UNIMAS),1151,n/a,12.6,8.7,11.9,3,37.3,8.7,1.3,8.9,1.2
+2024,294957,Malaysia,Universiti Malaysia Terengganu (UMT),1152,n/a,10,4.6,10.8,9.3,12.9,6.7,7.4,8.6,23.7
+2024,294956,Malaysia,Universiti Tun Hussein Onn  Malaysia (UTHM),1153,n/a,9.1,7,9.6,7.7,8,7,5,9.4,11.3
+2024,295212,United States,University of Arkansas Fayetteville ,1154,n/a,6.8,4.3,6.6,11.9,5.1,3.2,7.1,15.7,6.2
+2024,294522,Sri Lanka,University of Colombo,1155,n/a,11.7,14.8,2.5,3.1,1.1,1.3,1.1,44.5,19.9
+2024,297360,United Kingdom,University of Derby,1156,n/a,4.8,3.2,11.3,4.7,30.5,48.5,4.4,9.3,3.8
+2024,293897,Spain,University of Deusto,1157,n/a,5.8,20.9,5,6.8,n/a,n/a,1.3,12.7,n/a
+2024,297523,Czechia,University of Hradec Kralove,1158,n/a,5,1.9,27.9,4.5,41.4,3,3.4,10,1
+2024,294739,United States,University of Idaho ,1159,n/a,3.7,1.4,12.2,34.7,5.4,5,2.5,8.3,n/a
+2024,293756,Greece,University of Ioannina,1160,n/a,6.9,3.7,1.4,24.6,1.7,2.7,15.2,8.4,n/a
+2024,297411,Pakistan,University of Karachi,1161,n/a,10.4,15.3,1.6,4.6,3.8,1.1,2.6,6.9,12.3
+2024,295242,United States,University of Louisville College of Business,1162,n/a,3.5,4.5,24.9,10.1,34.8,3.3,15.8,12.5,n/a
+2024,295244,United States,University of Mississippi,1163,n/a,4.3,3.2,36.6,8.9,14.5,2.9,12.5,8.4,4.1
+2024,295083,United States,"University of Missouri, Kansas City",1164,n/a,4.7,5.1,17.8,17.5,5.1,13.5,2.5,9.7,1.3
+2024,294204,Kenya,University of Nairobi,1165,n/a,9.6,14.6,18.1,1.7,n/a,n/a,3.6,54.4,4.1
+2024,296535,Italy,University of Naples Parthenope,1166,n/a,3.5,2,3.7,38.9,1.8,1.9,1.7,4.8,3.4
+2024,294748,United States,University of New Hampshire,1167,n/a,5.5,4.3,11.4,18.7,10.8,3,5.7,10.3,11.6
+2024,295196,United States,University of North Carolina at Charlotte,1168,n/a,5.7,4.5,5,14.1,8.7,5.5,14.4,10.6,23
+2024,294753,United States,University of North Texas,1169,n/a,7,6.8,3.4,19.3,4.9,14.7,9.6,25.5,8.9
+2024,293617,Serbia,University of Novi Sad,1170,n/a,8.8,3.6,9.3,3.4,n/a,n/a,47.5,9,2.2
+2024,297534,Czechia,University of Pardubice,1171,n/a,4.8,2.6,39.8,3.3,11.5,11.1,1.1,7.8,1
+2024,297349,Slovenia,University of Primorska,1172,n/a,3.1,2.3,9.4,5.1,26.3,28.6,5.7,67.8,1.4
+2024,296902,Canada,University of Regina,1173,n/a,3.5,2.9,4,21.2,8.8,41.1,5.7,8.3,n/a
+2024,294756,United States,University of Rhode Island ,1174,n/a,5.6,2.8,6.9,16.7,5.1,2.7,3.3,12.7,58.6
+2024,297118,United States,University of San Francisco,1175,n/a,6.6,4,17,4.5,1.8,20.3,1,22.8,1.1
+2024,371306,Czechia,University of South Bohemia in České Budějovice ,1176,n/a,5.5,2.6,68.7,4.8,n/a,n/a,5.9,7.7,1.2
+2024,295222,United States,University of Texas El Paso ,1177,n/a,4.8,2.1,5.6,15.6,10.5,5.9,15.5,7.5,3.4
+2024,295253,United States,University of Texas at San Antonio,1178,n/a,6.2,3,3.7,25.2,13.5,2.8,17.6,8.8,5.9
+2024,294760,United States,University of Toledo,1179,n/a,3.8,4.4,8.7,21.4,9.6,8.8,5.1,10.3,n/a
+2024,297595,United States,University of Tulsa,1180,n/a,2.4,3,37.8,12.3,5.1,12.2,1,15.4,1.1
+2024,294174,Russia,University of Tyumen,1181,n/a,4.1,2.3,39,1.6,4.8,15.2,1.7,8.7,3
+2024,295203,United States,University of Wisconsin Milwaukee ,1182,n/a,8.3,2.7,8.8,13.4,6.6,3.9,4.1,10.2,11.8
+2024,297543,United Kingdom,University of Wolverhampton,1183,n/a,3.4,3.2,10.4,9.4,34.7,72.1,3.7,8.8,1.4
+2024,294762,United States,University of Wyoming,1184,n/a,3,1.4,25.9,23.4,7.7,4,10.7,9.8,6.3
+2024,297590,South Africa,University of the Free State,1185,n/a,5.6,6.6,3.5,7.9,n/a,4.9,66.4,9.6,n/a
+2024,297042,Australia,University of the Sunshine Coast ,1186,n/a,3,2.2,2.3,22.8,2.9,18.5,6.4,6.1,7.1
+2024,294155,Slovakia,University of Zilina,1187,n/a,5.7,1,56.1,6.2,2.5,2.9,1.2,13.4,1.1
+2024,296543,Italy,Università degli Studi della Tuscia (University of Tuscia),1188,n/a,3.9,1.3,6.1,33.5,10.7,6.7,2.4,6.8,14.4
+2024,334604,Italy,Università degli Studi di Udine,1189,n/a,7.2,2.5,10.2,22,4.7,4,5.8,7.7,20.7
+2024,296559,Italy,University of Salento,1190,n/a,7,1.6,7.1,22,1.8,1.5,19.6,4.7,n/a
+2024,296568,Germany,Universität Siegen,1191,n/a,4.7,1.9,9.7,6.5,52.4,29.1,5.7,8.9,1.3
+2024,293990,France,Université Lumière Lyon 2,1192,n/a,10.9,2.5,5.5,6.3,28,38.2,12.2,6.7,3.7
+2024,294577,France,Université de Caen Normandie,1193,n/a,9,2.6,6,5.7,9.3,6.9,36.8,6.4,1.2
+2024,296419,France,Université de Poitiers,1194,n/a,8.7,2,4.9,6.2,n/a,29.1,36.3,7.8,2.3
+2024,295830,Tunisia,University of Sfax,1195,n/a,5.9,2.5,40.6,4.1,1.1,3.3,4.2,11.3,n/a
+2024,293351,Tunisia,Université de Sousse,1196,n/a,3.7,1.1,60.7,1.7,1.1,2.1,1.2,7.9,1
+2024,297240,France,Université Toulouse - Jean Jaurès,1197,n/a,10.1,2.6,1.2,7,28.5,21.6,12.5,6.7,1.1
+2024,294763,United States,Utah State University ,1198,n/a,6.6,3.2,6.3,24.4,1.1,1.7,23.8,9.5,15.8
+2024,295810,Czechia,VSB - Technical University of Ostrava,1199,n/a,5.4,10.3,15.5,4.3,8.4,22,1.8,9.4,8.4
+2024,293871,Canada,Vancouver Island University,1200,n/a,5,3.3,58,1.1,n/a,n/a,1.1,6.8,n/a
+2024,294091,Poland,Warsaw University of Life Sciences  SGGW (WULS-SGGW),1201,n/a,6.9,5,20.2,6,2.4,7.7,32.3,6.3,1.9
+2024,294768,United States,Western Michigan University,1202,n/a,5.3,3.6,10.8,5.8,32.3,10.4,2.2,17,1.9
+2024,296875,China (Mainland),Xi'an Jiaotong Liverpool University,1203,n/a,4.3,2.1,5.7,5.8,97.5,3.1,1.6,6.9,1.8
+2024,296770,Japan,Yamaguchi University ,1204,n/a,4,1.7,43.2,4.5,7,2.7,1.2,8,1.1
+2024,297384,Jordan,Yarmouk University,1205,n/a,11.9,14.5,2.8,2.5,7.8,13.9,3.9,28.4,1.1
+2024,371284,Armenia,Yerevan State University,1206,n/a,7,3,45.4,1.4,5.2,1.6,1,35.2,1
+2024,297636,Egypt,Al-Azhar University,1207,n/a,11.2,6.8,11.1,1.3,1.5,10.4,5.2,13.6,1.2
+2024,296483,Romania,Alexandru Ioan Cuza University,1208,n/a,8,8,5.3,2.9,3.6,10.9,1.8,8,1.2
+2024,893795,Turkey,Anadolu University,1209,n/a,4,4,13.8,2.9,1.9,3.1,1.4,10.6,1.1
+2024,294633,Japan,Aoyama Gakuin University,1210,n/a,6.9,12.3,5.4,2,16.3,2.7,1,11.4,1
+2024,296989,Indonesia,Atma Jaya Catholic University of Indonesia,1211,n/a,5.8,6.3,8.8,1.3,2.1,1.1,1,15.9,1.4
+2024,309524,Azerbaijan,Azerbaijan State Oil and Industry University,1212,n/a,4.9,3,27.3,1.1,10.1,2.7,1,29.5,1.3
+2024,297647,Pakistan,Bahauddin Zakariya University ,1213,n/a,5.4,5.5,1.7,12.1,n/a,1,2.7,5.7,1.1
+2024,371289,Belarus,Belarusian State University of Informatics and Radioelectronics,1214,n/a,7.4,18.3,12,1.3,1.2,5.6,1,10.9,n/a
+2024,293359,Mexico,Benemerita Universidad Autonoma de Puebla,1215,n/a,15.3,6.5,3.2,2,2.9,1.3,1.3,6.5,3
+2024,293346,Palestinian Territories,Birzeit university,1216,n/a,6.3,9.4,4.9,2.7,14.3,4.3,1.2,16.8,1
+2024,295561,Egypt,British University in Egypt,1217,n/a,5.7,4.5,23.1,2.2,2.8,2.6,1,6.8,1.4
+2024,296900,Canada,Brock University,1218,n/a,4.1,6.8,2.4,15.1,2.2,18.8,2.5,8.7,2
+2024,944069,United States,The City College of New York,1219,n/a,6.2,1.8,11.4,15,4.3,5.5,1.5,6.9,n/a
+2024,295206,United States,California Polytechnic State University,1220,n/a,3.7,9.3,7,3.4,n/a,n/a,1.5,13.2,n/a
+2024,3738806,False,California State University - Long Beach,1221,n/a,4,2.8,5.7,3.4,3.2,5.9,47.3,9.7,n/a
+2024,294407,Argentina,Universidad Católica de Córdoba,1222,n/a,4.7,2.7,18.1,1.2,4.2,4.8,1,9.1,1
+2024,297388,United States,Central Michigan University,1223,n/a,3.6,4.2,7.8,8.1,3.5,3.1,2.1,10.8,n/a
+2024,295258,Taiwan,Chaoyang University of Technology ,1224,n/a,5.6,6.7,4.2,3.5,6.7,5.7,1,7.9,3.3
+2024,294991,China (Mainland),China University of Political Science and Law,1225,n/a,3.7,27.6,9.1,1.2,4,1.5,1,9.2,1
+2024,955251,India,Chitkara University,1226,n/a,4.8,4.6,20.3,1.9,4.3,3.2,1.3,8.1,1.7
+2024,297035,Bangladesh,Chittagong University of Engineering and Technology,1227,n/a,8,12.6,7.2,4.5,n/a,n/a,1,11.3,n/a
+2024,297399,United States,Cleveland State University,1228,n/a,4.3,4.2,8.9,4.8,4.3,17.2,1,11.1,n/a
+2024,297034,Bangladesh,Daffodil International University,1229,n/a,8,16.5,3.9,2.4,4.8,2,1,10.1,2
+2024,293350,Syria,Damascus University,1230,n/a,5.1,4.2,1.1,1.2,1.6,3.9,1,64,1.1
+2024,294676,Turkey,Dokuz Eylul Universitesi,1231,n/a,5.7,5.9,2.9,2.4,3.2,6.2,2.1,7.5,16.7
+2024,295959,Russia,Don State Technical University,1232,n/a,4.2,3.1,13.3,1.4,1.6,14.8,1,7.2,1.3
+2024,297033,Bangladesh,East West University ,1233,n/a,5.8,14.6,3.1,2.5,1.3,1,1,10.5,1
+2024,294683,Turkey,Erciyes University,1234,n/a,3.9,3.1,1.9,4.9,3.5,6.5,3,7.5,10.3
+2024,294650,Taiwan,Feng Chia University,1235,n/a,10,7.5,4.5,6,3.9,5.8,1,14.4,1.1
+2024,297466,United States,Florida Atlantic University - Boca Raton,1236,n/a,4.9,3.8,5.6,10.1,10.2,3.6,7.2,9.5,3.4
+2024,294370,Taiwan,Fu Jen Catholic University,1237,n/a,7.3,7.5,4.3,6.8,7.9,7.4,1,21.8,1.5
+2024,293369,Colombia,Fundación Universidad de Bogotá Jorge Tadeo Lozano,1238,n/a,6,4.5,9.2,1.7,2.3,1.1,1,7.8,1
+2024,294703,Turkey,Gebze Technical University (GTU),1239,n/a,3.9,2.7,10.1,13.2,3,2.7,1.6,9.1,1.1
+2024,295539,Egypt,German University in Cairo,1240,n/a,7.9,11.4,7.3,2.1,14.2,1.2,1,6,1
+2024,294323,Vietnam,Hanoi University of Science and Technology,1241,n/a,6.1,8.7,2.4,4.3,3.8,1.2,1.6,15.3,1.2
+2024,297623,Egypt,Helwan University ,1242,n/a,7,10.1,4.4,1.6,1.2,2.3,5.2,9.2,1.2
+2024,295010,China (Mainland),Hohai University,1243,n/a,4.1,1.5,8.3,13.6,n/a,n/a,11.2,5.9,4.1
+2024,296432,South Korea,Hongik University ,1244,n/a,5.9,5.9,9.3,3.1,17.6,10,1,6.8,1
+2024,297439,United States,Indiana State University,1245,n/a,6.3,4.8,7.8,2.8,1.9,2.4,1,9.1,1
+2024,295160,Pakistan,"International Islamic University, Islamabad (IIU)",1246,n/a,6.3,10.8,3.6,7.2,4.5,6.7,4.4,6.9,1.1
+2024,294714,Turkey,Istanbul Aydin University  ,1247,n/a,3.7,2.8,12.1,1.4,9.5,50.5,1,8.4,2.4
+2024,294717,Turkey,Istanbul Bilgi Üniversitesi,1248,n/a,4.4,4.5,12.6,2,6.4,25.5,1,10.2,2.6
+2024,955824,Ukraine,Ivan Franko National University of Lviv,1249,n/a,4.3,10.1,34.2,1.3,1.4,2,1,12,1.1
+2024,296386,Turkey,Izmir Institute of Technology (IZTECH),1250,n/a,6.6,3.5,5.9,7.5,3.4,2.3,1,6.9,3.5
+2024,297029,Bangladesh,Jahangirnagar University,1251,n/a,8.5,13.7,n/a,n/a,n/a,n/a,1.2,n/a,n/a
+2024,295743,India,Jamia Hamdard,1252,n/a,4.2,1.5,7.6,12.6,n/a,3,1,7.7,1
+2024,296764,South Korea,Jeju National University ,1253,n/a,4.8,2,25.3,6.6,3.8,4.2,1.1,5.2,1.1
+2024,297065,Kenya,Kenyatta University,1254,n/a,7.1,8,1.4,1.3,n/a,n/a,1,15.1,n/a
+2024,880771,Ukraine,Kharkiv National University of Radio Electronics,1255,n/a,3.7,13.1,26,1.5,1.4,10.9,1,10.5,2.1
+2024,297028,Bangladesh,Khulna University of Engineering and Technology,1256,n/a,5.9,11.4,11.2,4.8,n/a,n/a,1,8.3,1
+2024,297334,Japan,Kindai University (Kinki University),1257,n/a,5.3,4.6,10.6,4.5,16.4,2.1,1.2,7.8,1.1
+2024,294909,Thailand,King Mongkut's University of Technology North Bangkok,1258,n/a,8.1,5.8,3.7,3,3.4,1.1,1.1,8.3,1.1
+2024,294904,Thailand,King Mongkut's Institute of Technology Ladkrabang,1259,n/a,8.1,7.4,4.8,3.1,15.7,1.6,1.1,9.5,1.3
+2024,295966,Kazakhstan,Korkyt Ata Kyzylorda University,1260,n/a,5.9,6.3,5.1,1,2.6,1.2,1,12.4,1.3
+2024,297333,Japan,Kwansei Gakuin University,1261,n/a,4.2,6.4,4.5,2.5,24.4,3.9,1,10.6,1
+2024,296477,Romania,Lucian Blaga University of Sibiu,1262,n/a,3.7,2.5,8.1,1.8,12.5,3.1,49.8,9,1.8
+2024,295780,Kazakhstan,M.Kh.Dulaty Taraz Regional University,1263,n/a,6.6,2.6,10.8,1,n/a,20.5,1,9.9,1
+2024,921377,Turkey,Marmara University,1264,n/a,6.8,8.3,5,2.3,3,3.6,2.1,15.4,6.1
+2024,297604,United States,Marquette University,1265,n/a,3.4,3.8,23.7,9.3,6.8,2.7,1.5,13.2,1.1
+2024,295990,Russia,Mendeleev University of Chemical Technology,1266,n/a,4.9,3.9,30.5,2.7,1.1,5.7,1,7.2,1
+2024,297587,United States,Miami University,1267,n/a,4.2,4.7,6.5,8.7,6.5,6.6,1.2,23,4.1
+2024,295454,Russia,Moscow Pedagogical State University,1268,n/a,8.3,2.7,7.6,1.4,1.2,25.9,1,7.1,1
+2024,297061,Japan,Nagoya Institute of Technology (NIT),1269,n/a,5.9,2.3,6.8,15.3,5.5,4.5,1.2,9.5,1
+2024,294707,Thailand,Naresuan University ,1270,n/a,6.5,3.3,6.5,2,5.9,1.3,1,7.9,4.4
+2024,293793,Kazakhstan,Narxoz University,1271,n/a,8,5,8.4,1.4,5.3,2.1,1,12.4,1
+2024,294961,Taiwan,National Dong Hwa University,1272,n/a,6.3,2.3,6.5,6.4,3.2,10.2,1,7.6,2.3
+2024,296061,Russia,National Research University Moscow Power Engineering Institute (MPEI),1273,n/a,5.8,3.5,11.7,2,7.9,45,1.1,7.8,1.4
+2024,294378,Taiwan,National Taipei University,1274,n/a,7.5,4.5,8.2,3.2,2.7,5.2,1,16.1,3.1
+2024,294960,Taiwan,National Taiwan Ocean University,1275,n/a,5.7,3.2,11.6,10.1,5.6,7.7,1.1,8.6,5.6
+2024,294097,Ukraine,National University of Life and Environmental sciences of Ukraine,1276,n/a,5.7,4.4,17.2,1.4,1.2,1.2,1.1,9.8,1.1
+2024,297062,Pakistan,National University of Modern Languages (NUML),1277,n/a,6.6,7.2,5.3,1.4,4.8,1.3,1,7.8,n/a
+2024,293847,Norway,Norwegian University of Life Sciences,1278,n/a,5.9,3.7,n/a,n/a,n/a,n/a,41.5,n/a,n/a
+2024,294751,United States,Nova Southeastern University,1279,n/a,2.9,3.3,14,3.1,4.4,3.9,1.1,10.2,n/a
+2024,295730,India,OSMANIA UNIVERSITY,1280,n/a,4.7,3.5,3.5,17.5,n/a,5.9,1,7.5,1
+2024,296469,Russia,Perm State National Research University,1281,n/a,5,1.7,41.1,1.5,1.4,5.8,1,7.7,2.5
+2024,297304,India,Pondicherry University,1282,n/a,4,1.9,6.5,12.2,1.1,1.1,1.2,4.7,8.4
+2024,293376,Dominican Republic,Pontificia Universidad Católica Madre y Maestra (PUCMM),1283,n/a,3.6,8,9.8,1.2,13.7,13.9,1,19.9,n/a
+2024,293381,Brazil,"Pontifícia Universidade Católica do Rio Grande do Sul, PUCRS",1284,n/a,6.9,3.8,10.5,7.8,2.4,2.2,1.2,6.7,4.1
+2024,294680,United States,Portland State University,1285,n/a,4.3,2.1,9.5,10.5,1.6,5.3,4.9,10.3,18.4
+2024,296721,South Korea,Pukyong National University ,1286,n/a,6.6,3.4,10.3,7,6.6,8.1,1.6,4.2,1.3
+2024,294932,Japan,Rikkyo University,1287,n/a,4.1,12,10.1,2.6,24.9,6.2,1,8.6,1
+2024,294099,Russia,Russian State Agrarian University - Moscow Timiryazev Agricultural Academy,1288,n/a,7.1,3.5,7.7,1.3,2,4.8,1,9.9,5.3
+2024,296016,Russia,Russian State University for the Humanities ,1289,n/a,5.4,2.6,17.5,1.3,1.7,4.1,1,8.6,1
+2024,296028,United States,Rutgers University–Camden,1290,n/a,3.9,3,17.6,4.3,22.2,3,1,6.9,n/a
+2024,294318,India,SRM Institute of Science and Technology,1291,n/a,7,13.1,12.2,3.7,1.7,2.1,8.1,7.5,3.8
+2024,297476,Japan,Saitama University,1292,n/a,4.5,1.8,14.1,9.2,10.5,6.2,1.2,7.9,2.2
+2024,294087,Kazakhstan,Saken Seifullin Kazakh Agrotechnical University,1293,n/a,8.3,6.8,22.2,1.1,8.5,4.1,1,12.4,1
+2024,295218,United States,San Francisco State University,1294,n/a,4.9,2.4,5.2,4.8,4.5,6.8,1.5,10.9,n/a
+2024,293160,United States,Seattle University,1295,n/a,5.4,4.2,29.3,2.4,1.5,13.9,1,13.6,1
+2024,295035,China (Mainland),Shanghai Normal University,1296,n/a,4.3,1.4,13.4,3.8,4.4,2.9,1.1,7.4,1.1
+2024,294996,China (Mainland),Shanghai University of Finance and Economics,1297,n/a,5.2,4.4,9.3,3.3,16.4,2.3,1,20.2,1.2
+2024,309732,Japan,Shibaura Institute of Technology,1298,n/a,3.7,2.3,2.8,4.8,13.8,9.8,1.1,7.9,1.1
+2024,921172,India,"Siksha ‘O’ Anusandhan (Deemed to be University), SOA",1299,n/a,4.6,2,32.9,4.7,1.7,2.1,1.1,8.1,1
+2024,294716,Thailand,Silpakorn University ,1300,n/a,6.2,6.7,4.5,2.7,4.6,1.2,1,7.4,1
+2024,296710,South Korea,Sookmyung Women's University ,1301,n/a,5.4,6.4,21.4,4.5,4.7,2,1,7.3,1
+2024,297172,South Korea,Soongsil University,1302,n/a,5,6.5,10.1,4.3,5.9,13.9,1,4.2,1
+2024,293613,Romania,Stefan cel Mare University of Suceava,1303,n/a,3.8,2.3,4.9,3.8,2.4,27.7,1.1,8.5,1
+2024,295575,Egypt,Suez Canal University,1304,n/a,3.9,2.6,16.2,2.2,2.2,1.8,5.7,4.7,1.2
+2024,949670,Turkey,"Süleyman Demirel University, Turkey",1305,n/a,6.8,3.8,4.1,2.4,1.8,5.1,1.5,7.5,1.1
+2024,922649,Kazakhstan,Suleyman Demirel University,1306,n/a,9.8,8.5,3.6,1.3,3.9,1.2,1,12.7,1.1
+2024,294720,Thailand,Suranaree University of Technology,1307,n/a,6.2,3.1,3.4,8.6,6.1,1.5,1.6,8.5,1.7
+2024,294958,Taiwan,Tamkang University,1308,n/a,5.7,5.5,3.6,5.6,8.4,7.4,1.1,20.9,4.9
+2024,297609,Egypt,Tanta University ,1309,n/a,6.3,4.3,4.1,2.1,1.6,2,21.4,6.5,13.9
+2024,371267,Romania,Technical University of Cluj-Napoca,1310,n/a,5,4.8,7.3,3.7,1.7,2.7,2.8,8,1.1
+2024,296497,Poland,Technical University of Lublin,1311,n/a,5.7,1.9,23.8,2.7,n/a,11.3,1,6.2,1
+2024,295132,Romania,"The ""Gheorghe Asachi"" Technical University of Iasi",1312,n/a,6,6.8,2.4,5.5,n/a,5,2.2,6.5,1.1
+2024,295873,Jordan,The Hashemite University,1313,n/a,8,13,3.8,3.4,9,8,3,6.2,1.1
+2024,295857,Russia,The Herzen State Pedagogical University of Russia,1314,n/a,4,1.9,24.9,1.2,1.5,38.9,1,8.8,1.5
+2024,294146,Croatia,The Josip Juraj Strossmayer University of Osijek,1315,n/a,4.3,n/a,30.2,2.9,n/a,n/a,5.3,9.9,1
+2024,296019,Russia,"The National Research University ""Belgorod State University""",1316,n/a,4,1.3,18.4,2,2.4,52.9,1.2,7.9,3.5
+2024,293765,Kazakhstan,Toraighyrov University,1317,n/a,7,4.2,14.7,1.3,3,2.8,1,12.5,1
+2024,890263,Romania,Transilvania University of Brasov,1318,n/a,6,3.8,6,3.3,2.4,2,3.4,7.9,1.6
+2024,294959,Taiwan,Tunghai University,1319,n/a,6.2,6.1,5.2,4.5,10.2,9.3,1.1,12.6,3.9
+2024,297024,Bangladesh,United International University,1320,n/a,5.6,8.9,2.5,2.4,n/a,1.2,1,9.7,1
+2024,297112,Chile,Universidad Alberto Hurtado,1321,n/a,8.9,5.4,3.1,2.9,14.2,1.8,1,7.8,1
+2024,293389,Mexico,Universidad Autónoma de Aguascalientes (UAA),1322,n/a,3.3,1.9,34.2,1.2,n/a,n/a,1,3.9,1
+2024,296851,Mexico,Universidad Autónoma de Baja California,1323,n/a,7.7,2.9,4.4,1.5,2.7,2.9,1,7.7,7.7
+2024,954565,Chile,Universidad Bernardo O'Higgins,1324,n/a,4.9,2.8,9.7,2,12.2,2,1,8.3,1.2
+2024,293420,Chile,Universidad Católica de Temuco,1325,n/a,4.3,1.7,2,4.6,36.3,n/a,1.1,4.1,1
+2024,293422,Chile,Universidad Católica del Norte,1326,n/a,4.9,3.4,7,5.8,13.8,2.8,4.4,4.1,1.2
+2024,293427,Ecuador,Universidad Central del Ecuador,1327,n/a,8.5,5,10.9,1.2,n/a,n/a,1,10.1,1
+2024,293690,Bolivia,Universidad Mayor de San Andrés (UMSA),1328,n/a,7.7,2.4,1.1,1.6,6.8,1,1.1,14.8,1
+2024,296890,Peru,Universidad Nacional Agraria la Molina,1329,n/a,6.8,8.7,14.6,1.6,1.4,1.8,1,9.8,1
+2024,296831,Argentina,Universidad Nacional de Mar del Plata,1330,n/a,9.5,2.8,5.7,3.7,n/a,n/a,1.3,5.1,1.2
+2024,296832,Argentina,Universidad Nacional de Río Cuarto - UNRC,1331,n/a,4.4,1.5,34.9,1.5,n/a,n/a,1,5.1,1
+2024,293816,Argentina,Universidad Nacional de San Martín (UNSAM),1332,n/a,11.5,3.2,7.5,2.3,1.6,4.7,1.3,5.1,4.6
+2024,293812,Argentina,Universidad Nacional del Comahue,1333,n/a,4.3,2.5,21.5,1.4,n/a,n/a,1.1,5.1,1.1
+2024,296827,Argentina,Universidad Nacional del Litoral,1334,n/a,11.7,5.8,2.2,2.7,1.5,1.1,1.1,2.7,3.2
+2024,293509,Mexico,Universidad Popular Autónoma del Estado de Puebla (UPAEP),1335,n/a,5,4.5,16.1,1.2,4.5,3.1,1,8,1.4
+2024,293510,Peru,Universidad San Ignacio de Loyola,1336,n/a,6.2,9.2,1.8,1.3,3.9,1.3,1,8.5,2
+2024,293361,Cuba,"Universidad Tecnológica de la Habana José Antonio Echeverría, Cujae",1337,n/a,6.2,1.1,20.1,1.1,3.3,4.5,1,14.2,n/a
+2024,296854,Mexico,Universidad Veracruzana,1338,n/a,8.7,3.2,7.8,1.4,n/a,n/a,1,3.9,1.1
+2024,293434,Venezuela,Universidad de Carabobo,1339,n/a,3.7,8,18.3,1,n/a,n/a,1,14.5,1
+2024,293435,Colombia,Universidad de Cartagena ,1340,n/a,4.9,5.4,4,4.3,2.2,1.1,1,6.8,11
+2024,293439,Colombia,Universidad de Córdoba - Colombia,1341,n/a,15,2.5,2.7,1.4,n/a,n/a,1,4.1,1
+2024,296850,Mexico,Universidad de Guanajuato,1342,n/a,7.9,3,5.9,3,6,1.4,1.1,8.7,1.2
+2024,296837,Chile,Universidad de La Frontera (UFRO),1343,n/a,9.7,4.4,3.6,8.5,6.6,1.2,9.4,9,2.1
+2024,295434,Ecuador,Universidad de Las Américas Ecuador,1344,n/a,7.1,4.5,12.6,1.6,22.8,2.5,1.1,10.6,1
+2024,295188,Colombia,Universidad de Medellín,1345,n/a,6.9,5.2,6.8,2.1,3.4,1.8,1,8.4,1.8
+2024,293456,Panama,Universidad de Panamá - UP,1346,n/a,6.5,8,3.2,1.1,4.9,2.3,1,13.7,1.2
+2024,296891,Peru,Universidad de Piura,1347,n/a,6.4,10.2,4.5,1.2,8.4,1,1,17.1,1.6
+2024,293461,Guatemala,Universidad de San Carlos de Guatemala,1348,n/a,9.3,7.6,3.9,1,n/a,n/a,1,20.6,1
+2024,293464,Chile,Universidad de Valparaíso (UV),1349,n/a,10.4,6.8,7.8,3.5,7.2,1.8,4.6,8.5,6.3
+2024,293763,Ecuador,Universidad de las Fuerzas Armadas ESPE (Ex - Escuela Politécnica del Ejército),1350,n/a,5.1,5.4,9.4,1.4,3,1.1,1,7.3,6.7
+2024,296835,Chile,Universidad del Bío-Bío,1351,n/a,8.6,4.2,2.9,3.8,9.7,1.4,1.4,4.1,1.1
+2024,296877,Colombia,Universidad del Cauca,1352,n/a,9.5,4,5.3,1.8,23.6,1.1,1,4.5,1
+2024,295087,Chile,Universidad del Desarrollo (UDD),1353,n/a,6.6,14.6,12.9,2.2,7.6,2,1.1,8.4,3.5
+2024,296824,Argentina,Universidad del Salvador,1354,n/a,4.3,9,16.7,1,5.3,8,1,7.1,n/a
+2024,293719,Venezuela,Universidad del Zulia,1355,n/a,10.9,7.6,3.2,2.4,n/a,n/a,1,10.9,1
+2024,296852,Brazil,Universidade Federal Fluminense ,1356,n/a,10,2.3,11.7,3.7,5.3,1.1,10.1,7.6,4.1
+2024,296869,Brazil,Universidade Federal da Bahia,1357,n/a,9.1,2.4,8.9,3.1,5.4,1.5,4.3,8.1,4.4
+2024,293549,Brazil,Universidade Federal de Juiz de Fora- (UFJF),1358,n/a,3.6,2.3,31.4,3,n/a,n/a,1.4,3.8,1
+2024,293553,Brazil,Universidade Federal de Pelotas ,1359,n/a,5.1,1.4,27,5,n/a,1.4,1.2,3.8,1.1
+2024,293555,Brazil,Universidade Federal de Santa Maria,1360,n/a,6.5,1.6,15.8,5.2,2.6,1.2,3.4,9.6,17.8
+2024,293561,Brazil,Universidade Federal de Viçosa (UFV),1361,n/a,5,2.3,13.3,8.7,2.9,1.8,1.1,4.4,1.8
+2024,296870,Brazil,Universidade Federal do Ceará (UFC),1362,n/a,7.3,3.1,7.7,5.8,1.4,1.3,3.2,4.3,24.8
+2024,293576,Brazil,Universidade Presbiteriana Mackenzie,1363,n/a,3.5,7.6,10.6,1.9,5.1,1,1,37,1
+2024,293529,Brazil,Universidade do Estado do Rio de Janeiro (UERJ),1364,n/a,9.4,4,17.6,2.6,3.8,1.2,5.7,7.6,2.4
+2024,293823,Indonesia,Universitas Islam Indonesia,1365,n/a,10.4,3.8,2,1.7,2.3,1.2,1,7.6,1.8
+2024,892782,Indonesia,Universitas Muhammadiyah Yogyakarta,1366,n/a,6.3,2.5,2.8,1.4,36.6,2,1,7.4,1
+2024,295095,Indonesia,Universitas Pendidikan Indonesia,1367,n/a,9.6,3.1,11,1.4,14.6,1.7,1,7.9,3.4
+2024,377197,Indonesia,Universitas Sumatera Utara,1368,n/a,7.6,6.2,21,1.3,9.8,2.4,1,9.2,5.3
+2024,296481,Romania,Universitatea de Vest din Timisoara /  West University of Timisoara,1369,n/a,9.6,6.3,4.8,2.6,1.6,5.2,1.1,8.2,1.1
+2024,295648,Malaysia,Universiti Sains Islam Malaysia,1370,n/a,6,2.9,9.2,1.9,9,6.7,1,4.2,1
+2024,309681,Malaysia,UNIVERSITI TEKNIKAL MALAYSIA MELAKA,1371,n/a,6,6.2,9.8,5.4,3.5,5.7,1.2,9.2,4.3
+2024,296924,Romania,University POLITEHNICA of Bucharest,1372,n/a,5.7,8.7,3.5,6.4,1.5,2.8,17.9,6.4,1.2
+2024,295974,Iraq,University of Babylon,1373,n/a,3.6,6.3,13.2,1.9,1.1,1,1.6,9.7,2.6
+2024,294199,Iraq,University of Basrah,1374,n/a,4.4,6,15.9,1.4,1.3,1.1,1.4,9.3,1
+2024,296498,Poland,University of Bialystok,1375,n/a,5.8,3.1,28.1,2.5,n/a,5.2,1.5,6.1,1
+2024,3815813,United States,University of Central Oklahoma,1376,n/a,3.8,1.5,7.9,1.4,16.8,10.9,1,9.4,n/a
+2024,295217,Iceland,University of Iceland,1377,n/a,7.8,5.5,n/a,n/a,n/a,n/a,37.9,n/a,n/a
+2024,294988,China (Mainland),University of International Business and Economics,1378,n/a,3.8,1.8,10.2,2.7,7.4,32.8,1,14.8,1.1
+2024,294213,Sudan,University of Khartoum,1379,n/a,6.2,4.5,8,2.5,n/a,1.4,3.9,24.9,1.1
+2024,293820,Iraq,University of Kufa,1380,n/a,3.3,8.5,30.6,1.4,4.7,1.1,1,8.8,1
+2024,294744,United States,University of Memphis,1381,n/a,3.1,5.1,14.9,8.9,2.1,4.4,5,10.7,n/a
+2024,297405,Hungary,University of Miskolc ,1382,n/a,6.2,5.2,23.6,2.3,3.1,6.6,1.2,12.7,1.1
+2024,295261,United States,University of Missouri Saint Louis,1383,n/a,4,3.6,16.2,14.2,4.8,4.2,1,11.5,n/a
+2024,295221,United States,University of Montana Missoula ,1384,n/a,2.5,2.6,11.8,9.2,1.3,1.7,1,8.3,3.5
+2024,888038,Serbia,University of Niš,1385,n/a,5.2,3.7,13.2,2.4,n/a,6.2,6.1,9.1,1.1
+2024,295064,United States,University of North Carolina at Greensboro,1386,n/a,2.9,2.8,9.2,10.6,9.7,2.6,7.6,7.1,n/a
+2024,297529,Czechia,University of Ostrava,1387,n/a,6,1,19.9,4.1,18.6,12.3,1.8,7.7,1.2
+2024,888040,Hungary,University of Pannonia,1388,n/a,4.5,3.5,23.7,8.3,n/a,9.2,5.9,5.8,1
+2024,294668,Sri Lanka,University of Peradeniya ,1389,n/a,7.8,9.9,14.9,2,1,1.3,2.2,10.8,2.2
+2024,371300,Croatia,University of Rijeka,1390,n/a,5.9,2.7,17.1,4.3,2.6,1.9,5.7,10.1,2.6
+2024,296496,Poland,University of Rzeszów,1391,n/a,4.3,1.9,17.8,2.6,n/a,1.7,2,6.1,1
+2024,296425,Philippines,University of San Carlos,1392,n/a,6.2,8.6,3.4,1.8,1.9,2.2,1,9.4,n/a
+2024,297472,United States,University of San Diego,1393,n/a,6.8,4.4,24.9,2.8,3.1,6,1,17.2,1
+2024,293747,Bosnia & Herzegovina,University of Sarajevo ,1394,n/a,4.2,3.5,3.8,2,n/a,3,7,38.2,1
+2024,296499,Poland,University of Silesia in Katowice,1395,n/a,5.3,4.3,17.2,3.3,3.3,3.3,11.5,8.3,1.4
+2024,294321,United States,University of South Alabama (USA),1396,n/a,5.3,4.4,17.3,6.5,n/a,1.8,1.1,7.6,1.2
+2024,888034,Croatia,University of Split,1397,n/a,5.9,2.5,4.2,3.9,1.5,2.1,5.9,11,1.4
+2024,3786723,Poland,University of Warmia and Mazury in Olsztyn,1398,n/a,6,10.8,24.2,3.5,2,2.7,4.3,6.3,1.3
+2024,297539,Czechia,University of West Bohemia ,1399,n/a,5.9,2,11.9,4.3,n/a,n/a,2.7,11.4,1
+2024,297586,United States,University of the Pacific,1400,n/a,2.2,3.7,34.3,3.4,4.2,7.2,1,10.8,1
+2024,297086,Italy,Università degli studi di Bergamo,1401,n/a,5.7,2.3,1.5,6.3,8.4,6.4,1.4,8.5,1.1
+2024,293988,France,Université Jean Moulin Lyon 3,1402,n/a,8.9,3.4,1.8,2.2,25.5,30.8,1,7.1,1.1
+2024,295836,Morocco,Université Mohammed V de Rabat,1403,n/a,3.1,2.2,1.6,4,3.7,2.6,17.6,22,2.7
+2024,297532,France,Université Paris-Nanterre,1404,n/a,11.9,2.4,3,3,9.9,1.5,14.6,15.2,1.9
+2024,296635,France,Université de Franche-Comté,1405,n/a,5.8,2.1,n/a,n/a,n/a,n/a,46,n/a,n/a
+2024,296623,France,Université de Limoges,1406,n/a,6.1,1.9,18.2,7.2,n/a,n/a,16.7,6.4,n/a
+2024,293353,Tunisia,Université de Tunis,1407,n/a,6.1,2.5,17.3,1.9,2.2,1.8,1,15.5,1
+2024,296472,Russia,Voronezh State University,1408,n/a,5.9,2.3,19.9,1.3,3.4,25.6,1,6.6,1.4
+2024,296808,Indonesia,Universitas Negeri Yogyakarta,1409,n/a,9.6,2.8,8,1.4,15.4,1.8,1,7.8,1
+2024,295281,South Korea,Youngsan University,1410,n/a,5.7,10.6,17.5,1.3,2.8,5.9,1,6.6,n/a
+2024,294697,False,Yuan Ze University,1411,n/a,5.4,5.4,7.4,10.6,7,9.6,1,7.9,1
+2024,297612,Egypt,Zagazig University,1412,n/a,6.6,3.8,2.9,2.4,1.2,2.4,15.3,2.8,7.7
+2024,921176,Hungary,Óbuda University,1413,n/a,4.5,3.9,2.1,6.6,13.6,7.6,1.3,5.6,1
+2024,297380,Turkey,Akdeniz Üniversitesi,1414,n/a,5.2,3.8,3.4,2.8,1.2,1.1,1.9,7.5,1
+2024,295559,Jordan,Al-Balqa Applied University,1415,n/a,5,6.7,4.3,2.4,3.8,1.8,2,7.6,1
+2024,955846,Turkey,Ataturk University,1416,n/a,4.9,2,2.8,3.9,2.7,3.6,2.3,9.4,4.3
+2024,309640,United States,California State University - Los Angeles,1417,n/a,5.4,2.5,3.5,3.2,4,5.6,1.1,9.5,n/a
+2024,294509,Turkey,Cukurova University,1418,n/a,4.4,2.8,4.5,2.5,2.1,5,3.8,6.9,13.9
+2024,293777,Georgia,Georgian Technical University ,1419,n/a,6.3,4.2,n/a,n/a,n/a,n/a,1,n/a,n/a
+2024,297321,India,Guru Gobind Singh Indraprastha University,1420,n/a,3.3,2.6,n/a,n/a,n/a,n/a,1,n/a,n/a
+2024,295254,United States,Humboldt State University,1421,n/a,3.8,2.2,8.9,4.6,2.3,1.6,1,7.9,n/a
+2024,295247,United States,Illinois State University,1422,n/a,3.7,3.5,5.9,5.2,4.9,2.5,1.1,10.9,n/a
+2024,297318,India,Indian Statistical Institute,1423,n/a,7.5,3.4,n/a,n/a,n/a,n/a,1.9,n/a,n/a
+2024,297031,Bangladesh,"International University of Business, Agriculture and Technology (IUBAT)",1424,n/a,5.9,3.6,n/a,n/a,n/a,n/a,1,n/a,n/a
+2024,296466,Russia,Irkutsk State University,1425,n/a,3.6,1.6,17.6,1.4,1.9,3.8,1.1,8.7,1.5
+2024,3897792,Bangladesh,Khulna University,1426,n/a,5.9,5.3,n/a,n/a,n/a,n/a,1,n/a,n/a
+2024,294209,Ghana,Kwame Nkrumah University of Science and Technology,1427,n/a,5.9,7.6,n/a,n/a,n/a,n/a,10.8,n/a,n/a
+2024,295687,Russia,MIREA - Russian Technological University,1428,n/a,5.2,4.9,7.5,1.4,1.3,3.4,1,7.3,1
+2024,371288,Russia,Moscow City University,1429,n/a,6.1,1.6,9.3,1.1,2.9,3.6,1,7.6,1.2
+2024,295239,Japan,Nara Institute of Science and Technology ,1430,n/a,5.6,2.3,n/a,n/a,n/a,n/a,1.5,n/a,n/a
+2024,293378,Brazil,Pontifícia Universidade Católica de Campinas,1431,n/a,4.9,3.3,6.4,2,2.4,1.2,1,9.6,1
+2024,293379,Brazil,Pontifícia Universidade Católica do Minas Gerais,1432,n/a,5,3.8,1.6,1.5,n/a,n/a,1,6.2,1
+2024,293380,Brazil,Pontifícia Universidade Católica do Paraná,1433,n/a,4.3,2.7,6,4.2,1.9,1.4,1.4,5.6,1
+2024,297027,Bangladesh,Rajshahi University,1434,n/a,9.2,9.7,n/a,n/a,n/a,n/a,1.1,n/a,n/a
+2024,888041,Turkey,Sakarya University,1435,n/a,3.7,3,2.8,3.1,1.7,12.6,1.3,7.5,1
+2024,296817,Bangladesh,Shahjalal University of Science and Technology,1436,n/a,6.8,8.9,n/a,n/a,n/a,n/a,1,n/a,n/a
+2024,294965,Taiwan,Soochow University (Taiwan),1437,n/a,4.7,6,4.3,1.8,4,4,1,8.3,2.2
+2024,297025,Bangladesh,Stamford University Bangladesh,1438,n/a,10,2.8,n/a,n/a,n/a,n/a,1,n/a,n/a
+2024,296936,Indonesia,State University of Malang,1439,n/a,5.3,2.3,7.9,1.7,9.9,1.3,1,7.5,1
+2024,295331,Sudan,Sudan University of Science and Technology,1440,n/a,4.1,2.7,3.2,1.2,1.9,1.6,1,9.4,1
+2024,293757,Greece,Technical University of Crete,1441,n/a,5.9,5.4,n/a,n/a,n/a,n/a,2.6,n/a,n/a
+2024,296589,Germany,Technische Universität Bergakademie Freiberg,1442,n/a,5.5,4.6,n/a,n/a,n/a,n/a,4.9,n/a,n/a
+2024,295862,Germany,Technische Universität Hamburg,1443,n/a,8.8,5.6,n/a,n/a,n/a,n/a,2.8,n/a,n/a
+2024,296581,Germany,Technische Universität Kaiserslautern,1444,n/a,6.5,3.2,n/a,n/a,n/a,n/a,10.8,n/a,n/a
+2024,309757,Australia,"The University of Notre Dame, Australia",1445,n/a,3.2,4.2,3.1,7.6,2.9,1.5,1,6.2,1
+2024,399504,Ecuador,Universidad Politécnica Salesiana,1446,n/a,6,3,3.7,1.5,7,1.7,1,6.1,1
+2024,296931,Indonesia,Udayana University,1447,n/a,5.6,3.9,6.5,1.3,3.6,9.6,1,5,1.1
+2024,296855,Mexico,Universidad Autonoma de Yucatan,1448,n/a,5.6,1.5,5,2.4,2.3,1.1,1,3.9,1
+2024,295884,Chile,Universidad Autónoma de Chile,1449,n/a,5.5,2.2,4.9,2.9,11.1,1.4,1.9,8.5,1.7
+2024,293402,Mexico,Universidad Autónoma de Querétaro (UAQ),1450,n/a,4.9,2.9,5.2,2.4,5.4,1.6,1,6,1
+2024,293403,Mexico,Universidad Autónoma de San Luis de Potosí,1451,n/a,6.2,2.4,5.5,2.4,1.6,1.4,1.3,3.9,1.2
+2024,293411,Mexico,Universidad Autónoma del Estado de Morelos (UAEM),1452,n/a,4,2.2,13,1.6,3.2,1.1,1.1,4,3.8
+2024,293694,Bolivia,"Universidad Católica Boliviana ""San Pablo""",1453,n/a,5.3,3.2,3.9,1.1,2.5,3,1,16.1,n/a
+2024,293416,Colombia,Universidad Católica de Colombia ,1454,n/a,6.4,4.9,5.2,1.5,3.2,1.3,1,7.9,1.6
+2024,293417,Chile,Universidad Católica de la Santísima Concepción (UCSC),1455,n/a,3.7,2.4,8.6,2.6,5.5,1.1,1.2,4.1,1.4
+2024,293418,Ecuador,Universidad Católica de Santiago de Guayaquil,1456,n/a,3.9,4.2,2.9,1.3,6.9,1.3,1,14.4,1
+2024,293425,Chile,Universidad Central de Chile ,1457,n/a,4.8,3.2,3.2,1.7,4.2,1.9,1,4.1,1
+2024,293689,Bolivia,Universidad Mayor de San Simón,1458,n/a,5,2.6,1.2,1.1,n/a,1.1,1,17.1,1
+2024,293493,Mexico,Universidad de San Nicolás de Hidalgo,1459,n/a,3.9,1.8,2.9,2.1,n/a,n/a,1.1,3.9,1
+2024,293495,Honduras,Universidad Nacional Autónoma de Honduras (UNAH),1460,n/a,4.1,5,2.9,1,1.7,n/a,1,22.4,1
+2024,294405,Argentina,Universidad Nacional de Quilmes,1461,n/a,7.4,2.2,3.2,1.8,3.1,1.8,1,5.1,1
+2024,296829,Argentina,Universidad Nacional de Tucumà¡n,1462,n/a,7.4,2.7,2.6,1.6,n/a,n/a,2.3,5.1,1
+2024,293502,Argentina,Universidad Nacional del Sur,1463,n/a,5.9,2.5,14.1,1.8,n/a,n/a,2.1,5.1,1.1
+2024,296050,Ecuador,Universidad Técnica Particular de Loja,1464,n/a,5.1,2.8,1.2,1.6,9.3,1.3,1,9.5,3.9
+2024,295251,Colombia,Universidad Tecnológica de Bolívar,1465,n/a,2.6,5.4,2.8,2.5,8.3,6.6,1,9,1
+2024,296879,Colombia,Universidad Tecnológica de Pereira,1466,n/a,4,7.1,3.3,1.9,1.4,1,1,6.7,1
+2024,293433,Colombia,Universidad de Caldas ,1467,n/a,5.4,4,3,1.5,n/a,n/a,1,6.2,1
+2024,293440,Ecuador,Universidad de Cuenca,1468,n/a,6.3,2.3,4.4,2.3,3.3,1.5,1.1,6.1,1.1
+2024,296883,Colombia,Universidad de La Salle,1469,n/a,6.3,4.8,5.8,1.3,2.2,1.5,1,7.3,1.1
+2024,296845,Chile,Universidad de La Serena,1470,n/a,3.9,2,3,7.3,4.7,1.3,1,7.7,1.2
+2024,293463,Colombia,Universidad de Santander - UDES,1471,n/a,3.8,2.9,6.7,1.3,8.7,1.6,1,8,1
+2024,296853,Mexico,Universidad de Sonora,1472,n/a,4,1.7,4.5,1.8,3.7,1.5,1,8.2,1
+2024,296842,Chile,Universidad de Tarapaca,1473,n/a,3.6,2.3,2.1,8,n/a,n/a,2.6,4.1,1
+2024,296882,Colombia,Universidad del Magdalena,1474,n/a,4.2,4.6,2.7,1.3,6.4,1.3,1,6.4,1
+2024,293478,Mexico,Universidad del Valle de México (UVM),1475,n/a,3.7,13.3,4.6,1,1.2,1.3,1,4.2,1
+2024,293533,Brazil,Universidade Estadual de Londrina,1476,n/a,3.5,2.5,13.4,3.5,2.2,1.3,1.1,3.8,3.4
+2024,293543,Brazil,Universidade Federal da Paraíba,1477,n/a,4.1,2.7,8.7,3.1,2.7,1.1,3.3,3.8,1.4
+2024,293547,Brazil,Universidade Federal de Goiás,1478,n/a,3.6,1.6,7.1,4.2,3.7,1.3,1.5,3.8,1.4
+2024,293560,Brazil,Universidade Federal de Uberlândia,1479,n/a,3.6,1.9,12.6,3.5,2.2,1.3,1.8,3.8,10.9
+2024,293565,Brazil,Universidade Federal do Estado do Rio de Janeiro,1480,n/a,3.2,1.9,10,2.1,n/a,n/a,1,3.8,1
+2024,293568,Brazil,Universidade Federal do Pará,1481,n/a,3.4,1.8,6.7,2.5,2.8,1.1,1.9,3.8,6.4
+2024,295220,Brazil,Universidade Federal do Rio Grande Do Norte,1482,n/a,4.6,1.5,8.6,3.2,n/a,n/a,5.6,3.8,1.4
+2024,293527,Brazil,Universidade do Estado de Santa Catarina,1483,n/a,3.9,1.3,20.2,1.6,n/a,n/a,1,5.1,1
+2024,295092,Indonesia,Universitas Andalas,1484,n/a,6.9,3.9,4.9,1.4,2.1,1.1,1,6.1,1.1
+2024,293659,Indonesia,Petra Christian University,1485,n/a,6.1,4.2,7.3,1.6,2.7,1.4,1,8.1,n/a
+2024,296962,Indonesia,Universitas Muhammadiyah Surakarta,1486,n/a,5.3,2.4,7.8,1.1,6.5,1.1,1,7.1,1.4
+2024,295861,Romania,"Politehnica University Timisoara, UPT",1487,n/a,4,3.4,8.6,3.6,1.2,2.9,1.3,8.5,1
+2024,296478,Romania,University of Craiova,1488,n/a,4.1,2,2.9,2,n/a,n/a,1.1,7.9,1
+2024,294250,Nigeria,University of Ibadan,1489,n/a,9,6.6,n/a,n/a,n/a,n/a,8.2,n/a,n/a
+2024,921151,Serbia,University of Kragujevac,1490,n/a,4,2.4,10.3,3.6,1,1.1,2.7,9.2,1
+2024,294218,Nigeria,University of Lagos,1491,n/a,7.4,5.6,n/a,n/a,n/a,n/a,1.5,n/a,n/a
+2024,295267,Indonesia,University of Lampung,1492,n/a,3.4,1.8,4.7,1.3,1,1,1,5.8,n/a
+2024,296928,Indonesia,University of Mataram,1493,n/a,4.9,1.6,3.5,1.1,1.2,1,1,5,n/a
+2024,293616,Romania,University of Oradea,1494,n/a,5,2,3.6,1.7,1.6,7,1.8,5.9,2.2
+2024,296528,Norway,University of Stavanger,1495,n/a,7.2,5.7,n/a,n/a,n/a,n/a,26.3,n/a,n/a
+2024,294792,France,Université Paris 13 Nord,1496,n/a,9.5,5.1,n/a,n/a,n/a,n/a,14.3,n/a,n/a
+2024,295260,United States,Western Washington University ,1497,n/a,2.8,3.4,7,4.3,14.5,1.4,1,7.3,n/a
+2024,297621,Switzerland,Zurich University of Applied Sciences (ZHAW),1498,n/a,5.7,6.7,n/a,n/a,n/a,n/a,1.7,n/a,n/a
